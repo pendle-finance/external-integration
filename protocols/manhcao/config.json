@@ -1,0 +1,30 @@
+{
+  "name": "manh cao",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9p7V2kolOEE0d6HhNrEkrVuu861_gQYV2vhGk3Nxg7FS3Ic9lUFwJHHUU-w&s",
+  "metadata": {
+    "pt": [
+      {
+        "chainId": 1,
+        "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
+        "integrationUrl": "https://www.pendle.magpiexyz.io/stake",
+        "description": "hello it's pt"
+      }
+    ],
+    "yt": [
+      {
+        "chainId": 1,
+        "address": "0x1cae47aa3e10a77c55ee32f8623d6b5acc947344",
+        "integrationUrl": "https://www.pendle.magpiexyz.io/stake",
+        "description": "hello it's yt"
+      }
+    ],
+    "lp": [
+      {
+        "chainId": 1,
+        "address": "0xcae62858db831272a03768f5844cbe1b40bb381f",
+        "integrationUrl": "https://www.pendle.magpiexyz.io/stake",
+        "description": "hello it's lp"
+      }
+    ]
+  }
+}
