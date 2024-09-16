@@ -54,3 +54,16 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
   }
 }
 ```
+
+## How to Contribute
+
+To add a new protocol or update existing data:
+
+1. Clone this repository.
+2. Add or update the JSON file with the new protocol information in the specified format.
+3. Submit a pull request for review.
+
+Please ensure that:
+
+ - All fields are correctly filled.
+ - The integration URL is valid and points to the appropriate page.
