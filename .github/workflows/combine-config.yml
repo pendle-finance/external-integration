@@ -3,7 +3,9 @@ name: Combine JSON configuration files
 on:
   push:
     branches:
-      - manh/init-repo
+      - '*'
+    branches-ignore:
+      - 'main'
 
 jobs:
   merge_json_files:
