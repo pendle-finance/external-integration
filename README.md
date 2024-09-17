@@ -59,7 +59,7 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 
 To add a new protocol or update existing data:
 
-1. Clone this repository.
+1. Fork this repository.
 2. Add or update the JSON file with the new protocol information in the specified format.
 3. Submit a pull request for review.
 
