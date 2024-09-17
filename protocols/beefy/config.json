@@ -1,0 +1,130 @@
+{
+    "name": "Contango",
+    "icon": "logo.png",
+    "metadata": {
+      "pt": [],
+      "yt": [],
+      "lp": [
+        {
+            "chainId": 1,
+            "address": "0x36d3ca43ae7939645c306e26603ce16e39a89192",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-ebtc-26dec24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6010676bc2534652ad1ef5fa8073dcf9ad7ebfbe",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-ageth-26dec24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x84a50177a84dad50fdbf665dfbfb39914b52dff2",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-rseth-26dec24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x281fe15fd3e08a282f52d5cf09a4d13c3709e66d",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-usde-28nov24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x40789e8536c668c6a249af61c81b9dfac3eb8f32",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-weeths-26dec24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x00b321d89a8c36b3929f20b7955080baed706d1b",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-usd0-31oct24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x038c1b03dab3b891afbca4371ec807edaa3e6eb6",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-rsweth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0xbae2df4dfcd0c613018d6056a40077f2d1eff28a",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-unieth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa877a0e177b54a37066c1786f91a1dab68f094af",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-gusdc-26dec24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x279b44e48226d40ec389129061cb0b56c5c09e46",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-unieth-26dec24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x905a5a4792a0c27a2adb2777f98c577d320079ef",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-weethk-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xb4781463a1261f60fca37732efa510c22dec5ada",
+            "integrationUrl": "https://app.beefy.com/vault/equilibria-arb-seth-ezeth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5f3c781b3a20299db27c8fc5f4415d895677c885",
+            "integrationUrl": "https://app.beefy.com/vault/equilibria-arb-seth-eeth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2ad746fa3faa0ad586021a633d10f4e2785a0349",
+            "integrationUrl": "hhttps://app.beefy.com/vault/equilibria-arb-seth-rseth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf9f9779d8ff604732eba9ad345e6a27ef5c2a9d6",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-eeth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xed99fc8bdb8e9e7b8240f62f69609a125a0fbf14",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-rseth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x35f3db08a6e9cb4391348b0b404f493e7ae264c0",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-ezeth-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2fb73d98b1d60b35fd12508933578098f352ce7e",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-dusdc-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0x386f90eb964a477498b528a39d9405e73ed4032b",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-crvusd-26sep24",
+            "description": "LP yield optimization through Beefy"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc374f7ec85f8c7de3207a10bb1978ba104bda3b2",
+            "integrationUrl": "https://app.beefy.com/vault/pendle-steth-25dec25",
+            "description": "LP yield optimization through Beefy"
+        }
+      ]
+    }
+  }
