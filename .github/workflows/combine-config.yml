@@ -26,7 +26,7 @@ jobs:
           git config --global user.name "$GIT_USERNAME"
           git config --global user.email "$GIT_EMAIL"
           git add config.json
-          git commit -m "Merge JSON files"
+          git diff-index --quiet HEAD || git commit -m "Merge JSON files"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
