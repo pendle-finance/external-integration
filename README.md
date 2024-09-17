@@ -11,12 +11,12 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 #### Protocols fields
 
  - name: The name of the protocol.
- - icon: The protocol’s logo.
+ - icon: The protocol’s logo. (circular log in PNG or SVG recommended)
  - metadata: This section contains detailed information about the protocol's integration assets.
 
 #### Asset fields
  - chainId: chainId of the integrated assets
- - address: Address of the integrated assets
+ - address: Market Address of the integrated assets
  - integrationUrl: Link to the page that integrated the asset
  - description: Description of the asset
 
@@ -25,7 +25,7 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 ```json
 {
   "name": "Protocol Name 2",
-  "icon": "logo.jpeg",
+  "icon": "logo.png",
   "metadata": {
     "pt": [
       {
