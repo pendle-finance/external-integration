@@ -67,3 +67,5 @@ Please ensure that:
 
  - All fields are correctly filled.
  - The integration URL is valid and points to the appropriate page.
+
+
