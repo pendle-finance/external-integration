@@ -48,6 +48,10 @@ function validateConfig(protocol) {
     throw new Error(`protocol ${protocol}: invalid field 'icon'`);
   }
 
+  if (!(icon.endsWith('.png') && icon.length > 4)) {
+    throw new Error(`protocol ${protocol}: icon must be a valid png image`);
+  }
+
   if (typeof metadata !== 'object') {
     throw new Error(`protocol ${protocol}: invalid field 'metadata'`);
   }
