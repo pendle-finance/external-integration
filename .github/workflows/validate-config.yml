@@ -34,5 +34,7 @@ jobs:
 
       - name: Validate JSON files
         run: |
+          echo $HEAD_SHA
+          echo $MAIN_SHA
           CHANGED_PROTOCOLS=$(git diff --name-only $HEAD_SHA $MAIN_SHA -- 'protocols/*' | grep -v '^D' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
           CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS node validate-config.js
