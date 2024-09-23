@@ -1,0 +1,166 @@
+{
+  "name": "Marginly",
+  "icon": "logo.png",
+  "metadata": {
+    "pt": [
+      {
+        "chainId": 1,
+        "address": "0x332A8ee60EdFf0a11CF3994b1b846BBC27d3DcD6",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x0F5f14C2ed1161640891703A4988E59A4930b79d",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x76F327150224393ff07AAFA3449FBB23103fb279",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0xF6fd7Ceb095BfD54130359Cc9366a1493944213A",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x1D27254125246873a19580B7364BFf322c5DEF0f",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0xB997B3418935A1Df0F914Ee901ec83927c1509A0",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0xD53A899B731C52Eeb0f9750b6b507e543661D763",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x7aa68E84bCD8d1B4C9e10B1e565DB993f68a3E09",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0xB07b9fDd62DC478E521E8bDe3630a777725B0eB4",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x96056fC19b633a662FE0366c8cDd38C371407De4",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0xdBD8a24E780E7661c5c9f66310A3D4Ad309cD763",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x15fA86404BFbA8b46684552F792558128bFB6418",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x7bAf258049cc8B9A78097723dc19a8b103D4098F",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x7fB0D250D4768E8590cB3c459549C7e33481511E",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0xf7906F274c174A52d444175729E3fa98f9bde285",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x248241244356D18f63d0c16082996839ecB0C7bF",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x1c085195437738d73d75DC64bC5A3E098b7f93b1",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 1,
+        "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+        "integrationUrl": "https://app.marginly.com/mainnet/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0x1FA42e6730DF74fF2742704761Da41111bB7F019",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0x2Be6Fab4d1408e7ad6AD91cE7B77FA2A7670782f",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0x355ec27c9d4530dE01A103FA27F884a2F3dA65ef",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0x30c98c0139B62290E26aC2a2158AC341Dcaf1333",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0x22e9aD26eA0e65a7073571d5D7172ff6336084AD",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0xb8b0a120F6A68Dd06209619F62429fB1a8e92feC",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      },
+      {
+        "chainId": 42161,
+        "address": "0x2CCFce9bE49465CC6f947b5F6aC9383673733Da9",
+        "integrationUrl": "https://app.marginly.com/arbitrum/farm",
+        "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+      }
+    ],
+    "yt": [],
+    "lp": []
+  }
+}
