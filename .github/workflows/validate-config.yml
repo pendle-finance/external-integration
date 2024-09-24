@@ -5,6 +5,7 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - 'main'
+      - 'add-deploy-key'
 
 jobs:
   validate_json_files:
