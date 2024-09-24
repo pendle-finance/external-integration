@@ -6,6 +6,11 @@ function isValidEthereumAddress(address) {
   return ethereumAddressPattern.test(address);
 }
 
+function isKebabCase(str) {
+  const kebabCaseRegex = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+  return kebabCaseRegex.test(str);
+}
+
 async function main() {
   const CHANGED_PROTOCOLS = process.env.CHANGED_PROTOCOLS;
 
@@ -24,8 +29,28 @@ async function main() {
 }
 
 function validateConfig(protocol) {
-  const protocolsPath = path.join(__dirname, 'protocols');
-  const configPath = path.join(protocolsPath, protocol, 'config.json');
+  if (!isKebabCase(protocol)) {
+    throw new Error(`protocol ${protocol}: protocol name must be in kebab-case`);
+  }
+
+  const protocolsPath = path.join(__dirname, 'protocols', protocol);
+
+  // check protocol folder exists or not, if not exists we bypass cause it's a deleted protocol
+  try {
+    const stats = fs.statSync(protocolsPath);
+    if (!stats.isDirectory()) {
+      throw new Error(`protocol ${protocol}: protocols/${protocol} is a file, not a folder`);
+    }
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      // folder not exists
+      return;
+    } else {
+      throw new Error(`protocol ${protocol}: An error occur when read protocol folder: ${err}`);
+    }
+  }
+
+  const configPath = path.join(protocolsPath, 'config.json');
 
   if (!fs.existsSync(configPath)) {
     throw new Error(`protocol ${protocol}: config.json not found`);
@@ -56,7 +81,7 @@ function validateConfig(protocol) {
     throw new Error(`protocol ${protocol}: invalid field 'metadata'`);
   }
 
-  const iconPath = path.join(protocolsPath, protocol, icon);
+  const iconPath = path.join(protocolsPath, icon);
   if (!fs.existsSync(iconPath)) {
     throw new Error(`protocol ${protocol}: icon path not found for protocol ${icon}`);
   }
