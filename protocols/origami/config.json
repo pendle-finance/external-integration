@@ -1,0 +1,16 @@
+{
+  "name": "Origami",
+  "icon": "logo.png",
+  "metadata": {
+    "pt": [
+      {
+        "chainId": 1,
+        "address": "0xbbf399db59a845066aafce9ae55e68c505fa97b7",
+        "integrationUrl": "https://origami.finance/vaults/1-0xb9dad3693AEAc9025Cb24a47AFA6930539877187/info",
+        "description": "A 5x leveraged position on PT sUSDe OCT 2024"
+      }
+    ],
+    "yt": [],
+    "lp": []
+  }
+}
