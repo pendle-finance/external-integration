@@ -141,7 +141,7 @@
           {
             "chainId": 1,
             "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=1",
+            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
             "description": "PT leverage looping through various supported money markets"
           },
           {
@@ -159,7 +159,7 @@
           {
             "chainId": 42161,
             "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=42161",
+            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=42161",
             "description": "PT leverage looping through various supported money markets"
           }
         ],
