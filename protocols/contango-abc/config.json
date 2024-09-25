@@ -1,0 +1,28 @@
+{
+  "name": "Contango",
+  "icon": "logo.png",
+  "metadata": {
+    "pt": [
+      {
+        "chainId": 42161,
+        "address": "0x30c98c0139b62290e26ac2a2158ac341dcaf1333",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
+        "description": "PT leverage looping through various supported money markets"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x2ccfce9be49465cc6f947b5f6ac9383673733da9",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
+        "description": "PT leverage looping through various supported money markets"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xb8b0a120f6a68dd06209619f62429fb1a8e92fec",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
+        "description": "PT leverage looping through various supported money markets"
+      }
+    ],
+    "yt": [],
+    "lp": []
+  }
+}

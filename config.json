@@ -12,7 +12,7 @@
             "chainId": 1,
             "address": "0x36d3ca43ae7939645c306e26603ce16e39a89192",
             "integrationUrl": "https://app.beefy.com/vault/pendle-ebtc-26dec24",
-            "description": "LP yield optimization through Beefy"
+            "description": "LP yield optimization through Beefy-abc"
           },
           {
             "chainId": 1,
