@@ -5,7 +5,7 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - 'main'
-      - 'fix-config-json-validation'
+      - 'fix-config-json-validataion'
 
 jobs:
   validate_json_files:
