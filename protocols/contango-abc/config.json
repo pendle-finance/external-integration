@@ -1,0 +1,34 @@
+{
+  "name": "Contango",
+  "icon": "logo.png",
+  "metadata": {
+    "pt": [
+      {
+        "chainId": 1,
+        "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=1",
+        "description": "PT leverage looping through various supported money markets"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
+        "description": "PT leverage looping through various supported money markets"
+      },
+      {
+        "chainId": 1,
+        "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
+        "description": "PT leverage looping through various supported money markets"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
+        "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=42161",
+        "description": "PT leverage looping through various supported money markets"
+      }
+    ],
+    "yt": [],
+    "lp": []
+  }
+}
