@@ -16,10 +16,10 @@ async function run() {
   for (const protocolId of protocolIds) {
     const configPath = path.join(protocolsPath, protocolId, 'config.json');
     const protocolConfigStr = fs.readFileSync(configPath, 'utf8');
-    const protocolConfig = {
+    const protocolConfig = formatProtocolConfig({
       id: protocolId,
       ...JSON.parse(protocolConfigStr)
-    }
+    })
 
     const {icon} = protocolConfig;
 
@@ -34,6 +34,22 @@ async function run() {
       console.error('Error writing to file', err);
     }
   });
+}
+
+function formatProtocolConfig(config) {
+  const {metadata} = config;
+  const {pt, yt, lp} = metadata;
+  lowercaseAddressOfMetadata(pt);
+  lowercaseAddressOfMetadata(yt);
+  lowercaseAddressOfMetadata(lp);
+
+  return config;
+}
+
+function lowercaseAddressOfMetadata(assets) {
+  for (const asset of (assets ?? [])) {
+    asset.address = asset.address.toLowerCase();
+  }
 }
 
 function createMD5(filePath) {

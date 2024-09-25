@@ -141,7 +141,7 @@
           {
             "chainId": 1,
             "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=1",
+            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
             "description": "PT leverage looping through various supported money markets"
           },
           {
@@ -159,7 +159,7 @@
           {
             "chainId": 42161,
             "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=42161",
+            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=42161",
             "description": "PT leverage looping through various supported money markets"
           }
         ],
@@ -167,6 +167,36 @@
         "lp": []
       },
       "hash": "9915255fd06766994bf53a45f81584ad"
+    },
+    {
+      "id": "marginly",
+      "name": "Marginly",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x76f327150224393ff07aafa3449fbb23103fb279",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0xd53a899b731c52eeb0f9750b6b507e543661d763",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7aa68e84bcd8d1b4c9e10b1e565db993f68a3e09",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "b562d5b0f35ca1d814c964f2e830f6c9"
     },
     {
       "id": "yearn",
