@@ -5,6 +5,7 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - 'main'
+      - 'fix-config-json-validataion'
 
 jobs:
   validate_json_files:
@@ -14,18 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
-
-      - name: Checkout main branch
-        run: |
-          echo "MAIN_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
-
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Save HEAD commit SHA
-        run: |
-          echo "HEAD_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -34,6 +24,8 @@ jobs:
 
       - name: Validate JSON files
         run: |
-          git diff --name-only $MAIN_SHA $HEAD_SHA | grep -q "^config.json$" && { echo "config.json must not be changed"; exit 1; } 
-          CHANGED_PROTOCOLS=$(git diff --name-only $MAIN_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
+          export BASE_SHA=${{ github.event.pull_request.base.sha }}
+          export HEAD_SHA=$(git rev-parse HEAD)
+          git diff --quiet $BASE_SHA $HEAD_SHA -- config.json || (echo "file config.json must not change" && exit 1)
+          CHANGED_PROTOCOLS=$(git diff --name-only $BASE_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
           CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS node validate-config.js
