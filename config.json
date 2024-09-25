@@ -169,6 +169,36 @@
       "hash": "9915255fd06766994bf53a45f81584ad"
     },
     {
+      "id": "marginly",
+      "name": "Marginly",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x76F327150224393ff07AAFA3449FBB23103fb279",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0xD53A899B731C52Eeb0f9750b6b507e543661D763",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7aa68E84bCD8d1B4C9e10B1e565DB993f68a3E09",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "b562d5b0f35ca1d814c964f2e830f6c9"
+    },
+    {
       "id": "yearn",
       "name": "yearn",
       "icon": "logo.png",
