@@ -68,3 +68,5 @@ Please ensure that:
 
  - All fields are correctly filled.
  - The integration URL is valid and points to the appropriate page.
+ - The protocol folder name must be **kebab-case**.
+ - **Do not** change the global `config.json` file. This file will be automatically generated.
