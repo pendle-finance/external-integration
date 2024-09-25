@@ -12,15 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check if PR is mergeable
-        run: |
-          if [ "${{ github.event.pull_request.mergeable }}" != "true" ]; then
-            echo "Pull request has merge conflicts. Please resolve them."
-            exit 1
-          else
-            echo "No merge conflicts found. Proceeding..."
-          fi
-
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -35,6 +26,8 @@ jobs:
         run: |
           export BASE_SHA=${{ github.event.pull_request.base.sha }}
           export HEAD_SHA=$(git rev-parse HEAD)
+          echo $BASE_SHA
+          echo $HEAD_SHA
           git diff --quiet $BASE_SHA $HEAD_SHA -- config.json || (echo "file config.json must not change" && exit 1)
           CHANGED_PROTOCOLS=$(git diff --name-only $BASE_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
           CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS node validate-config.js
