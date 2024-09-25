@@ -139,21 +139,27 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 42161,
-            "address": "0x30c98c0139b62290e26ac2a2158ac341dcaf1333",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
+            "description": "PT leverage looping through various supported money markets"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
+            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
+            "description": "PT leverage looping through various supported money markets"
+          },
+          {
+            "chainId": 1,
+            "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
+            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
             "description": "PT leverage looping through various supported money markets"
           },
           {
             "chainId": 42161,
-            "address": "0x2ccfce9be49465cc6f947b5f6ac9383673733da9",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xb8b0a120f6a68dd06209619f62429fb1a8e92fec",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
+            "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
+            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=42161",
             "description": "PT leverage looping through various supported money markets"
           }
         ],
@@ -161,6 +167,210 @@
         "lp": []
       },
       "hash": "9915255fd06766994bf53a45f81584ad"
+    },
+    {
+      "id": "yearn",
+      "name": "yearn",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-weETH&chains=1",
+            "description": "yPT-weETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x342ff27fddab6ac38c494a2d4731c1e34b985bf6",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-uniETH&chains=1",
+            "description": "yPT-uniETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb07b9fdd62dc478e521e8bde3630a777725b0eb4",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-rsETH&chains=1",
+            "description": "yPT-rsETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-eBTC&chains=1",
+            "description": "yPT-eBTC Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-sUSDe&chains=1",
+            "description": "yPT-sUSDe Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xee9085fc268f6727d5d4293dbabccf901ffdcc29",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-sUSDe&chains=1",
+            "description": "yPT-sUSDe Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9468b647b36a23af2e48dab81a178596a6af95d9",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-USDe&chains=1",
+            "description": "yPT-USDe Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xa8778dd6b7f1f61f2cfda5d3cb18be8f99a8db30",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-USDe&chains=1",
+            "description": "yPT-USDe Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xbaa0886c8cf48d027d29e60d214c7e5a4d114bee",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-weETH-Karak&chains=1",
+            "description": "yPT-weETH-Karak Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1d27254125246873a19580b7364bff322c5def0f",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-weETHs&chains=1",
+            "description": "yPT-weETHs Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-ezETH&chains=1",
+            "description": "yPT-ezETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf6fd7ceb095bfd54130359cc9366a1493944213a",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-pufETH&chains=1",
+            "description": "yPT-pufETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x330c4dd05db16db6323505262c57cfde5f0a78ea",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-swETH&chains=1",
+            "description": "yPT-swETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x2048e9a6fee232056580d95e10b30f14f0ee578b",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-rswETH&chains=1",
+            "description": "yPT-rswETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x23dbe2a711f0e528a3c0a7c713b5aeff3e9a2826",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-rswETH-L2&chains=1",
+            "description": "yPT-rswETH-L2 Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x6e99277f5349614ae653b8ac9c5e2f105943e8d9",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-sfrxETH&chains=1",
+            "description": "yPT-sfrxETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x7aa68e84bcd8d1b4c9e10b1e565db993f68a3e09",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-agETH&chains=1",
+            "description": "yPT-agETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x7758896b6ac966bbabcf143efa963030f17d3edf",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-wstETH&chains=1",
+            "description": "yPT-wstETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf99985822fb361117fcf3768d34a6353e6022f5f",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-wstETH&chains=1",
+            "description": "yPT-wstETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb253eff1104802b97ac7e3ac9fdd73aece295a2c",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-wstETH&chains=1",
+            "description": "yPT-wstETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x988b6914866e2ad9dc9b034387636d2641f79aa3",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-sDAI&chains=1",
+            "description": "yPT-sDAI Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0xafa002de2dadb57b2b04e32aa4f42a69adebf2fd",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-ENA&chains=1",
+            "description": "yPT-ENA Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 1,
+            "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-LBTC&chains=1",
+            "description": "yPT-LBTC-Corn Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xe2b2d203577c7cb3d043e89ccf90b5e24d19b66f",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-weETH&chains=42161",
+            "description": "yPT-weETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x1255638efeca62e12e344e0b6b22ea853ec6e2c7",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-wstETH&chains=42161",
+            "description": "yPT-wstETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xad22fca714559da1eb25fb24443b0446b54246fc",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-mPENDLE&chains=42161",
+            "description": "yPT-mPENDLE Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-USDe&chains=42161",
+            "description": "yPT-USDe Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xbb47ad7f407cbd385c9269ebd0d1eb1cb634cdfa",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-aUSDC&chains=42161",
+            "description": "yPT-aUSDC Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x2ccfce9be49465cc6f947b5f6ac9383673733da9",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-ezETH&chains=42161",
+            "description": "yPT-ezETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x355ec27c9d4530de01a103fa27f884a2f3da65ef",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-rsETH&chains=42161",
+            "description": "yPT-rsETH Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x4d5d8375c39dc91a8aca33ff4a4564de92dcd04c",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-gDAI&chains=42161",
+            "description": "yPT-gDAI Yearn Auto-Rolling Pendle PT Vault"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x685155d3bd593508fe32be39729810a591ed9c87",
+            "integrationUrl": "https://yearn.fi/v3?search=yPT-rETH&chains=42161",
+            "description": "yPT-rETH Yearn Auto-Rolling Pendle PT Vault"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "ca888ff447d45839ca0cc7fa1562c3c2"
     }
   ]
 }
