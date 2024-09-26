@@ -133,6 +133,24 @@
       "hash": "8f088fee7361150dca206319c3e9c837"
     },
     {
+      "id": "cega",
+      "name": "Cega",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+            "integrationUrl": "https://app.cega.fi/products/pendle-etherfi-yt-tiger?product_id=191",
+            "description": "Use YT to earn high fixed yields while minimizing potential downside"
+          }
+        ],
+        "lp": []
+      },
+      "hash": "2cc2fe23e0eeaf20fecabea078e3c90b"
+    },
+    {
       "id": "contango",
       "name": "Contango",
       "icon": "logo.png",
@@ -197,6 +215,24 @@
         "lp": []
       },
       "hash": "b562d5b0f35ca1d814c964f2e830f6c9"
+    },
+    {
+      "id": "origami",
+      "name": "Origami",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://origami.finance/vaults/1-0xb9dad3693AEAc9025Cb24a47AFA6930539877187/info",
+            "description": "A 5x leveraged position on PT sUSDe OCT 2024"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "491aa773ce939c7df3c0a3467a8fd8a8"
     },
     {
       "id": "yearn",
