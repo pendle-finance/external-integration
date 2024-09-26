@@ -187,6 +187,36 @@
       "hash": "9915255fd06766994bf53a45f81584ad"
     },
     {
+      "id": "index-coop",
+      "name": "Index Coop",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          },
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "4070155c274c35af989c4a3bc770db80"
+    },
+    {
       "id": "marginly",
       "name": "Marginly",
       "icon": "logo.png",
