@@ -23,8 +23,11 @@ jobs:
 
       - name: Validate JSON files
         run: |
-          export BASE_SHA=${{ github.event.pull_request.base.sha }}
+          git fetch origin main
+          export BASE_SHA=$(git rev-parse origin/main)
           export HEAD_SHA=$(git rev-parse HEAD)
+          echo $BASE_SHA
+          echo $HEAD_SHA
           git diff --quiet $BASE_SHA $HEAD_SHA -- config.json || (echo "file config.json must not change" && exit 1)
           CHANGED_PROTOCOLS=$(git diff --name-only $BASE_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
-          CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS node validate-config.js
+          CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS GET_ASSET_LIST_URL=${{ secrets.GET_ASSET_LIST_URL }} node validate-config.js
