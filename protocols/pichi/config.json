@@ -39,7 +39,7 @@
             },
             {
                 "chainId": 1,
-                "address": "0x129e6B5DBC0Ecc12F9e486C5BC9cDF1a6A80bc6A",
+                "address": "0xd8f12bcde578c653014f27379a6114f67f0e445f",
                 "integrationUrl": "https://app.pichi.finance/",
                 "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
             },
