@@ -133,6 +133,24 @@
       "hash": "8f088fee7361150dca206319c3e9c837"
     },
     {
+      "id": "cega",
+      "name": "Cega",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+            "integrationUrl": "https://app.cega.fi/products/pendle-etherfi-yt-tiger?product_id=191",
+            "description": "Use YT to earn high fixed yields while minimizing potential downside"
+          }
+        ],
+        "lp": []
+      },
+      "hash": "2cc2fe23e0eeaf20fecabea078e3c90b"
+    },
+    {
       "id": "contango",
       "name": "Contango",
       "icon": "logo.png",
