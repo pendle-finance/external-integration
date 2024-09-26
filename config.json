@@ -133,6 +133,24 @@
       "hash": "8f088fee7361150dca206319c3e9c837"
     },
     {
+      "id": "cega",
+      "name": "Cega",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+            "integrationUrl": "https://app.cega.fi/products/pendle-etherfi-yt-tiger?product_id=191",
+            "description": "Use YT to earn high fixed yields while minimizing potential downside"
+          }
+        ],
+        "lp": []
+      },
+      "hash": "2cc2fe23e0eeaf20fecabea078e3c90b"
+    },
+    {
       "id": "contango",
       "name": "Contango",
       "icon": "logo.png",
@@ -167,6 +185,84 @@
         "lp": []
       },
       "hash": "9915255fd06766994bf53a45f81584ad"
+    },
+    {
+      "id": "index-coop",
+      "name": "Index Coop",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          },
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "4070155c274c35af989c4a3bc770db80"
+    },
+    {
+      "id": "marginly",
+      "name": "Marginly",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x76f327150224393ff07aafa3449fbb23103fb279",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0xd53a899b731c52eeb0f9750b6b507e543661d763",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7aa68e84bcd8d1b4c9e10b1e565db993f68a3e09",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "b562d5b0f35ca1d814c964f2e830f6c9"
+    },
+    {
+      "id": "origami",
+      "name": "Origami",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://origami.finance/vaults/1-0xb9dad3693AEAc9025Cb24a47AFA6930539877187/info",
+            "description": "A 5x leveraged position on PT sUSDe OCT 2024"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "491aa773ce939c7df3c0a3467a8fd8a8"
     },
     {
       "id": "yearn",
