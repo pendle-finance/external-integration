@@ -265,6 +265,56 @@
       "hash": "491aa773ce939c7df3c0a3467a8fd8a8"
     },
     {
+      "id": "pichi",
+      "name": "Pichi",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit PT into a Pichi Wallet to earn points and trade trustlessly"
+          },
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit PT into a Pichi Wallet to earn points and trade trustlessly"
+          }
+        ],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit YT into a Pichi Wallet to earn points and trade trustlessly"
+          },
+          {
+            "chainId": 1,
+            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit YT into a Pichi Wallet to earn points and trade trustlessly"
+          }
+        ],
+        "lp": [
+          {
+            "chainId": 1,
+            "address": "0x7d372819240d14fb477f17b964f95f33beb4c704",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd8f12bcde578c653014f27379a6114f67f0e445f",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
+          }
+        ]
+      },
+      "hash": "a770b3ae57e3f697379e9e432f5ea9b6"
+    },
+    {
       "id": "venus",
       "name": "Venus Protocol",
       "icon": "venus.png",
