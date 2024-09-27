@@ -17,26 +17,14 @@
         },
         {
           "chainId": 5000,
-          "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+          "address": "0x1333B49BBdD06544a25647f9127358D9A9486105",
           "integrationUrl": "https://app.timeswap.io/borrow/f0485775-7de2-49b3-8c59-a006627715a0",
           "description": "PT non-liquidatable leverage through Timeswap"
         },
         {
             "chainId": 42161,
-            "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
-            "integrationUrl": "https://app.timeswap.io/lend/0fe3613f-5ce0-449d-831b-7a6098b876e2",
-            "description": "PT non-liquidatable leverage through Timeswap"
-        },
-        {
-            "chainId": 42161,
             "address": "0x8be66A48EA1f4AFF89cd2beb50B02D901Dfb9584",
             "integrationUrl": "https://app.timeswap.io/lend/64a46623-eed1-40e8-9c3f-273a5cc48512",
-            "description": "PT non-liquidatable leverage through Timeswap"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xb8b0a120F6A68Dd06209619F62429fB1a8e92feC",
-            "integrationUrl": "https://app.timeswap.io/lend/04fdbd51-f1a7-4ee7-9bc0-522687f02a09",
             "description": "PT non-liquidatable leverage through Timeswap"
         }
       ],
