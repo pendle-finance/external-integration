@@ -133,6 +133,24 @@
       "hash": "8f088fee7361150dca206319c3e9c837"
     },
     {
+      "id": "cega",
+      "name": "Cega",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+            "integrationUrl": "https://app.cega.fi/products/pendle-etherfi-yt-tiger?product_id=191",
+            "description": "Use YT to earn high fixed yields while minimizing potential downside"
+          }
+        ],
+        "lp": []
+      },
+      "hash": "2cc2fe23e0eeaf20fecabea078e3c90b"
+    },
+    {
       "id": "contango",
       "name": "Contango",
       "icon": "logo.png",
@@ -167,6 +185,152 @@
         "lp": []
       },
       "hash": "9915255fd06766994bf53a45f81584ad"
+    },
+    {
+      "id": "index-coop",
+      "name": "Index Coop",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          },
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
+            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
+            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "4070155c274c35af989c4a3bc770db80"
+    },
+    {
+      "id": "marginly",
+      "name": "Marginly",
+      "icon": "marginly-logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x76f327150224393ff07aafa3449fbb23103fb279",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0xd53a899b731c52eeb0f9750b6b507e543661d763",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7aa68e84bcd8d1b4c9e10b1e565db993f68a3e09",
+            "integrationUrl": "https://app.marginly.com/mainnet/farm",
+            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "ab96a0d57dc19dcaf19c038365ee16aa"
+    },
+    {
+      "id": "origami",
+      "name": "Origami",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://origami.finance/vaults/1-0xb9dad3693AEAc9025Cb24a47AFA6930539877187/info",
+            "description": "A 5x leveraged position on PT sUSDe OCT 2024"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "491aa773ce939c7df3c0a3467a8fd8a8"
+    },
+    {
+      "id": "pichi",
+      "name": "Pichi",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit PT into a Pichi Wallet to earn points and trade trustlessly"
+          },
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit PT into a Pichi Wallet to earn points and trade trustlessly"
+          }
+        ],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit YT into a Pichi Wallet to earn points and trade trustlessly"
+          },
+          {
+            "chainId": 1,
+            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit YT into a Pichi Wallet to earn points and trade trustlessly"
+          }
+        ],
+        "lp": [
+          {
+            "chainId": 1,
+            "address": "0x7d372819240d14fb477f17b964f95f33beb4c704",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd8f12bcde578c653014f27379a6114f67f0e445f",
+            "integrationUrl": "https://app.pichi.finance/",
+            "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
+          }
+        ]
+      },
+      "hash": "a770b3ae57e3f697379e9e432f5ea9b6"
+    },
+    {
+      "id": "venus",
+      "name": "Venus Protocol",
+      "icon": "venus.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://app.venus.io/#/isolated-pools/pool/0xF522cd0360EF8c2FF48B648d53EA1717Ec0F3Ac3/market/0x76697f8eaeA4bE01C678376aAb97498Ee8f80D5C?chainId=1",
+            "description": "PT-weETH December 2024 market on Venus Protocol"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "8061ad48a21285f93f492b83cc3534bc"
     },
     {
       "id": "yearn",
@@ -371,6 +535,30 @@
         "lp": []
       },
       "hash": "ca888ff447d45839ca0cc7fa1562c3c2"
+    },
+    {
+      "id": "zerolend",
+      "name": "ZeroLend",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
+            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6&marketName=proto_mainnet_btc_v3",
+            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
+            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xb997b3418935a1df0f914ee901ec83927c1509a0&marketName=proto_mainnet_btc_v3",
+            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "adde1e5f670bbe484865804caedf8ddd"
     }
   ]
 }
