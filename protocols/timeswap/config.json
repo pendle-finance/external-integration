@@ -22,7 +22,7 @@
         "description": "PT non-liquidatable leverage through Timeswap"
       },
       {
-          "chainId": 42161,
+          "chainId": 5000,
           "address": "0x8be66A48EA1f4AFF89cd2beb50B02D901Dfb9584",
           "integrationUrl": "https://app.timeswap.io/lend/64a46623-eed1-40e8-9c3f-273a5cc48512",
           "description": "PT non-liquidatable leverage through Timeswap"
