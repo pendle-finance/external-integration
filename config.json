@@ -219,7 +219,7 @@
     {
       "id": "marginly",
       "name": "Marginly",
-      "icon": "logo.png",
+      "icon": "marginly-logo.png",
       "metadata": {
         "pt": [
           {
@@ -244,7 +244,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "b562d5b0f35ca1d814c964f2e830f6c9"
+      "hash": "ab96a0d57dc19dcaf19c038365ee16aa"
     },
     {
       "id": "origami",
