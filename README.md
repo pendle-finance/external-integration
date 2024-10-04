@@ -4,7 +4,7 @@ This repository contains metadata for integrating external protocols, including 
 
 ## Metadata Structure
 
-The JSON file includes details for multiple objects (PT, YT, LP), each corresponding to different parts of the protocol with specific chain IDs, addresses, integration URLs, and descriptions.
+The YAML file includes details for multiple objects (PT, YT, LP), each corresponding to different parts of the protocol with specific chain IDs, addresses, integration URLs, and descriptions.
 
 ### Fields
 
@@ -22,37 +22,26 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 
 ### Example
 
-```json
-{
-  "name": "Protocol Name 2",
-  "icon": "logo.png",
-  "metadata": {
-    "pt": [
-      {
-        "chainId": 1,
-        "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
-        "integrationUrl": "https://www.pendle.magpiexyz.io/stake",
-        "description": "hello it's pt"
-      }
-    ],
-    "yt": [
-      {
-        "chainId": 1,
-        "address": "0x1cae47aa3e10a77c55ee32f8623d6b5acc947344",
-        "integrationUrl": "https://www.pendle.magpiexyz.io/stake",
-        "description": "hello it's yt"
-      }
-    ],
-    "lp": [
-      {
-        "chainId": 1,
-        "address": "0xcae62858db831272a03768f5844cbe1b40bb381f",
-        "integrationUrl": "https://www.pendle.magpiexyz.io/stake",
-        "description": "hello it's lp"
-      }
-    ]
-  }
-}
+```yaml
+name: Protocol Name 2
+icon: logo.png
+metadata:
+  pt:
+    - chainId: 1
+      address: '0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6'
+      integrationUrl: https://www.pendle.magpiexyz.io/stake
+      description: hello it's pt
+  yt:
+    - chainId: 1
+      address: '0x1cae47aa3e10a77c55ee32f8623d6b5acc947344'
+      integrationUrl: https://www.pendle.magpiexyz.io/stake
+      description: hello it's yt
+  lp:
+    - chainId: 1
+      address: '0xcae62858db831272a03768f5844cbe1b40bb381f'
+      integrationUrl: https://www.pendle.magpiexyz.io/stake
+      description: hello it's lp
+
 ```
 
 ## How to Contribute
@@ -60,7 +49,7 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 To add a new protocol or update existing data:
 
 1. Fork this repository.
-2. Add or update the JSON file with the new protocol information in the specified format.
+2. Add or update the YAML file with the new protocol information in the specified format.
 3. Add a logo.png file to your protocol folder if there isn't any yet
 4. Submit a pull request for review.
 

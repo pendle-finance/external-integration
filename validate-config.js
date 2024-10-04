@@ -1,7 +1,9 @@
 const fs = require('fs');
 const path = require('path');
+const yaml = require('js-yaml');
 
 const LIMIT_ICON_KB_SIZE = 20;
+const BUFFER_LIMIT_ICON_KB_SIZE = LIMIT_ICON_KB_SIZE + 1;
 
 function isValidEthereumAddress(address) {
   const ethereumAddressPattern = /^0x[a-fA-F0-9]{40}$/;
@@ -61,14 +63,19 @@ function validateConfig(protocol, assetMap) {
     }
   }
 
-  const configPath = path.join(protocolsPath, 'config.json');
-
-  if (!fs.existsSync(configPath)) {
-    throw new Error(`protocol ${protocol}: config.json not found`);
+  const yamlConfigPath = path.join(protocolsPath, 'config.yaml');
+  let protocolConfig;
+  if (fs.existsSync(yamlConfigPath)) {
+    const protocolConfigStr = fs.readFileSync(yamlConfigPath, 'utf8');
+    protocolConfig = yaml.load(protocolConfigStr);
+  } else {
+    const jsonConfigPath = path.join(protocolsPath, 'config.json');
+    if (!fs.existsSync(jsonConfigPath)) {
+      throw new Error(`protocol ${protocol}: config file not found`);
+    }
+    const protocolConfigStr = fs.readFileSync(jsonConfigPath, 'utf8');
+    protocolConfig = JSON.parse(protocolConfigStr);
   }
-
-  const protocolConfigStr = fs.readFileSync(configPath, 'utf8');
-  const protocolConfig = JSON.parse(protocolConfigStr);
 
   if (typeof protocolConfig !== 'object'){
     throw new Error(`protocol ${protocol}: config is not an object`);
@@ -102,7 +109,7 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: icon must be a png file`);
   }
 
-  if (iconStats.size > LIMIT_ICON_KB_SIZE * 1024) {
+  if (iconStats.size > BUFFER_LIMIT_ICON_KB_SIZE * 1024) {
     throw new Error(`protocol ${protocol}: icon size must be less than ${LIMIT_ICON_KB_SIZE}KB file`);
   }
 
