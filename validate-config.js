@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const LIMIT_ICON_KB_SIZE = 20;
+
 function isValidEthereumAddress(address) {
   const ethereumAddressPattern = /^0x[a-fA-F0-9]{40}$/;
   return ethereumAddressPattern.test(address);
@@ -94,6 +96,16 @@ function validateConfig(protocol, assetMap) {
   if (!fs.existsSync(iconPath)) {
     throw new Error(`protocol ${protocol}: icon path not found for protocol ${icon}`);
   }
+
+  const iconStats = fs.statSync(iconPath);
+  if (iconStats.isDirectory()) {
+    throw new Error(`protocol ${protocol}: icon must be a png file`);
+  }
+
+  if (iconStats.size > LIMIT_ICON_KB_SIZE * 1024) {
+    throw new Error(`protocol ${protocol}: icon size must be less than ${LIMIT_ICON_KB_SIZE}KB file`);
+  }
+
 
   const {pt, yt, lp} = metadata;
   checkMetadataField(pt, protocol, 'pt', ptMap);
