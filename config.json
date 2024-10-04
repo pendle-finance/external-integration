@@ -405,6 +405,42 @@
       "hash": "0ffa14bbac8ac2ebc4d05ee5a50bb15a"
     },
     {
+      "id": "timeswap",
+      "name": "Timeswap",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 42161,
+            "address": "0x2be6fab4d1408e7ad6ad91ce7b77fa2a7670782f",
+            "integrationUrl": "https://app.timeswap.io/lend/3ddff11d-768c-4b3a-8617-264be2dca259",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          },
+          {
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://app.timeswap.io/borrow/ec9a953a-1e4c-44b7-9030-49c7596b4ee3",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          },
+          {
+            "chainId": 5000,
+            "address": "0x1333b49bbdd06544a25647f9127358d9a9486105",
+            "integrationUrl": "https://app.timeswap.io/borrow/f0485775-7de2-49b3-8c59-a006627715a0",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          },
+          {
+            "chainId": 5000,
+            "address": "0x8be66a48ea1f4aff89cd2beb50b02d901dfb9584",
+            "integrationUrl": "https://app.timeswap.io/lend/64a46623-eed1-40e8-9c3f-273a5cc48512",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "7af7c8ead8cd93bd017cc12d22880971"
+    },
+    {
       "id": "venus",
       "name": "Venus Protocol",
       "icon": "venus.png",
