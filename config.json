@@ -130,7 +130,7 @@
           }
         ]
       },
-      "hash": "8f088fee7361150dca206319c3e9c837"
+      "hash": "77d931fda9e93e07648fdb982c22ae45"
     },
     {
       "id": "cega",
@@ -214,7 +214,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "9915255fd06766994bf53a45f81584ad"
+      "hash": "00f2c6db8ea2d3f7de8e5bc1135c4a6c"
     },
     {
       "id": "index-coop",
@@ -244,7 +244,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "4070155c274c35af989c4a3bc770db80"
+      "hash": "1b0f7d58a6a44740a1201e40e3f2eb34"
     },
     {
       "id": "marginly",
@@ -292,7 +292,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "491aa773ce939c7df3c0a3467a8fd8a8"
+      "hash": "a809a66c08d1be4c5e39c964123f01bb"
     },
     {
       "id": "pichi",
@@ -342,7 +342,103 @@
           }
         ]
       },
-      "hash": "a770b3ae57e3f697379e9e432f5ea9b6"
+      "hash": "71fb37f33a2a5fe5b08fb804f25e496e"
+    },
+    {
+      "id": "silo",
+      "name": "Silo",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+            "integrationUrl": "https://app.silo.finance/silo/0xa2AED60DbDd09c91C2e686E948592dc1c1Cd0cc6",
+            "description": "Deposit PT-eETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 1,
+            "address": "0xf6fd7ceb095bfd54130359cc9366a1493944213a",
+            "integrationUrl": "https://app.silo.finance/silo/0xD48043A0f99501A057CE1De4C09d982BB433aBAC",
+            "description": "Deposit PT-pufETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 1,
+            "address": "0xb07b9fdd62dc478e521e8bde3630a777725b0eb4",
+            "integrationUrl": "https://app.silo.finance/silo/0xF94f40873e662086666bdA3eC58801AC35B2921a",
+            "description": "Deposit PT-rsETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 1,
+            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+            "integrationUrl": "https://app.silo.finance/silo/0xC47429cba84F8128559958c970Df5BC6CA2B9c89",
+            "description": "Deposit PT-ezETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 42161,
+            "address": "0xe2b2d203577c7cb3d043e89ccf90b5e24d19b66f",
+            "integrationUrl": "https://app.silo.finance/silo/0x1E5B48F3130502FFD1DFb6d24AC3C42269e41538",
+            "description": "Deposit PT-eETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 42161,
+            "address": "0xe2b2d203577c7cb3d043e89ccf90b5e24d19b66f",
+            "integrationUrl": "https://app.silo.finance/silo/0x00b7BBDd582Ef58445aA87Ac6Beb61F5fA36e71b",
+            "description": "Deposit PT-rsETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 42161,
+            "address": "0x355ec27c9d4530de01a103fa27f884a2f3da65ef",
+            "integrationUrl": "https://app.silo.finance/silo/0x00b7BBDd582Ef58445aA87Ac6Beb61F5fA36e71b",
+            "description": "Deposit PT-rsETH(26 Dec) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          },
+          {
+            "chainId": 42161,
+            "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
+            "integrationUrl": "https://app.silo.finance/silo/0x1e2968B3e23D625906F32A94dbFe2F44930c6Db7",
+            "description": "Deposit PT-USDe(28 Nov) into Silo’s isolated lending marks to borrow ETH/USDC and earn additional rewards."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "0ffa14bbac8ac2ebc4d05ee5a50bb15a"
+    },
+    {
+      "id": "timeswap",
+      "name": "Timeswap",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 42161,
+            "address": "0x2be6fab4d1408e7ad6ad91ce7b77fa2a7670782f",
+            "integrationUrl": "https://app.timeswap.io/lend/3ddff11d-768c-4b3a-8617-264be2dca259",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          },
+          {
+            "chainId": 1,
+            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
+            "integrationUrl": "https://app.timeswap.io/borrow/ec9a953a-1e4c-44b7-9030-49c7596b4ee3",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          },
+          {
+            "chainId": 5000,
+            "address": "0x1333b49bbdd06544a25647f9127358d9a9486105",
+            "integrationUrl": "https://app.timeswap.io/borrow/f0485775-7de2-49b3-8c59-a006627715a0",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          },
+          {
+            "chainId": 5000,
+            "address": "0x8be66a48ea1f4aff89cd2beb50b02d901dfb9584",
+            "integrationUrl": "https://app.timeswap.io/lend/64a46623-eed1-40e8-9c3f-273a5cc48512",
+            "description": "PT non-liquidatable leverage through Timeswap"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "7af7c8ead8cd93bd017cc12d22880971"
     },
     {
       "id": "venus",
@@ -360,7 +456,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "8061ad48a21285f93f492b83cc3534bc"
+      "hash": "9cb9392b65438ca9fe4f7d6a3e8e0fc9"
     },
     {
       "id": "yearn",
@@ -588,7 +684,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "adde1e5f670bbe484865804caedf8ddd"
+      "hash": "6e41a2d11bd3b6d2367b03fa35a3aaa7"
     }
   ]
 }

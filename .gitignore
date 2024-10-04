@@ -1,1 +1,13 @@
-.idea
+*
+
+# Allow JavaScript, YAML, and Markdown files
+!*.js
+!*.yml
+!*.yaml
+!*.md
+
+# Allow subdirectories to be checked for allowed file types
+!*/
+
+node_modules/
+.idea/
