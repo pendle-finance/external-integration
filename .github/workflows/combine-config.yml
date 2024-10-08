@@ -31,8 +31,8 @@ jobs:
           git config --global user.name "$GIT_USERNAME"
           git config --global user.email "$GIT_EMAIL"
           git add config.json
-          git diff-index --quiet HEAD || git commit -m "Merge JSON files"
-          git push
+          git update-index --refresh
+          git diff-index --quiet HEAD || (git commit -m "Merge JSON files" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GIT_USERNAME: github-actions[bot]
