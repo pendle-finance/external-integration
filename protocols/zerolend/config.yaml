@@ -1,0 +1,16 @@
+name: ZeroLend
+icon: logo.png
+metadata:
+  pt:
+    - chainId: 1
+      address: '0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6'
+      integrationUrl: >-
+        https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6&marketName=proto_mainnet_btc_v3
+      description: PT leverage looping through ZeroLend by using the PT as collateral
+    - chainId: 1
+      address: '0xb997b3418935a1df0f914ee901ec83927c1509a0'
+      integrationUrl: >-
+        https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xb997b3418935a1df0f914ee901ec83927c1509a0&marketName=proto_mainnet_btc_v3
+      description: PT leverage looping through ZeroLend by using the PT as collateral
+  yt: []
+  lp: []

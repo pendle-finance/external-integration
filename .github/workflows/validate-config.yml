@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '20' # Or your preferred version
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Validate JSON files
         run: |
           git fetch origin main

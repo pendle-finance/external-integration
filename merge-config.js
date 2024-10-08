@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
+const yaml = require("js-yaml");
 
 async function run() {
   const protocolsPath = path.join(__dirname, 'protocols');
@@ -8,18 +9,31 @@ async function run() {
 
   const protocolIds = fs.readdirSync(protocolsPath, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory()) // Filter only directories
-    .filter(dirent => fs.existsSync(path.join(protocolsPath, dirent.name, 'config.json'))) // Check if config.json exists
+    .filter(dirent =>
+      fs.existsSync(path.join(protocolsPath, dirent.name, 'config.yaml')) ||
+      fs.existsSync(path.join(protocolsPath, dirent.name, 'config.json')))
     .map(dirent => dirent.name);
 
   const data = {protocols: []};
 
   for (const protocolId of protocolIds) {
-    const configPath = path.join(protocolsPath, protocolId, 'config.json');
-    const protocolConfigStr = fs.readFileSync(configPath, 'utf8');
-    const protocolConfig = formatProtocolConfig({
-      id: protocolId,
-      ...JSON.parse(protocolConfigStr)
-    })
+    let protocolConfig;
+
+    const yamlConfigPath = path.join(protocolsPath, protocolId, 'config.yaml');
+    if (fs.existsSync(yamlConfigPath)) {
+      const protocolConfigStr = fs.readFileSync(yamlConfigPath, 'utf8');
+      protocolConfig = formatProtocolConfig({
+        id: protocolId,
+        ...yaml.load(protocolConfigStr)
+      })
+    } else {
+      let jsonConfigPath = path.join(protocolsPath, protocolId, 'config.json');
+      const protocolConfigStr = fs.readFileSync(jsonConfigPath, 'utf8');
+      protocolConfig = protocolConfig = formatProtocolConfig({
+        id: protocolId,
+        ...JSON.parse(protocolConfigStr)
+      })
+    }
 
     const {icon} = protocolConfig;
 
