@@ -259,6 +259,24 @@
       "hash": "00f2c6db8ea2d3f7de8e5bc1135c4a6c"
     },
     {
+      "id": "euler",
+      "name": "Euler",
+      "icon": "logo.png",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xe00bd3df25fb187d6abbb620b3dfd19839947b81",
+            "integrationUrl": "https://app.euler.finance/positions/0xcf47fBe97aaE77B8ABEa5e1F59c9bcb808A8d47d/0x8dDE384022D4dE1D6C67891a8865f551c444dc4C",
+            "description": "PT-sUSDE-27MAR2025 can be used as collateral to borrow or multiply against Stablecoin Maxi sUSDE on Euler"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "ee96cfc33805516c97322b31855cd579"
+    },
+    {
       "id": "form",
       "name": "Form",
       "icon": "logo.png",
