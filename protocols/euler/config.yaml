@@ -1,0 +1,11 @@
+name: Euler
+icon: logo.png
+metadata:
+  pt:
+    - chainId: 1
+      address: '0xE00bd3Df25fb187d6ABBB620b3dfd19839947b81'
+      integrationUrl: https://app.euler.finance/positions/0xcf47fBe97aaE77B8ABEa5e1F59c9bcb808A8d47d/0x8dDE384022D4dE1D6C67891a8865f551c444dc4C
+      description: >-
+        PT-sUSDE-27MAR2025 can be used as collateral to borrow or multiply against Stablecoin Maxi sUSDE on Euler
+  yt: []
+  lp: []
