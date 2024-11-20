@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
+const {PROTOCOL_CATEGORIES} = require("./const");
 
 const LIMIT_ICON_KB_SIZE = 20;
 const BUFFER_LIMIT_ICON_KB_SIZE = LIMIT_ICON_KB_SIZE + 1;
@@ -13,6 +14,16 @@ function isValidEthereumAddress(address) {
 function isKebabCase(str) {
   const kebabCaseRegex = /^[a-z0-9]+(-[a-z0-9]+)*$/;
   return kebabCaseRegex.test(str);
+}
+
+function validateCategory(protocol, category) {
+  if (category === undefined) {
+    return;
+  }
+
+  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category)) {
+    throw new Error(`protocol ${protocol}: invalid field 'category', category must be one of the values (${PROTOCOL_CATEGORIES.join(', ')}) or left unset`);
+  }
 }
 
 async function main() {
@@ -81,11 +92,13 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: config is not an object`);
   }
 
-  const {name, icon, metadata} = protocolConfig;
+  const {name, icon, metadata, category} = protocolConfig;
 
   if (!mustBeNonEmptyString(name)) {
     throw new Error(`protocol ${protocol}: invalid field 'name'`);
   }
+
+  validateCategory(protocol, category);
 
   if (!mustBeNonEmptyString(icon)) {
     throw new Error(`protocol ${protocol}: invalid field 'icon'`);
@@ -112,7 +125,6 @@ function validateConfig(protocol, assetMap) {
   if (iconStats.size > BUFFER_LIMIT_ICON_KB_SIZE * 1024) {
     throw new Error(`protocol ${protocol}: icon size must be less than ${LIMIT_ICON_KB_SIZE}KB file`);
   }
-
 
   const {pt, yt, lp} = metadata;
   checkMetadataField(pt, protocol, 'pt', ptMap);

@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const yaml = require("js-yaml");
+const {DEFAULT_PROTOCOL_CATEGORY} = require("./const");
 
 async function run() {
   const protocolsPath = path.join(__dirname, 'protocols');
@@ -51,19 +52,35 @@ async function run() {
 }
 
 function formatProtocolConfig(config) {
-  const {metadata} = config;
+  const {id, name, icon, category, metadata} = config;
   const {pt, yt, lp} = metadata;
-  lowercaseAddressOfMetadata(pt);
-  lowercaseAddressOfMetadata(yt);
-  lowercaseAddressOfMetadata(lp);
 
-  return config;
+  return {
+    id,
+    name,
+    icon,
+    category: category ?? DEFAULT_PROTOCOL_CATEGORY,
+    metadata: {
+      pt: formatMetadataAssets(pt),
+      yt: formatMetadataAssets(yt),
+      lp: formatMetadataAssets(lp),
+    },
+  };
 }
 
-function lowercaseAddressOfMetadata(assets) {
+function formatMetadataAssets(assets) {
+  const result = [];
   for (const asset of (assets ?? [])) {
-    asset.address = asset.address.toLowerCase();
+    const {chainId, address, integrationUrl, description} = asset;
+    result.push({
+      chainId,
+      address: address.toLowerCase(),
+      integrationUrl,
+      description,
+    })
   }
+
+  return result;
 }
 
 function createMD5(filePath) {
