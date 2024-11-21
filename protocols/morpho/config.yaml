@@ -1,5 +1,6 @@
 name: Morpho
 icon: logo.png
+category: Money Market
 metadata:
   pt:
     - chainId: 1

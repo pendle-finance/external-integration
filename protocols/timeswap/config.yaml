@@ -1,5 +1,6 @@
 name: Timeswap
 icon: logo.png
+category: Money Market
 metadata:
   pt:
     - chainId: 42161

@@ -1,5 +1,6 @@
 name: Marginly
 icon: marginly-logo.png
+category: Yield Strategy
 metadata:
   pt:
     - chainId: 1

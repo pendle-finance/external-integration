@@ -1,5 +1,6 @@
 name: Form
 icon: logo.png
+categories: Others
 metadata:
   pt:
     - chainId: 1

@@ -12,7 +12,7 @@ The YAML file includes details for multiple objects (PT, YT, LP), each correspon
 
  - name: The name of the protocol.
  - icon: The protocol’s logo (circular logo in PNG). The string on this field should be the same as the name of the logo file uploaded. Size limit for logo is 20KB.
- - category: The protocol's category. It must belong to one of the following categories: `money market`, `vault` or `liquid locker`. If no category is specified, the protocol will automatically default to the `others` type.
+ - category: The protocol's category. It must belong to one of the following categories: `Money Market`, `Yield Strategy` or `Liquid Locker`. If no category is specified, the protocol will automatically default to the `Others` type.
  - metadata: This section contains detailed information about the protocol's integration assets.
 
 #### Asset fields
@@ -26,7 +26,7 @@ The YAML file includes details for multiple objects (PT, YT, LP), each correspon
 ```yaml
 name: Protocol Name 2
 icon: logo.png
-category: 'vault'
+category: 'Yield Strategy'
 metadata:
   pt:
     - chainId: 1

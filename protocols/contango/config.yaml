@@ -1,5 +1,6 @@
 name: Contango
 icon: logo.png
+category: Yield Strategy
 metadata:
   pt:
     - chainId: 1

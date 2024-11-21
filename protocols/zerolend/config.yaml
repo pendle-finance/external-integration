@@ -1,6 +1,6 @@
 name: ZeroLend
 icon: logo.png
-metadata:
+metadata: Money Market
   pt:
     - chainId: 1
       address: '0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6'

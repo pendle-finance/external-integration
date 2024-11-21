@@ -1,5 +1,6 @@
 name: Venus Protocol
 icon: venus.png
+category: Money Market
 metadata:
   pt:
     - chainId: 1

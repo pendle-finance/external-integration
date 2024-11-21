@@ -1,5 +1,6 @@
 name: Pichi
 icon: logo.png
+category: Others
 metadata:
   pt:
     - chainId: 1
