@@ -1,7 +1,6 @@
-const DEFAULT_PROTOCOL_CATEGORY = 'others';
-const PROTOCOL_CATEGORIES = ['money market', 'yield strategy', 'liquid locker'];
+// categories need to be lowercase strings
+const PROTOCOL_CATEGORIES = ['money market', 'yield strategy', 'liquid locker', 'others'];
 
 module.exports = {
-  DEFAULT_PROTOCOL_CATEGORY,
   PROTOCOL_CATEGORIES,
 }
