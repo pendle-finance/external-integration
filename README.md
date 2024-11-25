@@ -19,7 +19,7 @@ The YAML file includes details for multiple objects (PT, YT, LP), each correspon
  - chainId: chainId of the integrated assets
  - address: Address of the integrated assets (PT token address for PT integrations, LP token address for LP integration, etc)
  - integrationUrl: Link to the page that integrated the asset
- - description: Description of the asset
+ - description: Description of the asset (max 120 characters).
 
 ### Example
 
