@@ -4,7 +4,7 @@
       "id": "avalon-finance",
       "name": "Avalon Finance",
       "icon": "logo.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
@@ -47,7 +47,7 @@
       "id": "beefy",
       "name": "Beefy",
       "icon": "logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -180,7 +180,7 @@
       "id": "cega",
       "name": "Cega",
       "icon": "logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [],
         "yt": [
@@ -199,7 +199,7 @@
       "id": "contango",
       "name": "Contango",
       "icon": "logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [
           {
@@ -266,7 +266,7 @@
       "id": "euler",
       "name": "Euler",
       "icon": "logo.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
@@ -316,7 +316,7 @@
       "id": "index-coop",
       "name": "Index Coop",
       "icon": "logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [
           {
@@ -347,7 +347,7 @@
       "id": "marginly",
       "name": "Marginly",
       "icon": "marginly-logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [
           {
@@ -378,7 +378,7 @@
       "id": "morpho",
       "name": "Morpho",
       "icon": "logo.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
@@ -439,7 +439,7 @@
       "id": "origami",
       "name": "Origami",
       "icon": "logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [
           {
@@ -509,7 +509,7 @@
       "id": "silo",
       "name": "Silo",
       "icon": "logo.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
@@ -570,7 +570,7 @@
       "id": "timeswap",
       "name": "Timeswap",
       "icon": "logo.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
@@ -607,7 +607,7 @@
       "id": "venus",
       "name": "Venus Protocol",
       "icon": "venus.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
@@ -626,7 +626,7 @@
       "id": "yearn",
       "name": "yearn",
       "icon": "logo.png",
-      "category": "others",
+      "category": "yield strategy",
       "metadata": {
         "pt": [
           {
@@ -831,7 +831,7 @@
       "id": "zerolend",
       "name": "ZeroLend",
       "icon": "logo.png",
-      "category": "others",
+      "category": "money market",
       "metadata": {
         "pt": [
           {
