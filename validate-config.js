@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
-const {PROTOCOL_CATEGORIES} = require("./const");
+const {PROTOCOL_CATEGORIES, DESCRIPTION_MAXIMUM_CHARACTERS} = require("./const");
 
 const LIMIT_ICON_KB_SIZE = 20;
 const BUFFER_LIMIT_ICON_KB_SIZE = LIMIT_ICON_KB_SIZE + 1;
@@ -19,6 +19,18 @@ function isKebabCase(str) {
 function validateCategory(protocol, category) {
   if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category.toLowerCase())) {
     throw new Error(`protocol ${protocol}: invalid field 'category', category must be case-insensitive one of the values (${PROTOCOL_CATEGORIES.join(', ')})`);
+  }
+}
+
+function validateDescription(info) {
+  const {protocol, field, index, description} = info;
+
+  if (!mustBeNonEmptyString(description)) {
+    throw new Error(`protocol ${protocol}: metadata ${field} invalid 'description' field at index ${index}`);
+  }
+
+  if (description.length > DESCRIPTION_MAXIMUM_CHARACTERS) {
+    throw new Error(`protocol ${protocol}: metadata ${field} 'description' too long at index ${index}`);
   }
 }
 
@@ -157,9 +169,7 @@ function checkMetadataField(data, protocol, field, assetMap) {
       throw new Error(`protocol ${protocol}: metadata ${field} address not found in pendle ${field} list at index ${index}`);
     }
 
-    if (!mustBeNonEmptyString(description)) {
-      throw new Error(`protocol ${protocol}: metadata ${field} invalid 'description' field at index ${index}`);
-    }
+    validateDescription({protocol, field, index, description});
 
     if (!mustBeNonEmptyString(integrationUrl)) {
       throw new Error(`protocol ${protocol}: metadata ${field} invalid 'integrationUrl' field at index ${index}`);
