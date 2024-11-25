@@ -17,12 +17,8 @@ function isKebabCase(str) {
 }
 
 function validateCategory(protocol, category) {
-  if (category === undefined) {
-    return;
-  }
-
-  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category)) {
-    throw new Error(`protocol ${protocol}: invalid field 'category', category must be one of the values (${PROTOCOL_CATEGORIES.join(', ')}) or left unset`);
+  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category.toLowerCase())) {
+    throw new Error(`protocol ${protocol}: invalid field 'category', category must be case-insensitive one of the values (${PROTOCOL_CATEGORIES.join(', ')})`);
   }
 }
 

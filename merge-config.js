@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const yaml = require("js-yaml");
-const {DEFAULT_PROTOCOL_CATEGORY} = require("./const");
 
 async function run() {
   const protocolsPath = path.join(__dirname, 'protocols');
@@ -59,7 +58,7 @@ function formatProtocolConfig(config) {
     id,
     name,
     icon,
-    category: category ?? DEFAULT_PROTOCOL_CATEGORY,
+    category: category.toLowerCase(),
     metadata: {
       pt: formatMetadataAssets(pt),
       yt: formatMetadataAssets(yt),
