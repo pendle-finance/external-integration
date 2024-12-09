@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
-const {PROTOCOL_CATEGORIES, DESCRIPTION_MAXIMUM_CHARACTERS} = require("./const");
+const {PROTOCOL_CATEGORIES, DESCRIPTION_MAXIMUM_CHARACTERS, SUBTITLE_MAXIMUM_CHARACTERS} = require("./const");
 
 const LIMIT_ICON_KB_SIZE = 20;
 const BUFFER_LIMIT_ICON_KB_SIZE = LIMIT_ICON_KB_SIZE + 1;
@@ -31,6 +31,22 @@ function validateDescription(info) {
 
   if (description.length > DESCRIPTION_MAXIMUM_CHARACTERS) {
     throw new Error(`protocol ${protocol}: metadata ${field} 'description' too long at index ${index}`);
+  }
+}
+
+function validateSubtitle(info) {
+  const {protocol, field, index, subtitle} = info;
+
+  if (subtitle === undefined) {
+    return;
+  }
+
+  if (!mustBeNonEmptyString(subtitle)) {
+    throw new Error(`protocol ${protocol}: metadata ${field} 'subtitle' is not an non-empty string`);
+  }
+
+  if (subtitle.length > SUBTITLE_MAXIMUM_CHARACTERS) {
+    throw new Error(`protocol ${protocol}: metadata ${field} 'subtitle' too long at index ${index}`);
   }
 }
 
@@ -155,7 +171,7 @@ function checkMetadataField(data, protocol, field, assetMap) {
 
   for (let index = 0; index < data.length; index ++) {
     const item = data[index];
-    const {chainId, address, description, integrationUrl} = item;
+    const {chainId, address, description, integrationUrl, subtitle} = item;
 
     if (typeof chainId !== 'number') {
       throw new Error(`protocol ${protocol}: metadata ${field} invalid 'chainId' field at index ${index}`);
@@ -170,6 +186,8 @@ function checkMetadataField(data, protocol, field, assetMap) {
     }
 
     validateDescription({protocol, field, index, description});
+
+    validateSubtitle({protocol, field, index, subtitle});
 
     if (!mustBeNonEmptyString(integrationUrl)) {
       throw new Error(`protocol ${protocol}: metadata ${field} invalid 'integrationUrl' field at index ${index}`);

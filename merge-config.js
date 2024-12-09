@@ -70,12 +70,13 @@ function formatProtocolConfig(config) {
 function formatMetadataAssets(assets) {
   const result = [];
   for (const asset of (assets ?? [])) {
-    const {chainId, address, integrationUrl, description} = asset;
+    const {chainId, address, integrationUrl, description, subtitle} = asset;
     result.push({
       chainId,
       address: address.toLowerCase(),
       integrationUrl,
       description,
+      subtitle,
     })
   }
 
