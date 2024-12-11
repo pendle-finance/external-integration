@@ -18,6 +18,7 @@ The YAML file includes details for multiple objects (PT, YT, LP), each correspon
 #### Asset fields
  - chainId: chainId of the integrated assets
  - address: Address of the integrated assets (PT token address for PT integrations, LP token address for LP integration, etc)
+ - subtitle: short additional info to distinguish multiple flavours of the same market supported by the same protocol, like 2 different looping strategy for the same PT (max 20 characters)
  - integrationUrl: Link to the page that integrated the asset
  - description: Description of the asset (max 120 characters).
 
@@ -31,6 +32,12 @@ metadata:
   pt:
     - chainId: 1
       address: '0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6'
+      subtitle: USDC
+      integrationUrl: https://www.pendle.magpiexyz.io/stake
+      description: hello it's pt
+    - chainId: 1
+      address: '0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6'
+      subtitle: DAI
       integrationUrl: https://www.pendle.magpiexyz.io/stake
       description: hello it's pt
   yt:
