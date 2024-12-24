@@ -385,6 +385,31 @@
       "hash": "6b7c5a4b927fe6534393871115c3b99b"
     },
     {
+      "id": "gearbox",
+      "name": "Gearbox",
+      "icon": "logo.png",
+      "category": "money market",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
+            "integrationUrl": "https://app.gearbox.fi/strategies/open/0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
+            "description": "PT-LBTC-27MAR2025 is used as collateral to borrow WBTC from the Gearbox pool."
+          },
+          {
+            "chainId": 1,
+            "address": "0x44a7876ca99460ef3218bf08b5f52e2dbe199566",
+            "integrationUrl": "https://app.gearbox.fi/strategies/open/0x44a7876ca99460ef3218bf08b5f52e2dbe199566",
+            "description": "PT-corn-eBTC-27MAR2025 is used as collateral to borrow WBTC from the Gearbox pool."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "d3dafc61f58da855482a726fdd32bf82"
+    },
+    {
       "id": "index-coop",
       "name": "Index Coop",
       "icon": "logo.png",
