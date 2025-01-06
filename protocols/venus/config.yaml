@@ -8,5 +8,20 @@ metadata:
       integrationUrl: >-
         https://app.venus.io/#/isolated-pools/pool/0xF522cd0360EF8c2FF48B648d53EA1717Ec0F3Ac3/market/0x76697f8eaeA4bE01C678376aAb97498Ee8f80D5C?chainId=1
       description: PT-weETH December 2024 market on Venus Protocol
+    - chainId: 1
+      address: '0x8A47b431A7D947c6a3ED6E42d501803615a97EAa'
+      integrationUrl: >-
+        https://app.venus.io/#/isolated-pools/pool/0x562d2b6FF1dbf5f63E233662416782318cC081E4/market/0x62D9E2010Cff87Bae05B91d5E04605ef864ABc3B?chainId=1
+      description: PT-USDe March 2025 market on Venus Protocol
+    - chainId: 1
+      address: '0xE00bd3Df25fb187d6ABBB620b3dfd19839947b81'
+      integrationUrl: >-
+        https://app.venus.io/#/isolated-pools/pool/0x562d2b6FF1dbf5f63E233662416782318cC081E4/market/0xCca202a95E8096315E3F19E46e19E1b326634889?chainId=1
+      description: PT-sUSDE March 2025 market on Venus Protocol
+    - chainId: 56
+      address: '0x541B5eEAC7D4434C8f87e2d32019d67611179606'
+      integrationUrl: >-
+        https://app.venus.io/#/isolated-pools/pool/0x9DF11376Cf28867E2B0741348044780FbB7cb1d6/market/0x02243F036897E3bE1cce1E540FA362fd58749149?chainId=56
+      description: PT-SolvBTC.BBN March 2025 market on Venus Protocol
   yt: []
   lp: []
