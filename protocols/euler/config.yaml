@@ -4,6 +4,11 @@ category: Money Market
 metadata:
   pt:
     - chainId: 1
+      address: '0xA8c8861b5ccF8CCe0ade6811CD2A7A7d3222B0B8'
+      integrationUrl: https://app.euler.finance/borrow?market=resolv&collateralAsset=PT-wstUSR-27MAR2025
+      description: >-
+        PT-wstUSR-27MAR2025 can be used as collateral to borrow or multiply against Apostro's Resolv wstUSR on Euler
+    - chainId: 1
       address: '0x61439b9575278054D69c9176d88FaFaf8319E4b7'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USD0++-30JAN2025&chainId=1
       description: >-
