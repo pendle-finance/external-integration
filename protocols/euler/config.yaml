@@ -4,15 +4,35 @@ category: Money Market
 metadata:
   pt:
     - chainId: 1
+      address: '0xA8c8861b5ccF8CCe0ade6811CD2A7A7d3222B0B8'
+      integrationUrl: https://app.euler.finance/borrow?market=resolv&collateralAsset=PT-wstUSR-27MAR2025
+      description: >-
+        PT-wstUSR-27MAR2025 can be used as collateral to borrow or multiply against Apostro's Resolv wstUSR on Euler
+    - chainId: 1
+      address: '0x61439b9575278054D69c9176d88FaFaf8319E4b7'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USD0++-30JAN2025&chainId=1
+      description: >-
+        PT-USD0++-30JAN2025 can be used as collateral to borrow or multiply against Euler Yield wM or Euler Yield USDC on Euler
+    - chainId: 1
+      address: '0x5BaE9a5D67d1CA5b09B14c91935f635CFBF3b685'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USD0++-27MAR2025&chainId=1
+      description: >-
+        PT-USD0++-27MAR2025 can be used as collateral to borrow or multiply against Euler Yield wM or Euler Yield USDC on Euler
+    - chainId: 1
       address: '0xE00bd3Df25fb187d6ABBB620b3dfd19839947b81'
       integrationUrl: https://app.euler.finance/positions/0xcf47fBe97aaE77B8ABEa5e1F59c9bcb808A8d47d/0x8dDE384022D4dE1D6C67891a8865f551c444dc4C
       description: >-
         PT-sUSDE-27MAR2025 can be used as collateral to borrow or multiply against Stablecoin Maxi sUSDE on Euler
     - chainId: 1
-      address: '0xB997B3418935A1Df0F914Ee901ec83927c1509A0'
-      integrationUrl: https://app.euler.finance/positions/0x43C5c4E62F64b5Ea44871604727870ab93B5F663/0xC605471aE09e0b7daA9e8813707d0DDbf9429Ad2
+      address: '0xb7de5dFCb74d25c2f21841fbd6230355C50d9308'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-29MAY2025
       description: >-
-        PT-EBTC-26DEC2024 can be used as collateral to borrow or multiply against Apostro BTC Cluster's EBTC on Euler
+        PT-sUSDE-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0x8A47b431A7D947c6a3ED6E42d501803615a97EAa'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USDe-27MAR2025
+      description: >-
+        PT-USDe-27MAR2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield
     - chainId: 1
       address: '0xEc5a52C685CC3Ad79a6a347aBACe330d69e0b1eD'
       integrationUrl: https://app.euler.finance/positions/0xBc99605074737d36266f45E0d192dDe6CFDFd72a/0xA2038a5B7Ce1C195F0C52b77134c5369CCfe0148
