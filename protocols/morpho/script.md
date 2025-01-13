@@ -1,5 +1,7 @@
 // run this basic .ts script in a script.ts file with ts-node script.ts. the logs will correspond to the config.yaml file.
 
+// run this basic .ts script in a script.ts file with ts-node script.ts. the logs will correspond to the config.yaml file.
+
 interface Market {
 uniqueKey: string;
 whitelisted: boolean;
@@ -20,12 +22,28 @@ supplyAssetsUsd: number;
 collateralAssetsUsd: number;
 };
 }
+
 interface GraphQLMarketsResponse {
 data: {
 markets: {
 items: Market[];
 };
 };
+}
+
+function isGraphQLMarketsResponse(
+value: unknown
+): value is GraphQLMarketsResponse {
+return (
+typeof value === "object" &&
+value !== null &&
+"data" in value &&
+typeof (value as any).data === "object" &&
+"markets" in (value as any).data &&
+typeof (value as any).data.markets === "object" &&
+"items" in (value as any).data.markets &&
+Array.isArray((value as any).data.markets.items)
+);
 }
 
 export async function fetchPTData(): Promise<void> {
@@ -42,26 +60,26 @@ console.log(" pt:");
 
 // First pass: collect all markets
 while (hasMore) {
-const query = `            query {
-          markets(first: 100, skip: ${skip}, where: { chainId_in: [1, 8453] }, orderBy: BorrowAssetsUsd, orderDirection: Desc) {
-            items {
-              uniqueKey
-              whitelisted
-              collateralAsset {
-                address
-                symbol
-                priceUsd
-                chain {
-                  network
+const query = `           query {
+              markets(first: 100, skip: ${skip}, where: { chainId_in: [1, 8453] }, orderBy: BorrowAssetsUsd, orderDirection: Desc) {
+                items {
+                  uniqueKey
+                  whitelisted
+                  collateralAsset {
+                    address
+                    symbol
+                    priceUsd
+                    chain {
+                      network
+                    }
+                  }
+                  loanAsset {
+                    symbol
+                  }
                 }
               }
-              loanAsset {
-                symbol
-              }
             }
-          }
-        }
-   `;
+      `;
 
     try {
       const response = await fetch("https://blue-api.morpho.org/graphql", {
@@ -86,7 +104,9 @@ const query = `            query {
         (market) =>
           market.whitelisted &&
           market.loanAsset &&
-          market.collateralAsset?.symbol?.toLowerCase().startsWith("pt-")
+          market.collateralAsset?.symbol?.toLowerCase().startsWith("pt-") &&
+          market.collateralAsset?.address.toLowerCase() !==
+            "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9"
       );
 
       // Store filtered markets and update collateralMarkets map
@@ -119,6 +139,12 @@ return addressA.localeCompare(addressB);
 })
 .forEach((market) => {
 if (!market.collateralAsset || !market.loanAsset) return;
+
+      if (
+        market.collateralAsset.address.toLowerCase() ===
+        "0xd0097149aa4cc0d0e1fc99b8bd73fc17dc32c1e9"
+      )
+        return;
 
       const chainId =
         market.collateralAsset.chain.network.toLowerCase() === "ethereum"
