@@ -343,15 +343,39 @@
         "pt": [
           {
             "chainId": 1,
+            "address": "0xa8c8861b5ccf8cce0ade6811cd2a7a7d3222b0b8",
+            "integrationUrl": "https://app.euler.finance/borrow?market=resolv&collateralAsset=PT-wstUSR-27MAR2025",
+            "description": "PT-wstUSR-27MAR2025 can be used as collateral to borrow or multiply against Apostro's Resolv wstUSR on Euler"
+          },
+          {
+            "chainId": 1,
+            "address": "0x61439b9575278054d69c9176d88fafaf8319e4b7",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USD0++-30JAN2025&chainId=1",
+            "description": "PT-USD0++-30JAN2025 can be used as collateral to borrow or multiply against Euler Yield wM or Euler Yield USDC on Euler"
+          },
+          {
+            "chainId": 1,
+            "address": "0x5bae9a5d67d1ca5b09b14c91935f635cfbf3b685",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USD0++-27MAR2025&chainId=1",
+            "description": "PT-USD0++-27MAR2025 can be used as collateral to borrow or multiply against Euler Yield wM or Euler Yield USDC on Euler"
+          },
+          {
+            "chainId": 1,
             "address": "0xe00bd3df25fb187d6abbb620b3dfd19839947b81",
             "integrationUrl": "https://app.euler.finance/positions/0xcf47fBe97aaE77B8ABEa5e1F59c9bcb808A8d47d/0x8dDE384022D4dE1D6C67891a8865f551c444dc4C",
             "description": "PT-sUSDE-27MAR2025 can be used as collateral to borrow or multiply against Stablecoin Maxi sUSDE on Euler"
           },
           {
             "chainId": 1,
-            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
-            "integrationUrl": "https://app.euler.finance/positions/0x43C5c4E62F64b5Ea44871604727870ab93B5F663/0xC605471aE09e0b7daA9e8813707d0DDbf9429Ad2",
-            "description": "PT-EBTC-26DEC2024 can be used as collateral to borrow or multiply against Apostro BTC Cluster's EBTC on Euler"
+            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-29MAY2025",
+            "description": "PT-sUSDE-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x8a47b431a7d947c6a3ed6e42d501803615a97eaa",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USDe-27MAR2025",
+            "description": "PT-USDe-27MAR2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
           },
           {
             "chainId": 1,
