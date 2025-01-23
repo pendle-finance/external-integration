@@ -9,11 +9,6 @@ metadata:
         https://origami.finance/vaults/1-0xDb4f1Bb3f8c9929aaFbe7197e10ffaFEEAe19B9A/info
       description: A 7x leveraged position on PT sUSDe MAR 2025
     - chainId: 1
-      address: '0x5BaE9a5D67d1CA5b09B14c91935f635CFBF3b685'
-      integrationUrl: >-
-        https://origami.finance/vaults/1-0xBd46AbF8999E979C4Ec507E8bE06b5D4402A0205/info
-      description: A 5x leveraged position on PT USD0++ MAR 2025
-    - chainId: 1
       address: '0xEc5a52C685CC3Ad79a6a347aBACe330d69e0b1eD'
       integrationUrl: >-
         https://origami.finance/vaults/1-0xD71Df8f4aa216A21Fa4994167adB65d866cE9B7f/info
