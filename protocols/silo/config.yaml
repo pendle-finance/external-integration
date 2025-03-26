@@ -3,53 +3,53 @@ icon: logo.png
 category: Money Market
 metadata:
   pt:
-    - chainId: 1
-      address: '0x6ee2b5E19ECBa773a352E5B21415Dc419A700d1d'
-      integrationUrl: https://app.silo.finance/silo/0xa2AED60DbDd09c91C2e686E948592dc1c1Cd0cc6
+  - chainId: 146
+      address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstkscusd29may-frxusd-37
       description: >-
-        Deposit PT-eETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 1
-      address: '0xF6fd7Ceb095BfD54130359Cc9366a1493944213A'
-      integrationUrl: https://app.silo.finance/silo/0xD48043A0f99501A057CE1De4C09d982BB433aBAC
+        Leverage PT-wstkscUSD against frxUSD on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+    - chainId: 146
+      address: '0x420df605D062F8611EFb3F203BF258159b8FfFdE'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptsts29may-s-40
       description: >-
-        Deposit PT-pufETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 1
-      address: '0xB07b9fDd62DC478E521E8bDe3630a777725B0eB4'
-      integrationUrl: https://app.silo.finance/silo/0xF94f40873e662086666bdA3eC58801AC35B2921a
+        Leverage PT-stS against S on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+      - chainId: 146
+      address: '0x930441Aa7Ab17654dF5663781CA0C02CC17e6643'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptausdc14aug-scusd-46
       description: >-
-        Deposit PT-rsETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 1
-      address: '0xf7906F274c174A52d444175729E3fa98f9bde285'
-      integrationUrl: https://app.silo.finance/silo/0xC47429cba84F8128559958c970Df5BC6CA2B9c89
+        Leverage PT-aUSDC against scUSD on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+        - chainId: 146
+      address: '0xa2161E75EDf50d70544e6588788A5732A3105c00'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstksceth29may-eth-35
       description: >-
-        Deposit PT-ezETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 42161
-      address: '0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f'
-      integrationUrl: https://app.silo.finance/silo/0x1E5B48F3130502FFD1DFb6d24AC3C42269e41538
+        Leverage PT-wstkscETH against ETH on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+          - chainId: 146
+      address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstkscusd29may-usdc-34
       description: >-
-        Deposit PT-eETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 42161
-      address: '0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f'
-      integrationUrl: https://app.silo.finance/silo/0x00b7BBDd582Ef58445aA87Ac6Beb61F5fA36e71b
+        Leverage PT-wstkscUSD against USDC on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+            - chainId: 146
+      address: '0x46eb02b9F47634c4fab3110CC7ADc1C6311DfAC1'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwos29may-s-41
       description: >-
-        Deposit PT-rsETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 42161
-      address: '0x355ec27c9d4530dE01A103FA27F884a2F3dA65ef'
-      integrationUrl: https://app.silo.finance/silo/0x00b7BBDd582Ef58445aA87Ac6Beb61F5fA36e71b
+        Leverage PT-woS against S on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+              - chainId: 146
+      address: '0xa2161E75EDf50d70544e6588788A5732A3105c00'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstksceth29may-sceth-47
       description: >-
-        Deposit PT-rsETH(26 Dec) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
-    - chainId: 42161
-      address: '0x1FA42e6730DF74fF2742704761Da41111bB7F019'
-      integrationUrl: https://app.silo.finance/silo/0x1e2968B3e23D625906F32A94dbFe2F44930c6Db7
+        Leverage PT-wstkscETH against scETH on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
+                - chainId: 146
+      address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstkscusd29may-scusd-44
       description: >-
-        Deposit PT-USDe(28 Nov) into Silo’s isolated lending marks to borrow
-        ETH/USDC and earn additional rewards.
+        Leverage PT-wstkscUSD against scUSD on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
   yt: []
   lp: []
