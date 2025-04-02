@@ -10,7 +10,7 @@ metadata:
         PT-USR-24APR2025 can be used as collateral to borrow or multiply against Apostro Resolv's USR or USDC on Euler
     - chainId: 146
       address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
-      integrationalUrl: https://app.euler.finance/borrow?collateralAsset=PT-wstkscUSD-29MAY2025&network=sonic
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-wstkscUSD-29MAY2025&network=sonic
       description: >-
         PT-wstkscUSD-29MAY2025 can be used as collateral to borrow or multiply against MEV Capital's USDC.e on Euler
     - chainId: 146
