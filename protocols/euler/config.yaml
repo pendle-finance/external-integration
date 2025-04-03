@@ -29,6 +29,11 @@ metadata:
       description: >-
         PT-wOS-29MAY2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler
     - chainId: 1
+      address: '0x50D2C7992b802Eef16c04FeADAB310f31866a545'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-eUSDE-29MAY2025&network=ethereum
+      description: >-
+        PT-eUSDE-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield
+    - chainId: 1
       address: '0xf696FE29Ef85E892b5926313897D178288faA07e'
       integrationUrl: https://app.euler.finance/?asset=PT-USD0++-26JUN2025&sorting=totalSupply-desc&network=ethereum
       description: >-
@@ -42,7 +47,7 @@ metadata:
       address: '0xae4bE3acD95B6a4Ac5A0524ab95dA90c721f6C83'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USR-29MAY2025&network=ethereum
       description: >-
-        PT-USR-29MAY2025 can be used as collateral to borrow or multiply against Apostro Resolv/Tulipa Resolv USDC or Apostro Resolv USR on Euler
+        PT-USR-29MAY2025 can be used as collateral to borrow or multiply against USDC or USR within Resolv markets on Euler
     - chainId: 1
       address: '0x23E60d1488525bf4685f53b3aa8E676c30321066'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-wstUSR-25SEP2025&network=ethereum
