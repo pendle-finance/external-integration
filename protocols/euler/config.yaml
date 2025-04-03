@@ -35,7 +35,7 @@ metadata:
         PT-eUSDE-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield
     - chainId: 1
       address: '0xf696FE29Ef85E892b5926313897D178288faA07e'
-      integrationUrl: https://app.euler.finance/?asset=PT-USD0++-26JUN2025&sorting=totalSupply-desc&network=ethereum
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USD0%2B%2B-26JUN2025&network=ethereum
       description: >-
         PT-USD0++-26JUN2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield
     - chainId: 1
