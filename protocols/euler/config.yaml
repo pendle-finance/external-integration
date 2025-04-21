@@ -3,6 +3,16 @@ icon: logo.png
 category: Money Market
 metadata:
   pt:
+    - chainId: 80094
+      address: '0x2719e657ec3B3CbE521a18E640CA55799836376f'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-25SEP2025&network=berachain
+      description: >-
+        PT-sUSDE-25SEP2025 can be used as collateral to borrow or multiply against a variety of assets on Berachain
+    - chainId: 56
+      address: '0xDD809435ba6c9d6903730f923038801781cA66ce'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-26JUN2025&network=bnbsmartchain
+      description: >-
+        PT-sUSDE-26JUN2025 can be used as collateral to borrow or multiply against Apostro BSC's USDE or USDC on Euler
     - chainId: 8453
       address: '0xec443e7E0e745348E500084892C89218B3ba4683'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USR-24APR2025&network=base
