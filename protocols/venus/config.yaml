@@ -23,5 +23,15 @@ metadata:
       integrationUrl: >-
         https://app.venus.io/#/isolated-pools/pool/0x9DF11376Cf28867E2B0741348044780FbB7cb1d6/market/0x02243F036897E3bE1cce1E540FA362fd58749149?chainId=56
       description: PT-SolvBTC.BBN March 2025 market on Venus Protocol
+    - chainId: 56
+      address: '0xdd809435ba6c9d6903730f923038801781ca66ce'
+      integrationUrl: >-
+        https://app.venus.io/#/core-pool/market/0x9e4E5fed5Ac5B9F732d0D850A615206330Bf1866?chainId=56
+      description: PT-sUSDE June 2025 market on Venus Protocol
+    - chainId: 56
+      address: '0xe8f1c9804770e11ab73395be54686ad656601e9e'
+      integrationUrl: >-
+        https://app.venus.io/#/isolated-pools/pool/0xd933909A4a2b7A4638903028f44D1d38ce27c352/market/0xA537ACf381b12Bbb91C58398b66D1D220f1C77c8?chainId=56
+      description: PT-clisBNB April 2025 market on Venus Protocol
   yt: []
   lp: []

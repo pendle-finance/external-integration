@@ -51,5 +51,11 @@ metadata:
       description: >-
         Leverage PT-wstkscUSD against scUSD on Silo to maximize your 
         fixed yield while earning bonus Silo Points.
+    - chainId: 146
+      address: '0x789cA09b0B4bcc83062d817C43206f96bd464015'
+      integrationUrl: https://v2.silo.finance/markets/sonic/ptwans28aug-s-51
+      description: >-
+        Leverage PT-wANS against S on Silo to maximize your 
+        fixed yield while earning bonus Silo Points.
   yt: []
   lp: []
