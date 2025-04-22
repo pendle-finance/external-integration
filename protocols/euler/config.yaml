@@ -12,7 +12,7 @@ metadata:
       address: '0xDD809435ba6c9d6903730f923038801781cA66ce'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-26JUN2025&network=bnbsmartchain
       description: >-
-        PT-sUSDE-26JUN2025 can be used as collateral to borrow or multiply against Apostro BSC's USDE or USDC on Euler
+        PT-sUSDE-26JUN2025 can be used as collateral to borrow or multiply against stables on Euler
     - chainId: 8453
       address: '0xec443e7E0e745348E500084892C89218B3ba4683'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USR-24APR2025&network=base
