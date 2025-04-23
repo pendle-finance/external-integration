@@ -14,6 +14,11 @@ metadata:
       description: >-
         PT-sUSDE-26JUN2025 can be used as collateral to borrow or multiply against stables on Euler
     - chainId: 8453
+      address: '0xa6F0A4D18B6f6DdD408936e81b7b3A8BEFA18e77'
+      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USR-25SEP2025&network=base
+      description: >-
+        PT-USR-25SEP2025 can be used as collateral to borrow or multiply against Apostro Resolv's USR or USDC on Euler
+    - chainId: 8453
       address: '0xec443e7E0e745348E500084892C89218B3ba4683'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USR-24APR2025&network=base
       description: >-
