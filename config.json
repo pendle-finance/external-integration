@@ -966,6 +966,33 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x10b0ce8c2db5e51338caa54effa56c4dd450527a31b12d60e8a33e8fdaa4ebb1&network=base",
             "description": "The PT-USR-24APR2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
             "subtitle": "USR"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "integrationUrl": "https://app.morpho.org/market?id=0xb81eaed0df42ff6646c8daf4fe38afab93b13b6a89c9750d08e705223a45e2ef&network=mainnet",
+            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
+            "subtitle": "DAI"
+          },
+          {
+            "chainId": 8453,
+            "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
+            "integrationUrl": "https://app.morpho.org/market?id=0x580b0cfee735c839af1d15f09c8885ee6305a8bbd4fe14ace0b01454e57f48da&network=base",
+            "description": "The PT-USR-25SEP2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
+            "subtitle": "USR"
+          },
+          {
+            "chainId": 8453,
+            "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
+            "integrationUrl": "https://app.morpho.org/market?id=0x669b68ae003954dde5b2be025fa373bfc6b6134fc3180ea746c31e892243ae81&network=base",
+            "description": "The PT-USR-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf736acf34ff7cd9b3565b73a1f15e652859bf322",
+            "integrationUrl": "https://app.morpho.org/market?id=0x10b401f4254a7039b7168c5a614c81ea8be698186cfb33aa56ac2adbcf0e88f9&network=mainnet",
+            "description": "The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
           }
         ],
         "yt": [],
