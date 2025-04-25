@@ -508,6 +508,24 @@
             "address": "0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
             "integrationUrl": "https://app.euler.finance/positions/0xBc99605074737d36266f45E0d192dDe6CFDFd72a/0xA2038a5B7Ce1C195F0C52b77134c5369CCfe0148",
             "description": "PT-LBTC-27MAR2025 can be used as collateral to borrow or multiply against Apostro BTC Cluster's LBTC on Euler"
+          },
+          {
+            "chainId": 1,
+            "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-cUSDO-19JUN2025&network=ethereum",
+            "description": "PT-cUSDO-19JUN2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 8453,
+            "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USR-25SEP2025&network=base",
+            "description": "PT-USR-25SEP2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 8453,
+            "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-LBTC-29MAY2025&network=base",
+            "description": "PT-LBTC-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
           }
         ],
         "yt": [],
