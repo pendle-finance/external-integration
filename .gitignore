@@ -5,6 +5,7 @@
 !*.yml
 !*.yaml
 !*.md
+!*.png
 
 # Allow subdirectories to be checked for allowed file types
 !*/
