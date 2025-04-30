@@ -1,6 +1,25 @@
 {
   "protocols": [
     {
+      "id": "aave",
+      "name": "Aave",
+      "icon": "logo.png",
+      "category": "money market",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x50d2c7992b802eef16c04feadab310f31866a545&marketName=proto_mainnet_v3",
+            "description": "PT-eUSDe-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "000b94ab85b7b18f10c51aba4cc505b0"
+    },
+    {
       "id": "avalon-finance",
       "name": "Avalon Finance",
       "icon": "logo.png",
