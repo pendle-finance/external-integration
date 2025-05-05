@@ -139,7 +139,8 @@ metadata:
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USR-25SEP2025&network=base
       description: >-
-        PT-USR-25SEP2025 can be used as collateral to borrow or multiply against Apostro Resolv's USR or USDC on Euler
+        PT-USR-25SEP2025 can be used as collateral to borrow or multiply against
+        Apostro Resolv's USR or USDC on Euler
     - chainId: 8453
       address: '0x5d746848005507da0b1717c137a10c30ad9ee307'
       integrationUrl: >-
@@ -147,5 +148,12 @@ metadata:
       description: >-
         PT-LBTC-29MAY2025 can be used as collateral to borrow or multiply
         against a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0x3b3fb9c57858ef816833dc91565efcd85d96f634'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDE-31JUL2025&network=ethereum
+      description: >-
+        PT-sUSDE-31JUL2025 can be used as collateral to borrow or multiply
+        against .........
   yt: []
   lp: []
