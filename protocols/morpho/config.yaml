@@ -517,5 +517,20 @@ metadata:
       description: >-
         The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market
         with rUSD as the loan token.
+    - chainId: 1
+      address: '0x3b3fb9c57858ef816833dc91565efcd85d96f634'
+      subtitle: sUSDS
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x896111ed91a5ae232f98193b453fae1eb6670ce504e228636b7d0baae23fd52d&network=mainnet
+      description: >-
+        The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho
+        market with sUSDS as the loan token.
+    - chainId: 1
+      address: '0xf10a134a987e22ffa9463570a6d1eb92a63fc178'
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x544b0a093b130a3fb01b72a1279ab848575f049c73da3b5c9c718f9350a1519c&network=mainnet
+      description: >-
+        The PT-csUSDL-31JUL2025 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
