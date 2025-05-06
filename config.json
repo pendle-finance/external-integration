@@ -12,6 +12,12 @@
             "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x50d2c7992b802eef16c04feadab310f31866a545&marketName=proto_mainnet_v3",
             "description": "PT-eUSDe-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x3b3fb9c57858ef816833dc91565efcd85d96f634&marketName=proto_mainnet_v3",
+            "description": "PT-sUSDE-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
           }
         ],
         "yt": [],
@@ -1117,6 +1123,19 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xa317ab09a76b2213271a4df078cb3f132a4d192b456b1eb56051ff32cca6f0a1&network=mainnet",
             "description": "The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market with rUSD as the loan token.",
             "subtitle": "rUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "integrationUrl": "https://app.morpho.org/market?id=0x896111ed91a5ae232f98193b453fae1eb6670ce504e228636b7d0baae23fd52d&network=mainnet",
+            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with sUSDS as the loan token.",
+            "subtitle": "sUSDS"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf10a134a987e22ffa9463570a6d1eb92a63fc178",
+            "integrationUrl": "https://app.morpho.org/market?id=0x544b0a093b130a3fb01b72a1279ab848575f049c73da3b5c9c718f9350a1519c&network=mainnet",
+            "description": "The PT-csUSDL-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
           }
         ],
         "yt": [],
