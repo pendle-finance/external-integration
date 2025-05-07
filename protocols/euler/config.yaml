@@ -161,6 +161,6 @@ metadata:
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-aSonUSDC-14AUG2025&network=sonic
       description: >-
         PT-aSonUSDC-14AUG2025 can be used as collateral to borrow or multiply
-        against .........
+        against scUSD or USDC.e on Euler
   yt: []
   lp: []
