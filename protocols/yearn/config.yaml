@@ -1,6 +1,7 @@
 name: yearn
 icon: logo.png
 category: Yield Strategy
+description: Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets.
 metadata:
   pt:
     - chainId: 1

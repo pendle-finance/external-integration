@@ -116,10 +116,14 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: config is not an object`);
   }
 
-  const {name, icon, metadata, category} = protocolConfig;
+  const {name, icon, metadata, category, description} = protocolConfig;
 
   if (!mustBeNonEmptyString(name)) {
     throw new Error(`protocol ${protocol}: invalid field 'name'`);
+  }
+
+  if (!mustBeValidProtocolDescription(description)) {
+    throw new Error(`protocol ${protocol}: invalid field 'description'`);
   }
 
   validateCategory(protocol, category);
@@ -158,6 +162,10 @@ function validateConfig(protocol, assetMap) {
 
 function mustBeNonEmptyString(str) {
   return typeof str === 'string' && str.trim() !== '';
+}
+
+function mustBeValidProtocolDescription(str) {
+  return str === undefined || typeof str === 'string';
 }
 
 function checkMetadataField(data, protocol, field, assetMap) {

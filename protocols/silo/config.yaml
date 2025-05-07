@@ -1,6 +1,7 @@
 name: Silo
 icon: logo.png
 category: Money Market
+description: Silo is a high-yield, risk-isolated money markets for lending and borrowing any crypto assets
 metadata:
   pt:
     - chainId: 146

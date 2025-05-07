@@ -1,6 +1,7 @@
 name: Venus Protocol
 icon: venus.png
 category: Money Market
+description: Venus Protocol is a decentralized money market protocol on BNB chain, enabling users to lend and borrow digital assets.
 metadata:
   pt:
     - chainId: 1
