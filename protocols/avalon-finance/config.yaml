@@ -1,6 +1,7 @@
 name: Avalon Finance
 icon: logo.png
 category: Money Market
+description: Avalon powers Bitcoin onchain capital markets, allowing users to lend, borrow and Earn with Bitcoin.
 metadata:
   pt:
     # Ethereum PT-corn-SolvBTC.BBN-26DEC2024
