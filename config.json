@@ -5,6 +5,7 @@
       "name": "Aave",
       "icon": "logo.png",
       "category": "money market",
+      "description": "Aave is a decentralised non-custodial liquidity protocol where users can participate as suppliers or borrowers",
       "metadata": {
         "pt": [
           {
@@ -30,6 +31,7 @@
       "name": "Avalon Finance",
       "icon": "logo.png",
       "category": "money market",
+      "description": "Avalon powers Bitcoin onchain capital markets, allowing users to lend, borrow and Earn with Bitcoin.",
       "metadata": {
         "pt": [
           {
@@ -225,6 +227,7 @@
       "name": "Contango",
       "icon": "logo.png",
       "category": "yield strategy",
+      "description": "Contango builds positions by automating looping strategies through flash loans. When a trader opens a position, the protocol borrows on money markets.",
       "metadata": {
         "pt": [
           {
@@ -424,6 +427,7 @@
       "name": "Euler",
       "icon": "logo.png",
       "category": "money market",
+      "description": "Euler is a modular lending platform that enables users to lend, borrow and build without limits.",
       "metadata": {
         "pt": [
           {
@@ -594,6 +598,7 @@
       "name": "Gearbox",
       "icon": "logo.png",
       "category": "money market",
+      "description": "Gearbox brings composable leverage, allowing users to margin trade, leverage farm and leverage restake through its permissionless credit layer.",
       "metadata": {
         "pt": [
           {
@@ -681,6 +686,7 @@
       "name": "Morpho",
       "icon": "logo.png",
       "category": "money market",
+      "description": "A permissionless and non-custodial lending protocol where users can earn interest on over-collaterized lending and borrow digital assets using immutable infrastructure.",
       "metadata": {
         "pt": [
           {
@@ -1224,6 +1230,7 @@
       "name": "Silo",
       "icon": "logo.png",
       "category": "money market",
+      "description": "Silo is a high-yield, risk-isolated money markets for lending and borrowing any crypto assets",
       "metadata": {
         "pt": [
           {
@@ -1328,6 +1335,7 @@
       "name": "Venus Protocol",
       "icon": "venus.png",
       "category": "money market",
+      "description": "Venus Protocol is a decentralized money market protocol on BNB chain, enabling users to lend and borrow digital assets.",
       "metadata": {
         "pt": [
           {
@@ -1377,6 +1385,7 @@
       "name": "yearn",
       "icon": "logo.png",
       "category": "yield strategy",
+      "description": "Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets.",
       "metadata": {
         "pt": [
           {
