@@ -4,9 +4,14 @@ category: Yield Strategy
 metadata:
   pt:
     - chainId: 1
-      address: '0xae5099c39f023c91d3dd55244cafb36225b0850e'
+      address: '0xE00bd3Df25fb187d6ABBB620b3dfd19839947b81'
       integrationUrl: >-
-        https://origami.finance/vaults/1-0xb9dad3693AEAc9025Cb24a47AFA6930539877187/info
-      description: A 5x leveraged position on PT sUSDe OCT 2024
+        https://origami.finance/vaults/1-0xDb4f1Bb3f8c9929aaFbe7197e10ffaFEEAe19B9A/info
+      description: A 7x leveraged position on PT sUSDe MAR 2025
+    - chainId: 1
+      address: '0xEc5a52C685CC3Ad79a6a347aBACe330d69e0b1eD'
+      integrationUrl: >-
+        https://origami.finance/vaults/1-0xD71Df8f4aa216A21Fa4994167adB65d866cE9B7f/info
+      description: A 5x leveraged position on PT LBTC MAR 2025
   yt: []
   lp: []
