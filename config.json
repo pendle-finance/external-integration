@@ -1151,6 +1151,32 @@
             "address": "0xf10a134a987e22ffa9463570a6d1eb92a63fc178",
             "integrationUrl": "https://app.morpho.org/market?id=0x544b0a093b130a3fb01b72a1279ab848575f049c73da3b5c9c718f9350a1519c&network=mainnet",
             "description": "The PT-csUSDL-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
+          },
+          {
+            "chainId": 1,
+            "address": "0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8",
+            "integrationUrl": "https://app.morpho.org/market?id=0xe61a903174169e4897669e9bc4419eb7582b36d1a3d3df633dccab88da6e2ccd&network=mainnet",
+            "description": "The PT-lvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8",
+            "integrationUrl": "https://app.morpho.org/market?id=0xa4bb66e932dfa4b54c0b612dfffdbdc426f7906306a78178acd8562739121b9a&network=mainnet",
+            "description": "The PT-lvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
+            "subtitle": "lvlUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x2ca5f2c4300450d53214b00546795c1c07b89acb",
+            "integrationUrl": "https://app.morpho.org/market?id=0xae1c1750e2324098820355939d6da6ab046bc33ccbf1aaf192f6c96dba18b5d1&network=mainnet",
+            "description": "The PT-slvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7f01d0fce9bc646389483384c41b4d71c7139f11",
+            "integrationUrl": "https://app.morpho.org/market?id=0x97efa214630ff5ed8f2194e7f173344f3a2f93bf8f5c6653d0509312efc9fae1&network=mainnet",
+            "description": "The PT-mEDGE-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
           }
         ],
         "yt": [],
