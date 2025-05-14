@@ -1323,6 +1323,111 @@
       "hash": "0ffa14bbac8ac2ebc4d05ee5a50bb15a"
     },
     {
+      "id": "termmax",
+      "name": "TermMax",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "TermMax is a DeFi AMM protocol that allows users to lend, borrow and one-click leverage at fixed-rates and with maturity dates.",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x3b3fb9c57858ef816833dc91565efcd85d96f634&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDE-31JUL2025 as collateral on TermMax.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&collateralToken=1%3A0x3b3fb9c57858ef816833dc91565efcd85d96f634&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDE-31JUL2025.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x933b9ffee0ad3ef8e4dbb52688ea905826d73755&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Borrow USDC at a fixed rate with PT-cUSDO-19JUN2025 as collateral on TermMax.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d&debtToken=1%3A0xd9a442856c234a39a81a089c06451ebaa4306a72",
+            "description": "Borrow pufETH at a fixed rate with PT-pufETH-26JUN2025 as collateral on TermMax.",
+            "subtitle": "pufETH"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&collateralToken=1%3A0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d&debtToken=1%3A0xd9a442856c234a39a81a089c06451ebaa4306a72",
+            "description": "Earn leveraged fixed-rate yields with pufETH on TermMax, with yields from PT-pufETH-26JUN2025.",
+            "subtitle": "pufETH"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d&debtToken=1%3A0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "description": "Borrow WETH at a fixed rate with PT-pufETH-26JUN2025 as collateral on TermMax.",
+            "subtitle": "WETH"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&collateralToken=1%3A0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d&debtToken=1%3A0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "description": "Earn leveraged fixed-rate yields with WETH on TermMax, with yields from PT-pufETH-26JUN2025.",
+            "subtitle": "WETH"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9bca74f805ab0a22ddd0886db0942199a0feba71",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x9bca74f805ab0a22ddd0886db0942199a0feba71&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Borrow USDC at a fixed rate with PT-lvlUSD-29MAY2025 as collateral on TermMax.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9bca74f805ab0a22ddd0886db0942199a0feba71",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&collateralToken=1%3A0x9bca74f805ab0a22ddd0886db0942199a0feba71&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-lvlUSD-29MAY2025.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0xb7de5dfcb74d25c2f21841fbd6230355c50d9308&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDE-29MAY2025 as collateral on TermMax.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&collateralToken=1%3A0xb7de5dfcb74d25c2f21841fbd6230355c50d9308&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDE-29MAY2025.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "description": "Borrow WETH at a fixed rate with PT-weETH-26JUN2025 as collateral on TermMax.",
+            "subtitle": "WETH"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "description": "Earn leveraged fixed-rate yields with WETH on TermMax, with yields from PT-weETH-26JUN2025.",
+            "subtitle": "WETH"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "4be50b9531b14c256e9cc6a93b94ccec"
+    },
+    {
       "id": "timeswap",
       "name": "Timeswap",
       "icon": "logo.png",
