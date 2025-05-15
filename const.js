@@ -3,7 +3,7 @@ const PROTOCOL_CATEGORIES = ['money market', 'yield strategy', 'liquid locker', 
 
 const DESCRIPTION_MAXIMUM_CHARACTERS = 120;
 
-const SUBTITLE_MAXIMUM_CHARACTERS = 12;
+const SUBTITLE_MAXIMUM_CHARACTERS = 20;
 
 module.exports = {
   PROTOCOL_CATEGORIES,
