@@ -762,7 +762,8 @@
             "chainId": 1,
             "address": "0x4d4062bad41e03b1cdee4c06263f96eb81832341",
             "integrationUrl": "https://app.morpho.org/market?id=0xeb3e4a68c675d88f5a4378eab966e717bdee6a0f38c5ca6da2560ac5d1534f60&network=mainnet",
-            "description": "The PT-slvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
+            "description": "The PT-slvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           },
           {
             "chainId": 1,
@@ -884,6 +885,13 @@
             "address": "0xe08c45f3cfe70f4e03668dc6e84af842bee95a68",
             "integrationUrl": "https://app.morpho.org/market?id=0xc3250fa72657f5d956a55fd7febf5bf953c18aa04bff2e4088415b1e5c2923b0&network=mainnet",
             "description": "The PT-rsETH-26JUN2025 is the asset used as collateral in a Morpho market with WETH as the loan token."
+          },
+          {
+            "chainId": 1,
+            "address": "0x4d4062bad41e03b1cdee4c06263f96eb81832341",
+            "integrationUrl": "https://app.morpho.org/market?id=0xd79d4f7e2ba3de2f5ddf6521fb38e81909f6bead9f9b1971496fbddb7dbca52c&network=mainnet",
+            "description": "The PT-slvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
+            "subtitle": "lvlUSD"
           }
         ],
         "yt": [],
