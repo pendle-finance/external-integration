@@ -101,6 +101,7 @@ metadata:
       description: >-
         The PT-lvlUSD-29MAY2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+      subtitle: USDC
     - chainId: 1
       address: '0xae4be3acd95b6a4ac5a0524ab95da90c721f6c83'
       integrationUrl: >-
@@ -159,6 +160,7 @@ metadata:
       description: >-
         The PT-wstUSR-25SEP2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+      subtitle: USDC
     - chainId: 1
       address: '0x7f01d0fce9bc646389483384c41b4d71c7139f11'
       integrationUrl: >-
@@ -242,5 +244,21 @@ metadata:
       description: >-
         The PT-slvlUSD-29MAY2025 is the asset used as collateral in a Morpho
         market with lvlUSD as the loan token.
+    - chainId: 1
+      address: '0x9bca74f805ab0a22ddd0886db0942199a0feba71'
+      subtitle: lvlUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x36b01349f1d6044288eab3a189c528c1ef8f236433d805cd2d9a930843fe61be&network=mainnet
+      description: >-
+        The PT-lvlUSD-29MAY2025 is the asset used as collateral in a Morpho
+        market with lvlUSD as the loan token.
+    - chainId: 1
+      address: '0x23e60d1488525bf4685f53b3aa8e676c30321066'
+      subtitle: USR
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x070030dcd03a08fa6f76a6b9d9a18e28496b9c62043d552f31bfa9b2d519a543&network=mainnet
+      description: >-
+        The PT-wstUSR-25SEP2025 is the asset used as collateral in a Morpho
+        market with USR as the loan token.
   yt: []
   lp: []
