@@ -81,6 +81,13 @@ metadata:
         https://app.termmax.ts.finance/leverage?chain=eth&collateralToken=1%3A0xb7de5dfcb74d25c2f21841fbd6230355c50d9308&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
       description: >-
         Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDE-29MAY2025.
+    - chainId: 1
+      address: '0x2CA5f2C4300450D53214B00546795c1c07B89acB'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x2ca5f2c4300450d53214b00546795c1c07b89acb&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+      description: >-
+        Borrow USDC at a fixed rate with PT-slvlUSD-25SEP2025 as collateral on TermMax.
     - chainId: 42161
       address: '0xb33808ea0e883138680BA29311a220A7377cdb92'
       subtitle: WETH
