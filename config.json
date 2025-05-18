@@ -1139,6 +1139,13 @@
             "subtitle": "Levered Yields"
           },
           {
+            "chainId": 1,
+            "address": "0x2ca5f2c4300450d53214b00546795c1c07b89acb",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x2ca5f2c4300450d53214b00546795c1c07b89acb&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "description": "Borrow USDC at a fixed rate with PT-slvlUSD-25SEP2025 as collateral on TermMax.",
+            "subtitle": "USDC"
+          },
+          {
             "chainId": 42161,
             "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
             "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
