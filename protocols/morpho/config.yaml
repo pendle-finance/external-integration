@@ -160,7 +160,6 @@ metadata:
       description: >-
         The PT-wstUSR-25SEP2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
-      subtitle: USDC
     - chainId: 1
       address: '0x7f01d0fce9bc646389483384c41b4d71c7139f11'
       integrationUrl: >-
