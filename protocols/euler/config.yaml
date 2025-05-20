@@ -1,7 +1,9 @@
 name: Euler
 icon: logo.png
 category: Money Market
-description: Euler is a modular lending platform that enables users to lend, borrow and build without limits.
+description: >-
+  Euler is a modular lending platform that enables users to lend, borrow and
+  build without limits.
 metadata:
   pt:
     - chainId: 80094
@@ -163,5 +165,12 @@ metadata:
       description: >-
         PT-aSonUSDC-14AUG2025 can be used as collateral to borrow or multiply
         against scUSD or USDC.e on Euler
+    - chainId: 1
+      address: '0xcce7d12f683c6dae700154f0badf779c0ba1f89a'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-syrupUSDC-28AUG2025&network=ethereum
+      description: >-
+        PT-syrupUSDC-28AUG2025 can be used as collateral to borrow or multiply
+        against .........
   yt: []
   lp: []
