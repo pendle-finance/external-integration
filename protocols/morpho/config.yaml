@@ -289,5 +289,14 @@ metadata:
       description: >-
         The PT-slvlUSD-25SEP2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+      subtitle: USDC
+    - chainId: 1
+      address: '0x2ca5f2c4300450d53214b00546795c1c07b89acb'
+      subtitle: lvlUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x8ebcaf72c7cd75e8c621ec77ec343b3152c48908c4a6e217da82fe6af23c1928&network=mainnet
+      description: >-
+        The PT-slvlUSD-25SEP2025 is the asset used as collateral in a Morpho
+        market with lvlUSD as the loan token.
   yt: []
   lp: []
