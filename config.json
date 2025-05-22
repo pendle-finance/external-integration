@@ -567,6 +567,12 @@
             "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-aSonUSDC-14AUG2025&network=sonic",
             "description": "PT-aSonUSDC-14AUG2025 can be used as collateral to borrow or multiply against scUSD or USDC.e on Euler"
+          },
+          {
+            "chainId": 1,
+            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-syrupUSDC-28AUG2025&network=ethereum",
+            "description": "PT-syrupUSDC-28AUG2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
           }
         ],
         "yt": [],
