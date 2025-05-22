@@ -171,6 +171,6 @@ metadata:
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-syrupUSDC-28AUG2025&network=ethereum
       description: >-
         PT-syrupUSDC-28AUG2025 can be used as collateral to borrow or multiply
-        against .........
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
