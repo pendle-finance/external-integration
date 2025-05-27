@@ -1506,6 +1506,44 @@
       "hash": "ca888ff447d45839ca0cc7fa1562c3c2"
     },
     {
+      "id": "yield-fi",
+      "name": "YieldFi",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "YieldFi helps you earn higher returns on your cryptocurrency investments through yield farming, staking, and liquidity provision.",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0xf10a134a987e22ffa9463570a6d1eb92a63fc178",
+            "integrationUrl": "https://yield.fi/mint",
+            "description": "PT csUSDL 31 JUL 2025"
+          },
+          {
+            "chainId": 1,
+            "address": "0xab365c0879024481e4ad3b47bd6fea9c10014fbc",
+            "integrationUrl": "https://yield.fi/mint",
+            "description": "PT sUSDF 25 SEP 2025"
+          },
+          {
+            "chainId": 1,
+            "address": "0x7f01d0fce9bc646389483384c41b4d71c7139f11",
+            "integrationUrl": "https://yield.fi/mint",
+            "description": "PT mEDGE 31 JUL 2025"
+          },
+          {
+            "chainId": 1,
+            "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
+            "integrationUrl": "https://yield.fi/mint",
+            "description": "PT cUSDO 19 JUN 2025"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "78a6addf96f01d0e9dfb9c4f6bb11496"
+    },
+    {
       "id": "zerolend",
       "name": "ZeroLend",
       "icon": "logo.png",
