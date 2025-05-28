@@ -173,53 +173,25 @@ metadata:
         PT-syrupUSDC-28AUG2025 can be used as collateral to borrow or multiply
         against a variety of assets within Euler Yield
     - chainId: 1
-      address: '0x1132065009850c72e27b7950c0f9285d1d103589'
-      integrationUrl: >-
-        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mMEV-31JUL2025&network=ethereum
-      description: >-
-        PT-mMEV-31JUL2025 can be used as collateral to borrow or multiply
-        against .........
-    - chainId: 1
-      address: '0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8'
-      integrationUrl: >-
-        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-lvlUSD-25SEP2025&network=ethereum
-      description: >-
-        PT-lvlUSD-25SEP2025 can be used as collateral to borrow or multiply
-        against .........
-    - chainId: 1
-      address: '0x2ca5f2c4300450d53214b00546795c1c07b89acb'
-      integrationUrl: >-
-        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-slvlUSD-25SEP2025&network=ethereum
-      description: >-
-        PT-slvlUSD-25SEP2025 can be used as collateral to borrow or multiply
-        against .........
-    - chainId: 1
       address: '0xedce58c0d14a9beaa4f053ebdbdb2df83f211118'
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USN-31JUL2025&network=ethereum
       description: >-
         PT-USN-31JUL2025 can be used as collateral to borrow or multiply against
-        .........
+        a variety of assets within Euler Yield
     - chainId: 1
       address: '0x742b4166878bfd339db65a29a17e49b81a6b6aac'
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-RLP-4SEP2025&network=ethereum
       description: >-
         PT-RLP-4SEP2025 can be used as collateral to borrow or multiply against
-        .........
+        a variety of assets within Euler Yield
     - chainId: 1
       address: '0x14bdc3a3ae09f5518b923b69489cbcafb238e617'
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-eUSDE-14AUG2025&network=ethereum
       description: >-
         PT-eUSDE-14AUG2025 can be used as collateral to borrow or multiply
-        against .........
-    - chainId: 1
-      address: '0x7f01d0fce9bc646389483384c41b4d71c7139f11'
-      integrationUrl: >-
-        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mEDGE-31JUL2025&network=ethereum
-      description: >-
-        PT-mEDGE-31JUL2025 can be used as collateral to borrow or multiply
-        against .........
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
