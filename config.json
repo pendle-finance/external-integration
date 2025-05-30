@@ -603,6 +603,12 @@
             "address": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-eUSDE-14AUG2025&network=ethereum",
             "description": "PT-eUSDE-14AUG2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 146,
+            "address": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-wstkscETH-18DEC2025&network=sonic",
+            "description": "PT-wstkscETH-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's WETH on Euler"
           }
         ],
         "yt": [],
