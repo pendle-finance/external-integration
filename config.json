@@ -1180,6 +1180,24 @@
             "address": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
             "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwans28aug-s-51",
             "description": "Leverage PT-wANS against S on Silo to maximize your fixed yield while earning bonus Silo Points."
+          },
+          {
+            "chainId": 146,
+            "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
+            "integrationUrl": "https://app.silo.finance/markets/sonic/103",
+            "description": "Leverage PT-aSonUSDC-14AUG2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points."
+          },
+          {
+            "chainId": 146,
+            "address": "0x77d8f09053c28faf1e00df6511b23125d438616f",
+            "integrationUrl": "https://app.silo.finance/markets/sonic/104",
+            "description": "Leverage PT-Silo-20-USDC.e-17JUL2025 against USDCon Silo to maximize your fixed yield while earning bonus Silo Points."
+          },
+          {
+            "chainId": 146,
+            "address": "0x9731842ed581816913933c01de142c7ee412a8c8",
+            "integrationUrl": "https://app.silo.finance/markets/sonic/102",
+            "description": "Leverage PT-Silo-46-scUSD-14AUG2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points."
           }
         ],
         "yt": [],
