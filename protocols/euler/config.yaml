@@ -200,5 +200,36 @@ metadata:
       description: >-
         PT-wstkscETH-18DEC2025 can be used as collateral to borrow or multiply
         against MEV Capital's WETH on Euler
+    - chainId: 1
+      address: '0x1132065009850c72e27b7950c0f9285d1d103589'
+      integrationUrl: >-
+        https://app.euler.finance/?asset=PT-mMEV-31JUL2025&network=ethereum
+      description: >-
+        PT-mMEV-31JUL2025 can be used to earn yield by lending out within Euler 
+    - chainId: 1
+      address: '0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8'
+      integrationUrl: >-
+        https://app.euler.finance/?asset=PT-lvlUSD-25SEP2025&network=ethereum
+      description: >-
+        PT-lvlUSD-25SEP2025 can be used to earn yield by lending out within Euler 
+    - chainId: 1
+      address: '0x2ca5f2c4300450d53214b00546795c1c07b89acb'
+      integrationUrl: >-
+        https://app.euler.finance/?asset=PT-slvlUSD-25SEP2025&network=ethereum
+      description: >-
+        PT-slvlUSD-25SEP2025 can be used to earn yield by lending out within Euler 
+    - chainId: 1
+      address: '0x7f01d0fce9bc646389483384c41b4d71c7139f11'
+      integrationUrl: >-
+        https://app.euler.finance/?asset=PT-mEDGE-31JUL2025&network=ethereum
+      description: >-
+        PT-mEDGE-31JUL2025 can be used to earn yield by lending out within Euler 
+    - chainId: 146
+      address: '0x0fb682c9692addcc1769f4d4d938c54420d54fa3'
+      integrationUrl: >-
+        https://app.euler.finance/?asset=PT-wstkscETH-18DEC2025&network=sonic
+      description: >-
+        PT-wstkscETH-18DEC2025 can be used as collateral to borrow or multiply
+        against MEV Capital's WETH on Euler
   yt: []
   lp: []
