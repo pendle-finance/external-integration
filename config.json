@@ -1042,6 +1042,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x83e10b446f0f2013bb5417fbab8de0371808da605d9d88bdd3ad9de4e7303048&network=mainnet",
             "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
+            "integrationUrl": "https://app.morpho.org/market?id=0x9df0fc9073632db5926b92f024165289b4ee4a9f8521dd6d3460f3544fe9770f&network=mainnet",
+            "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "subtitle": "USDT"
           }
         ],
         "yt": [],
