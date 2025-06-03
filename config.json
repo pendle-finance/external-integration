@@ -1223,6 +1223,27 @@
             "integrationUrl": "https://app.silo.finance/markets/sonic/102",
             "description": "Leverage PT-Silo-46-scUSD-14AUG2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 146,
+            "address": "0x200338559c1975d1f216adcda8352aff2869afab",
+            "integrationUrl": "https://app.silo.finance/markets/sonic/106",
+            "description": "Leverage PT-wOS-18DEC2025 against S on Silo to maximize your fixed yield while earning bonus Silo Points.",
+            "subtitle": "S"
+          },
+          {
+            "chainId": 146,
+            "address": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
+            "integrationUrl": "https://app.silo.finance/markets/sonic/108",
+            "description": "Leverage PT-wstkscETH-18DEC2025 against ETH on Silo to maximize your fixed yield while earning bonus Silo Points.",
+            "subtitle": "ETH"
+          },
+          {
+            "chainId": 146,
+            "address": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
+            "integrationUrl": "https://app.silo.finance/markets/sonic/105",
+            "description": "Leverage PT-wstkscUSD-18DEC2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
