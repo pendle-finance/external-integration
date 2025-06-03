@@ -1062,6 +1062,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x66233e87913d94695fb09e8b8e586e754a7cd6dae6700b5e4b3aa08d3e73eb01&network=mainnet",
             "description": "The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf736acf34ff7cd9b3565b73a1f15e652859bf322",
+            "integrationUrl": "https://app.morpho.org/market?id=0x7110edd22b88dbc096b78384900d29d84e9edee2a06d5c0d36f957a94ce4ccba&network=mainnet",
+            "description": "The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "subtitle": "USDT"
           }
         ],
         "yt": [],
