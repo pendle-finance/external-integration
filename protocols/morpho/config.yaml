@@ -354,5 +354,13 @@ metadata:
       description: >-
         The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market
         with USDT as the loan token.
+    - chainId: 1
+      address: '0xffec096c087c13cc268497b89a613cace4df9a48'
+      subtitle: DAI
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xa458018cf1a6e77ebbcc40ba5776ac7990e523b7cc5d0c1e740a4bbc13190d8f&network=mainnet
+      description: >-
+        The PT-USDS-14AUG2025 is the asset used as collateral in a Morpho market
+        with DAI as the loan token.
   yt: []
   lp: []
