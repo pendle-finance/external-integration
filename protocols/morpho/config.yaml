@@ -362,5 +362,13 @@ metadata:
       description: >-
         The PT-USDS-14AUG2025 is the asset used as collateral in a Morpho market
         with DAI as the loan token.
+    - chainId: 1
+      address: '0x14bdc3a3ae09f5518b923b69489cbcafb238e617'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xfae6c3fca4d2fe61c62d29541e84a728b660a0dbc99217750c1080a8fc7d0e45&network=mainnet
+      description: >-
+        The PT-eUSDE-14AUG2025 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
