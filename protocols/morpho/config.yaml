@@ -370,5 +370,13 @@ metadata:
       description: >-
         The PT-eUSDE-14AUG2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 8453
+      address: '0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2'
+      subtitle: cbBTC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x0138c47c8f7e0a785ec20a46edc6dc7747c8cd6e318d02f6506a5b6a5f5be7b0&network=base
+      description: >-
+        The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a
+        Morpho market with cbBTC as the loan token.
   yt: []
   lp: []
