@@ -378,5 +378,13 @@ metadata:
       description: >-
         The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a
         Morpho market with cbBTC as the loan token.
+    - chainId: 8453
+      address: '0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2'
+      subtitle: LBTC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x197d79f84d229049a780af9b3d418dbe2a05c2dd541268ae576483f14bd6b41a&network=base
+      description: >-
+        The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a
+        Morpho market with LBTC as the loan token.
   yt: []
   lp: []
