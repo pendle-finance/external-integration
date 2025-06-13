@@ -1109,6 +1109,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x197d79f84d229049a780af9b3d418dbe2a05c2dd541268ae576483f14bd6b41a&network=base",
             "description": "The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a Morpho market with LBTC as the loan token.",
             "subtitle": "LBTC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252",
+            "integrationUrl": "https://app.morpho.org/market?id=0xca260ba9ffe237d9b85106e9fe926baa6a0645d15c8c3976b914301fc6927d1a&network=mainnet",
+            "description": "The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho market with rUSD as the loan token.",
+            "subtitle": "rUSD"
           }
         ],
         "yt": [],
