@@ -386,5 +386,13 @@ metadata:
       description: >-
         The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a
         Morpho market with LBTC as the loan token.
+    - chainId: 1
+      address: '0x3bd0c522ea444ea2b3f28777e8c20248b6e33252'
+      subtitle: rUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xca260ba9ffe237d9b85106e9fe926baa6a0645d15c8c3976b914301fc6927d1a&network=mainnet
+      description: >-
+        The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho
+        market with rUSD as the loan token.
   yt: []
   lp: []
