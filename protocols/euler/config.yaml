@@ -254,14 +254,13 @@ metadata:
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-YU-4SEP2025&network=ethereum
       description: >-
-        PT-YU-4SEP2025 can be used as collateral to borrow or multiply against
-        .........
+        PT-YU-4SEP2025 can be used as collateral to borrow or multiply against USDC 
     - chainId: 1
       address: '0xab365c0879024481e4ad3b47bd6fea9c10014fbc'
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDf-25SEP2025&network=ethereum
       description: >-
         PT-sUSDf-25SEP2025 can be used as collateral to borrow or multiply
-        against .........
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
