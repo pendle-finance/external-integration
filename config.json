@@ -39,50 +39,6 @@
       "hash": "000b94ab85b7b18f10c51aba4cc505b0"
     },
     {
-      "id": "avalon-finance",
-      "name": "Avalon Finance",
-      "icon": "logo.png",
-      "category": "money market",
-      "description": "Avalon powers Bitcoin onchain capital markets, allowing users to lend, borrow and Earn with Bitcoin.",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0x23e479ddcda990e8523494895759bd98cd2fdbf6",
-            "integrationUrl": "https://app.avalonfinance.xyz/reserve-overview/?underlyingAsset=0x23e479ddcda990e8523494895759bd98cd2fdbf6&marketName=proto_mainnet_v3",
-            "description": "Supply PT on Avalon Finance to receive extra yield and avalon points."
-          },
-          {
-            "chainId": 1,
-            "address": "0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
-            "integrationUrl": "https://app.avalonfinance.xyz/reserve-overview/?underlyingAsset=0xec5a52c685cc3ad79a6a347abace330d69e0b1ed&marketName=proto_ebtc_mainnet_innovation",
-            "description": "Supply PT on Avalon Finance to receive extra yield and avalon points."
-          },
-          {
-            "chainId": 1,
-            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
-            "integrationUrl": "https://app.avalonfinance.xyz/reserve-overview/?underlyingAsset=0xb997b3418935a1df0f914ee901ec83927c1509a0&marketName=proto_ebtc_mainnet_innovation",
-            "description": "Supply PT on Avalon Finance to receive extra yield and avalon points."
-          },
-          {
-            "chainId": 1,
-            "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
-            "integrationUrl": "https://app.avalonfinance.xyz/reserve-overview/?underlyingAsset=0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6&marketName=proto_ebtc_mainnet_innovation",
-            "description": "Supply PT on Avalon Finance to receive extra yield and avalon points."
-          },
-          {
-            "chainId": 56,
-            "address": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
-            "integrationUrl": "https://app.avalonfinance.xyz/reserve-overview/?underlyingAsset=0x541b5eeac7d4434c8f87e2d32019d67611179606&marketName=proto_bsc_v3",
-            "description": "Supply PT on Avalon Finance to receive extra yield and avalon points."
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "1c94449324b0ed1e2455cad415a7cfca"
-    },
-    {
       "id": "beefy",
       "name": "Beefy",
       "icon": "logo.png",
@@ -216,6 +172,45 @@
       "hash": "77d931fda9e93e07648fdb982c22ae45"
     },
     {
+      "id": "binance",
+      "name": "Binance",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "Binance is the largest cryptocurrency exchange by trading volume, serving 185M+ usrs across 180+ countries.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "1aeabab6e9f96e5496ddb08d8c789a92"
+    },
+    {
+      "id": "bitget",
+      "name": "Bitget",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "Bitget is a Seychelles-based cryptocurrency exchange that  empowers over 20 million users across 100 countries with a focus on copy trading and various smart trading tools.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "1e13afbeb0c5f2c76f2d2aaef6936d63"
+    },
+    {
+      "id": "bybit",
+      "name": "Bybit",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "Bybit is the world’s 2nd largest cryptocurrency exchange by trading volume.  Established in March 2018, Bybit currently serves more than 40 million users and institutions.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "961d4dd0cb7c1db18882790396b96a06"
+    },
+    {
       "id": "cega",
       "name": "Cega",
       "icon": "logo.png",
@@ -233,6 +228,19 @@
         "lp": []
       },
       "hash": "2cc2fe23e0eeaf20fecabea078e3c90b"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "Coinbase is the most trusted platform for buying, selling and trading crypto",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "0de4af8a029b5242968c40136e20c77e"
     },
     {
       "id": "contango",
@@ -433,6 +441,32 @@
         "lp": []
       },
       "hash": "00f2c6db8ea2d3f7de8e5bc1135c4a6c"
+    },
+    {
+      "id": "dolomite",
+      "name": "Dolomite",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "Dolomite is a next-generation decentralized money market protocol and  DEX that offers broad token support and capital efficiency with its virtual liquidity system.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "cf2cb7bfa6e4aa60cd729cc541ff7f79"
+    },
+    {
+      "id": "equilibria",
+      "name": "Equilibria",
+      "icon": "logo.png",
+      "category": "liquid locker",
+      "description": "Equilibria boost and maximise your rewards on Pendle",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "eac1c457299577d069ac19e7ef19b588"
     },
     {
       "id": "euler",
@@ -669,6 +703,12 @@
             "address": "0xab365c0879024481e4ad3b47bd6fea9c10014fbc",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDf-25SEP2025&network=ethereum",
             "description": "PT-sUSDf-25SEP2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x136389d329968bd82efe05f0911eeb20ee74a138",
+            "integrationUrl": "https://app.euler.finance/?asset=PT-USD0%2B%2B-27NOV2025&network=ethereum",
+            "description": "PT-USD0++-27NOV2025 can be used to earn yield by lending out within Euler "
           }
         ],
         "yt": [],
@@ -694,6 +734,19 @@
         "lp": []
       },
       "hash": "6b7c5a4b927fe6534393871115c3b99b"
+    },
+    {
+      "id": "gateio",
+      "name": "Gate.io",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "Established in 2013, Gate.io has consistently ranked among the top 10 exchanges.  It is a full-service digital asset exchange platform covering million of users around the world",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "4d51364fa47a00f208ca24625b12871b"
     },
     {
       "id": "gearbox",
@@ -751,6 +804,32 @@
         "lp": []
       },
       "hash": "1b0f7d58a6a44740a1201e40e3f2eb34"
+    },
+    {
+      "id": "insurace",
+      "name": "InsurACE",
+      "icon": "logo.png",
+      "category": "insurance",
+      "description": "The InsurAce Protocol is a leading decentralized multi-chain protocol that provides reliable,  robust and secure risk protection services to DeFi users, allowing them to protect their investment funds against various risks.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "7c8e22682a7aed04944817f466c2f215"
+    },
+    {
+      "id": "lista",
+      "name": "Lista Lending",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "253e6343e38c7b8e71e4897234495a64"
     },
     {
       "id": "marginly",
@@ -1075,13 +1154,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
-            "integrationUrl": "https://app.morpho.org/market?id=0x9df0fc9073632db5926b92f024165289b4ee4a9f8521dd6d3460f3544fe9770f&network=mainnet",
-            "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
             "address": "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252",
             "integrationUrl": "https://app.morpho.org/market?id=0x66233e87913d94695fb09e8b8e586e754a7cd6dae6700b5e4b3aa08d3e73eb01&network=mainnet",
             "description": "The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
@@ -1170,12 +1242,32 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x934b5427f2dbcddaddb59e04b8bbb41ef30fb7481eef95366ffa5da4290f1359&network=mainnet",
             "description": "The PT-fxSAVE-30OCT2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
+            "integrationUrl": "https://app.morpho.org/market?id=0x96a4399f2c837f8aa34c39718e30625a84f9285991f0a08d1f2997e15bbeeaa8&network=mainnet",
+            "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "subtitle": "USDT"
           }
         ],
         "yt": [],
         "lp": []
       },
       "hash": "a6ac138dd5e646646eb429b6d45f1aa3"
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "OKX is a global company offering exchange and Web3 services with  offices in Hong Kong, Singapore, the UAW, Silicon Valley and the Bahamas.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "7693e6e51191387875612d1acabe05aa"
     },
     {
       "id": "origami",
@@ -1195,6 +1287,19 @@
         "lp": []
       },
       "hash": "a809a66c08d1be4c5e39c964123f01bb"
+    },
+    {
+      "id": "penpie",
+      "name": "Penpie",
+      "icon": "logo.png",
+      "category": "liquid locker",
+      "description": "Penpie is a next-generation DeFi platform designed to provide Pendle Finance users with yield and veTokenomics boosting services.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "d9fe3cded15ac3a2b4f4c1bf891f90f5"
     },
     {
       "id": "pichi",
@@ -1367,6 +1472,32 @@
       "hash": "0ffa14bbac8ac2ebc4d05ee5a50bb15a"
     },
     {
+      "id": "spark",
+      "name": "Spark",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "Spark is on a mission to empower the DAI ecosystem by building DeFi infrastructure such as SparkLend, SparkConduits and supporting DAI.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "dd2da7a2ce82779ee6440aeb40f501ac"
+    },
+    {
+      "id": "stakedao",
+      "name": "StakeDAO",
+      "icon": "logo.png",
+      "category": "liquid locker",
+      "description": "Stake DAO is a non-custodial liquid staking platform focused on governance tokens.",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "e13d78ddbecbe638d0f1c153632a2afe"
+    },
+    {
       "id": "termmax",
       "name": "TermMax",
       "icon": "logo.png",
@@ -1473,6 +1604,13 @@
             "subtitle": "Levered Yields"
           },
           {
+            "chainId": 1,
+            "address": "0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
+            "description": "Borrow USDC at a fixed rate with PT-cUSDO-20NOV2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
             "chainId": 42161,
             "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
             "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -1528,6 +1666,19 @@
         "lp": []
       },
       "hash": "7af7c8ead8cd93bd017cc12d22880971"
+    },
+    {
+      "id": "upbit",
+      "name": "Upbit",
+      "icon": "logo.png",
+      "category": "cex / web3 wallet",
+      "description": "Upbit is the trusted Digital Asset Exchange for fast and convenient trading experience for professional investors",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "fbae86c5f4410410c64917bb6b581b0b"
     },
     {
       "id": "venus",
