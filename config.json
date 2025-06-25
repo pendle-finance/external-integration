@@ -1604,6 +1604,13 @@
             "subtitle": "Levered Yields"
           },
           {
+            "chainId": 1,
+            "address": "0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
+            "description": "Borrow USDC at a fixed rate with PT-cUSDO-20NOV2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
             "chainId": 42161,
             "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
             "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
