@@ -39,139 +39,6 @@
       "hash": "000b94ab85b7b18f10c51aba4cc505b0"
     },
     {
-      "id": "beefy",
-      "name": "Beefy",
-      "icon": "logo.png",
-      "category": "yield strategy",
-      "metadata": {
-        "pt": [],
-        "yt": [],
-        "lp": [
-          {
-            "chainId": 1,
-            "address": "0x36d3ca43ae7939645c306e26603ce16e39a89192",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-ebtc-26dec24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6010676bc2534652ad1ef5fa8073dcf9ad7ebfbe",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-ageth-26dec24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x84a50177a84dad50fdbf665dfbfb39914b52dff2",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-rseth-26dec24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x281fe15fd3e08a282f52d5cf09a4d13c3709e66d",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-usde-28nov24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x40789e8536c668c6a249af61c81b9dfac3eb8f32",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-weeths-26dec24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x00b321d89a8c36b3929f20b7955080baed706d1b",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-usd0-31oct24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x038c1b03dab3b891afbca4371ec807edaa3e6eb6",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-rsweth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0xbae2df4dfcd0c613018d6056a40077f2d1eff28a",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-unieth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xa877a0e177b54a37066c1786f91a1dab68f094af",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-gusdc-26dec24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x279b44e48226d40ec389129061cb0b56c5c09e46",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-unieth-26dec24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x905a5a4792a0c27a2adb2777f98c577d320079ef",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-weethk-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xb4781463a1261f60fca37732efa510c22dec5ada",
-            "integrationUrl": "https://app.beefy.com/vault/equilibria-arb-seth-ezeth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x5f3c781b3a20299db27c8fc5f4415d895677c885",
-            "integrationUrl": "https://app.beefy.com/vault/equilibria-arb-seth-eeth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x2ad746fa3faa0ad586021a633d10f4e2785a0349",
-            "integrationUrl": "hhttps://app.beefy.com/vault/equilibria-arb-seth-rseth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xf9f9779d8ff604732eba9ad345e6a27ef5c2a9d6",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-eeth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xed99fc8bdb8e9e7b8240f62f69609a125a0fbf14",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-rseth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x35f3db08a6e9cb4391348b0b404f493e7ae264c0",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-ezeth-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x2fb73d98b1d60b35fd12508933578098f352ce7e",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-arb-dusdc-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0x386f90eb964a477498b528a39d9405e73ed4032b",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-crvusd-26sep24",
-            "description": "LP yield optimization through Beefy"
-          },
-          {
-            "chainId": 1,
-            "address": "0xc374f7ec85f8c7de3207a10bb1978ba104bda3b2",
-            "integrationUrl": "https://app.beefy.com/vault/pendle-steth-25dec25",
-            "description": "LP yield optimization through Beefy"
-          }
-        ]
-      },
-      "hash": "77d931fda9e93e07648fdb982c22ae45"
-    },
-    {
       "id": "binance",
       "name": "Binance",
       "icon": "logo.png",
@@ -209,25 +76,6 @@
         "lp": []
       },
       "hash": "961d4dd0cb7c1db18882790396b96a06"
-    },
-    {
-      "id": "cega",
-      "name": "Cega",
-      "icon": "logo.png",
-      "category": "yield strategy",
-      "metadata": {
-        "pt": [],
-        "yt": [
-          {
-            "chainId": 1,
-            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
-            "integrationUrl": "https://app.cega.fi/products/pendle-etherfi-yt-tiger?product_id=191",
-            "description": "Use YT to earn high fixed yields while minimizing potential downside"
-          }
-        ],
-        "lp": []
-      },
-      "hash": "2cc2fe23e0eeaf20fecabea078e3c90b"
     },
     {
       "id": "coinbase",
@@ -717,25 +565,6 @@
       "hash": "ee96cfc33805516c97322b31855cd579"
     },
     {
-      "id": "form",
-      "name": "Form",
-      "icon": "logo.png",
-      "category": "others",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
-            "integrationUrl": "https://meditations.form.network",
-            "description": "Deposit PT-ezETH to earn Form Points"
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "6b7c5a4b927fe6534393871115c3b99b"
-    },
-    {
       "id": "gateio",
       "name": "Gate.io",
       "icon": "logo.png",
@@ -775,37 +604,6 @@
       "hash": "d3dafc61f58da855482a726fdd32bf82"
     },
     {
-      "id": "index-coop",
-      "name": "Index Coop",
-      "icon": "logo.png",
-      "category": "yield strategy",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
-            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
-            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
-            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
-            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
-          },
-          {
-            "chainId": 1,
-            "address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
-            "integrationUrl": "https://indexcoop.com/products/high-yield-eth",
-            "description": "High Yield ETH (hyETH) is a diversified index targeting the highest ETH-denominated yields on Ethereum Mainnet"
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "1b0f7d58a6a44740a1201e40e3f2eb34"
-    },
-    {
       "id": "insurace",
       "name": "InsurACE",
       "icon": "logo.png",
@@ -830,37 +628,6 @@
         "lp": []
       },
       "hash": "253e6343e38c7b8e71e4897234495a64"
-    },
-    {
-      "id": "marginly",
-      "name": "Marginly",
-      "icon": "marginly-logo.png",
-      "category": "yield strategy",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0x76f327150224393ff07aafa3449fbb23103fb279",
-            "integrationUrl": "https://app.marginly.com/mainnet/farm",
-            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
-          },
-          {
-            "chainId": 1,
-            "address": "0xd53a899b731c52eeb0f9750b6b507e543661d763",
-            "integrationUrl": "https://app.marginly.com/mainnet/farm",
-            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
-          },
-          {
-            "chainId": 1,
-            "address": "0x7aa68e84bcd8d1b4c9e10b1e565db993f68a3e09",
-            "integrationUrl": "https://app.marginly.com/mainnet/farm",
-            "description": "Highly optimised PT tokens yield farming with up to 10x leverage."
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "ab96a0d57dc19dcaf19c038365ee16aa"
     },
     {
       "id": "morpho",
@@ -1270,25 +1037,6 @@
       "hash": "7693e6e51191387875612d1acabe05aa"
     },
     {
-      "id": "origami",
-      "name": "Origami",
-      "icon": "logo.png",
-      "category": "yield strategy",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
-            "integrationUrl": "https://origami.finance/vaults/1-0xb9dad3693AEAc9025Cb24a47AFA6930539877187/info",
-            "description": "A 5x leveraged position on PT sUSDe OCT 2024"
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "a809a66c08d1be4c5e39c964123f01bb"
-    },
-    {
       "id": "penpie",
       "name": "Penpie",
       "icon": "logo.png",
@@ -1300,57 +1048,6 @@
         "lp": []
       },
       "hash": "d9fe3cded15ac3a2b4f4c1bf891f90f5"
-    },
-    {
-      "id": "pichi",
-      "name": "Pichi",
-      "icon": "logo.png",
-      "category": "others",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
-            "integrationUrl": "https://app.pichi.finance/",
-            "description": "Deposit PT into a Pichi Wallet to earn points and trade trustlessly"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
-            "integrationUrl": "https://app.pichi.finance/",
-            "description": "Deposit PT into a Pichi Wallet to earn points and trade trustlessly"
-          }
-        ],
-        "yt": [
-          {
-            "chainId": 1,
-            "address": "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b",
-            "integrationUrl": "https://app.pichi.finance/",
-            "description": "Deposit YT into a Pichi Wallet to earn points and trade trustlessly"
-          },
-          {
-            "chainId": 1,
-            "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
-            "integrationUrl": "https://app.pichi.finance/",
-            "description": "Deposit YT into a Pichi Wallet to earn points and trade trustlessly"
-          }
-        ],
-        "lp": [
-          {
-            "chainId": 1,
-            "address": "0x7d372819240d14fb477f17b964f95f33beb4c704",
-            "integrationUrl": "https://app.pichi.finance/",
-            "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
-          },
-          {
-            "chainId": 1,
-            "address": "0xd8f12bcde578c653014f27379a6114f67f0e445f",
-            "integrationUrl": "https://app.pichi.finance/",
-            "description": "Deposit LP into a Pichi Wallet to earn points and trade trustlessly"
-          }
-        ]
-      },
-      "hash": "71fb37f33a2a5fe5b08fb804f25e496e"
     },
     {
       "id": "silo",
@@ -1629,43 +1326,6 @@
         "lp": []
       },
       "hash": "4be50b9531b14c256e9cc6a93b94ccec"
-    },
-    {
-      "id": "timeswap",
-      "name": "Timeswap",
-      "icon": "logo.png",
-      "category": "money market",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 42161,
-            "address": "0x2be6fab4d1408e7ad6ad91ce7b77fa2a7670782f",
-            "integrationUrl": "https://app.timeswap.io/lend/3ddff11d-768c-4b3a-8617-264be2dca259",
-            "description": "PT non-liquidatable leverage through Timeswap"
-          },
-          {
-            "chainId": 1,
-            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
-            "integrationUrl": "https://app.timeswap.io/borrow/ec9a953a-1e4c-44b7-9030-49c7596b4ee3",
-            "description": "PT non-liquidatable leverage through Timeswap"
-          },
-          {
-            "chainId": 5000,
-            "address": "0x1333b49bbdd06544a25647f9127358d9a9486105",
-            "integrationUrl": "https://app.timeswap.io/borrow/f0485775-7de2-49b3-8c59-a006627715a0",
-            "description": "PT non-liquidatable leverage through Timeswap"
-          },
-          {
-            "chainId": 5000,
-            "address": "0x8be66a48ea1f4aff89cd2beb50b02d901dfb9584",
-            "integrationUrl": "https://app.timeswap.io/lend/64a46623-eed1-40e8-9c3f-273a5cc48512",
-            "description": "PT non-liquidatable leverage through Timeswap"
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "7af7c8ead8cd93bd017cc12d22880971"
     },
     {
       "id": "upbit",
@@ -1973,61 +1633,6 @@
         "lp": []
       },
       "hash": "86f7ecfb7439481591fdb83d4a061f6f"
-    },
-    {
-      "id": "zerolend",
-      "name": "ZeroLend",
-      "icon": "logo.png",
-      "category": "money market",
-      "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6&marketName=proto_mainnet_btc_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xb997b3418935a1df0f914ee901ec83927c1509a0&marketName=proto_mainnet_btc_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          },
-          {
-            "chainId": 1,
-            "address": "0x44a7876ca99460ef3218bf08b5f52e2dbe199566",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0x44a7876ca99460ef3218bf08b5f52e2dbe199566&marketName=proto_mainnet_btc_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          },
-          {
-            "chainId": 1,
-            "address": "0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xec5a52c685cc3ad79a6a347abace330d69e0b1ed&marketName=proto_mainnet_btc_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe00bd3df25fb187d6abbb620b3dfd19839947b81",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xe00bd3df25fb187d6abbb620b3dfd19839947b81&marketName=proto_mainnet_rwa_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          },
-          {
-            "chainId": 1,
-            "address": "0x5bae9a5d67d1ca5b09b14c91935f635cfbf3b685",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0x5bae9a5d67d1ca5b09b14c91935f635cfbf3b685&marketName=proto_mainnet_rwa_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          },
-          {
-            "chainId": 1,
-            "address": "0x8a47b431a7d947c6a3ed6e42d501803615a97eaa",
-            "integrationUrl": "https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0x8a47b431a7d947c6a3ed6e42d501803615a97eaa&marketName=proto_mainnet_rwa_v3",
-            "description": "PT leverage looping through ZeroLend by using the PT as collateral"
-          }
-        ],
-        "yt": [],
-        "lp": []
-      },
-      "hash": "6e41a2d11bd3b6d2367b03fa35a3aaa7"
     }
   ]
 }
