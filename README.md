@@ -14,8 +14,9 @@ If your protocol's integration is not Market Specific (for example an exchange o
 
  - name: The name of the protocol.
  - icon: The protocol’s logo (circular logo in PNG). The string on this field should be the same as the name of the logo file uploaded. Size limit for logo is 20KB.
- - category: The protocol's category. It must belong to one of the following categories: `Money Market`, `Yield Strategy`, `Liquid Locker`, `Exchange / Web3 Wallet`, `Insurance` or `Others`.
- - description: The protocol's description. It gonna be displayed on Pendle landing page.
+ - category: The protocol's category. It must belong to one of the following categories: `Money Market`, `Yield Strategy`, `Liquid Locker`, `CEX / Web3 Wallet`, `Insurance` or `Others`.
+ - url: The protocol's home page. Clicking on protocol card on pencosystem landing page will redirect user to this url.
+ - description: The protocol's description. It will be displayed on Pendle landing page.
  - metadata (optional): This section contains detailed information about the protocol's integration assets.
 
 #### Asset fields
@@ -31,6 +32,7 @@ If your protocol's integration is not Market Specific (for example an exchange o
 name: Protocol Name 2
 icon: logo.png
 category: 'Yield Strategy'
+url: https://www.pendle.magpiexyz.io
 metadata:
   pt:
     - chainId: 1

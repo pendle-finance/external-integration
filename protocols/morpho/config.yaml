@@ -1,6 +1,7 @@
 name: Morpho
 icon: logo.png
 category: Money Market
+url: https://app.morpho.org/ethereum/borrow
 description: >-
   A permissionless and non-custodial lending protocol where users can earn
   interest on over-collaterized lending and borrow digital assets using
