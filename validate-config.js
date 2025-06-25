@@ -17,7 +17,7 @@ function isKebabCase(str) {
 }
 
 function validateCategory(protocol, category) {
-  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category.toLowerCase())) {
+  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category)) {
     throw new Error(`protocol ${protocol}: invalid field 'category', category must be case-insensitive one of the values (${PROTOCOL_CATEGORIES.join(', ')})`);
   }
 }
@@ -136,10 +136,6 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: icon must be a valid png image`);
   }
 
-  if (typeof metadata !== 'object') {
-    throw new Error(`protocol ${protocol}: invalid field 'metadata'`);
-  }
-
   const iconPath = path.join(protocolsPath, icon);
   if (!fs.existsSync(iconPath)) {
     throw new Error(`protocol ${protocol}: icon path not found for protocol ${icon}`);
@@ -152,6 +148,14 @@ function validateConfig(protocol, assetMap) {
 
   if (iconStats.size > BUFFER_LIMIT_ICON_KB_SIZE * 1024) {
     throw new Error(`protocol ${protocol}: icon size must be less than ${LIMIT_ICON_KB_SIZE}KB file`);
+  }
+
+  if (metadata === undefined) {
+    return;
+  }
+
+  if (typeof metadata !== 'object') {
+    throw new Error(`protocol ${protocol}: invalid field 'metadata'`);
   }
 
   const {pt, yt, lp} = metadata;

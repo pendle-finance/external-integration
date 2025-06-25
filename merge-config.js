@@ -52,7 +52,9 @@ async function run() {
 
 function formatProtocolConfig(config) {
   const {id, name, icon, category, metadata, description} = config;
-  const {pt, yt, lp} = metadata;
+  const pt = formatMetadataAssets(metadata?.pt ?? []);
+  const yt = formatMetadataAssets(metadata?.yt ?? []);
+  const lp = formatMetadataAssets(metadata?.lp ?? []);
 
   return {
     id,
@@ -61,9 +63,9 @@ function formatProtocolConfig(config) {
     category: category.toLowerCase(),
     description,
     metadata: {
-      pt: formatMetadataAssets(pt),
-      yt: formatMetadataAssets(yt),
-      lp: formatMetadataAssets(lp),
+      pt,
+      yt,
+      lp,
     },
   };
 }
