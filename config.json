@@ -6,6 +6,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Aave is a decentralised non-custodial liquidity protocol where users can participate as suppliers or borrowers",
+      "url": "https://app.aave.com/",
       "metadata": {
         "pt": [
           {
@@ -44,6 +45,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "Binance is the largest cryptocurrency exchange by trading volume, serving 185M+ usrs across 180+ countries.",
+      "url": "https://www.binance.com/en/binancewallet",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -57,6 +59,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "Bitget is a Seychelles-based cryptocurrency exchange that  empowers over 20 million users across 100 countries with a focus on copy trading and various smart trading tools.",
+      "url": "https://web3.bitget.com/en",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -70,6 +73,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "Bybit is the world’s 2nd largest cryptocurrency exchange by trading volume.  Established in March 2018, Bybit currently serves more than 40 million users and institutions.",
+      "url": "https://www.bybit.com/en/web3/staking",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -83,6 +87,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "Coinbase is the most trusted platform for buying, selling and trading crypto",
+      "url": "https://www.coinbase.com/en-gb",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -96,6 +101,7 @@
       "icon": "logo.png",
       "category": "yield strategy",
       "description": "Contango builds positions by automating looping strategies through flash loans. When a trader opens a position, the protocol borrows on money markets.",
+      "url": "https://app.contango.xyz/",
       "metadata": {
         "pt": [
           {
@@ -296,6 +302,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Dolomite is a next-generation decentralized money market protocol and  DEX that offers broad token support and capital efficiency with its virtual liquidity system.",
+      "url": "https://app.dolomite.io/balances",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -309,6 +316,7 @@
       "icon": "logo.png",
       "category": "liquid locker",
       "description": "Equilibria boost and maximise your rewards on Pendle",
+      "url": "https://equilibria.fi/stake",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -322,6 +330,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Euler is a modular lending platform that enables users to lend, borrow and build without limits.",
+      "url": "https://app.euler.finance/borrow?network=ethereum",
       "metadata": {
         "pt": [
           {
@@ -570,6 +579,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "Established in 2013, Gate.io has consistently ranked among the top 10 exchanges.  It is a full-service digital asset exchange platform covering million of users around the world",
+      "url": "https://www.gate.io/web3/earn",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -583,6 +593,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Gearbox brings composable leverage, allowing users to margin trade, leverage farm and leverage restake through its permissionless credit layer.",
+      "url": "https://app.gearbox.fi/strategies/list",
       "metadata": {
         "pt": [
           {
@@ -609,6 +620,7 @@
       "icon": "logo.png",
       "category": "insurance",
       "description": "The InsurAce Protocol is a leading decentralized multi-chain protocol that provides reliable,  robust and secure risk protection services to DeFi users, allowing them to protect their investment funds against various risks.",
+      "url": "https://app.insurace.io/coverage/buycovers",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -622,6 +634,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions",
+      "url": "https://lista.org/lending",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -635,6 +648,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "A permissionless and non-custodial lending protocol where users can earn interest on over-collaterized lending and borrow digital assets using immutable infrastructure.",
+      "url": "https://app.morpho.org/ethereum/borrow",
       "metadata": {
         "pt": [
           {
@@ -1029,6 +1043,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "OKX is a global company offering exchange and Web3 services with  offices in Hong Kong, Singapore, the UAW, Silicon Valley and the Bahamas.",
+      "url": "https://web3.okx.com/defi",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -1042,6 +1057,7 @@
       "icon": "logo.png",
       "category": "liquid locker",
       "description": "Penpie is a next-generation DeFi platform designed to provide Pendle Finance users with yield and veTokenomics boosting services.",
+      "url": "https://www.pendle.magpiexyz.io/stake",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -1055,6 +1071,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Silo is a high-yield, risk-isolated money markets for lending and borrowing any crypto assets",
+      "url": "https://app.silo.finance/",
       "metadata": {
         "pt": [
           {
@@ -1174,6 +1191,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "Spark is on a mission to empower the DAI ecosystem by building DeFi infrastructure such as SparkLend, SparkConduits and supporting DAI.",
+      "url": "https://spark.fi/",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -1187,6 +1205,7 @@
       "icon": "logo.png",
       "category": "liquid locker",
       "description": "Stake DAO is a non-custodial liquid staking platform focused on governance tokens.",
+      "url": "https://www.stakedao.org/lockers/pendle",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -1200,6 +1219,7 @@
       "icon": "logo.png",
       "category": "money market",
       "description": "TermMax is a DeFi AMM protocol that allows users to lend, borrow and one-click leverage at fixed-rates and with maturity dates.",
+      "url": "https://app.termmax.ts.finance/borrow?chain=eth",
       "metadata": {
         "pt": [
           {
@@ -1333,6 +1353,7 @@
       "icon": "logo.png",
       "category": "cex / web3 wallet",
       "description": "Upbit is the trusted Digital Asset Exchange for fast and convenient trading experience for professional investors",
+      "url": "https://upbit.com/exchange",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -1346,6 +1367,7 @@
       "icon": "venus.png",
       "category": "money market",
       "description": "Venus Protocol is a decentralized money market protocol on BNB chain, enabling users to lend and borrow digital assets.",
+      "url": "https://app.venus.io/#/isolated-pools?chainId=56",
       "metadata": {
         "pt": [
           {
@@ -1396,6 +1418,7 @@
       "icon": "logo.png",
       "category": "yield strategy",
       "description": "Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets.",
+      "url": "https://pendle.yearn.space/",
       "metadata": {
         "pt": [
           {
@@ -1602,6 +1625,7 @@
       "icon": "logo.png",
       "category": "yield strategy",
       "description": "YieldFi helps you earn higher returns on your cryptocurrency investments through yield farming, staking, and liquidity provision.",
+      "url": "https://yield.fi/",
       "metadata": {
         "pt": [
           {
