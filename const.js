@@ -1,5 +1,5 @@
 // categories need to be lowercase strings
-const PROTOCOL_CATEGORIES = ['money market', 'yield strategy', 'liquid locker', 'others'];
+const PROTOCOL_CATEGORIES = ['money market', 'yield strategy', 'liquid locker', 'Exchange / Web3 Wallet', 'Insurance', 'others'];
 
 const DESCRIPTION_MAXIMUM_CHARACTERS = 120;
 
