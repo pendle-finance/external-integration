@@ -116,7 +116,7 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: config is not an object`);
   }
 
-  const {name, icon, metadata, category, description} = protocolConfig;
+  const {name, icon, metadata, category, description, url} = protocolConfig;
 
   if (!mustBeNonEmptyString(name)) {
     throw new Error(`protocol ${protocol}: invalid field 'name'`);
@@ -124,6 +124,10 @@ function validateConfig(protocol, assetMap) {
 
   if (!mustBeValidProtocolDescription(description)) {
     throw new Error(`protocol ${protocol}: invalid field 'description'`);
+  }
+
+  if (!mustBeNonEmptyString(url)) {
+    throw new Error(`protocol ${protocol}: invalid field 'url'`);
   }
 
   validateCategory(protocol, category);
