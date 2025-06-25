@@ -1,10 +1,12 @@
 # Protocol Integration
 
-This repository contains metadata for integrating external protocols, including addresses and relevant integration URLs for various markets.
+This repository contains metadata for any external protocols that is integrating or working with Pendle, 
+including addresses and relevant integration URLs for various markets.
 
 ## Metadata Structure
 
 The YAML file includes details for multiple objects (PT, YT, LP), each corresponding to different parts of the protocol with specific chain IDs, addresses, integration URLs, and descriptions.
+If your protocol's integration is not Market Specific (for example an exchange or insurance), ignore the metadata field.
 
 ### Fields
 
@@ -12,9 +14,9 @@ The YAML file includes details for multiple objects (PT, YT, LP), each correspon
 
  - name: The name of the protocol.
  - icon: The protocol’s logo (circular logo in PNG). The string on this field should be the same as the name of the logo file uploaded. Size limit for logo is 20KB.
- - category: The protocol's category. It must belong to one of the following categories: `Money Market`, `Yield Strategy`, `Liquid Locker` or `Others`.
+ - category: The protocol's category. It must belong to one of the following categories: `Money Market`, `Yield Strategy`, `Liquid Locker`, `Exchange / Web3 Wallet`, `Insurance` or `Others`.
  - description: The protocol's description. It gonna be displayed on Pendle landing page.
- - metadata: This section contains detailed information about the protocol's integration assets.
+ - metadata (optional): This section contains detailed information about the protocol's integration assets.
 
 #### Asset fields
  - chainId: chainId of the integrated assets
