@@ -103,7 +103,7 @@ metadata:
       description: >-
         Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-USDS-14AUG2025.
     - chainId: 1
-      address: ‘0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc’
+      address: '0xB10DA2F9147f9cf2B8826877Cd0c95c18A0f42dc'
       subtitle: Fixed-rate Borrow
       integrationUrl: >-
         https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc
