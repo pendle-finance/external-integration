@@ -1,6 +1,7 @@
 name: TermMax
 icon: logo.png
 category: Money Market
+url: https://app.termmax.ts.finance/borrow?chain=eth
 description: TermMax is a DeFi AMM protocol that allows users to lend, borrow and one-click leverage at fixed-rates and with maturity dates.
 metadata:
   pt:

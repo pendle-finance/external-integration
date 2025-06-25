@@ -1,6 +1,7 @@
 name: Gearbox
 icon: logo.png
 category: Money Market
+url: https://app.gearbox.fi/strategies/list
 description: Gearbox brings composable leverage, allowing users to margin trade, leverage farm and leverage restake through its permissionless credit layer.
 metadata:
   pt:

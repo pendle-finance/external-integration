@@ -2,6 +2,7 @@ name: Aave
 icon: logo.png
 category: Money Market
 description: Aave is a decentralised non-custodial liquidity protocol where users can participate as suppliers or borrowers
+url: https://app.aave.com/
 metadata:
   pt:
     - chainId: 1
