@@ -273,10 +273,21 @@ metadata:
         Euler 
     - chainId: 1
       address: '0x5a5b93f762739fa94f3ecc0b34af2e56702e7f70'
+      integrationUrl: https://app.euler.finance/?asset=PT-USR-4SEP2025&network=ethereum
+      description: PT-USR-4SEP2025 can be used to earn yield by lending out within Euler
+    - chainId: 1
+      address: '0x917459337caac939d41d7493b3999f571d20d667'
       integrationUrl: >-
-        https://app.euler.finance/?asset=PT-USR-4SEP2025&network=ethereum
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDe-31JUL2025&network=ethereum
       description: >-
-        PT-USR-4SEP2025 can be used to earn yield by lending out within
-        Euler
+        PT-USDe-31JUL2025 can be used as collateral to borrow or multiply
+        against .........
+    - chainId: 1
+      address: '0x5b1578e2604b91bd7b24f86f0e5ef6c024bb3a14'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-hgETH-25JUN2026&network=ethereum
+      description: >-
+        PT-hgETH-25JUN2026 can be used as collateral to borrow or multiply
+        against .........
   yt: []
   lp: []
