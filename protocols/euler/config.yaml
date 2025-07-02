@@ -291,7 +291,6 @@ metadata:
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-stS-18DEC2025&network=sonic
       description: >-
-        PT-stS-18DEC2025 can be used as collateral to borrow or multiply against
-        .........
+        PT-stS-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler
   yt: []
   lp: []
