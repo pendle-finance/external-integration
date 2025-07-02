@@ -284,10 +284,13 @@ metadata:
         against a variety of assets within Euler Yield
     - chainId: 1
       address: '0x5b1578e2604b91bd7b24f86f0e5ef6c024bb3a14'
+      integrationUrl: https://app.euler.finance/?asset=PT-hgETH-25JUN2026&network=ethereum
+      description: PT-hgETH-25JUN2026 can be used to earn yield by lending out within Euler
+    - chainId: 146
+      address: '0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d'
       integrationUrl: >-
-        https://app.euler.finance/?asset=PT-hgETH-25JUN2026&network=ethereum
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-stS-18DEC2025&network=sonic
       description: >-
-        PT-hgETH-25JUN2026 can be used to earn yield by lending out within
-        Euler
+        PT-stS-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler
   yt: []
   lp: []
