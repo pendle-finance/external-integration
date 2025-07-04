@@ -17,7 +17,7 @@ function isKebabCase(str) {
 }
 
 function validateCategory(protocol, category) {
-  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category.toLowerCase())) {
+  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category)) {
     throw new Error(`protocol ${protocol}: invalid field 'category', category must be case-insensitive one of the values (${PROTOCOL_CATEGORIES.join(', ')})`);
   }
 }
@@ -116,7 +116,7 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: config is not an object`);
   }
 
-  const {name, icon, metadata, category, description} = protocolConfig;
+  const {name, icon, metadata, category, description, url} = protocolConfig;
 
   if (!mustBeNonEmptyString(name)) {
     throw new Error(`protocol ${protocol}: invalid field 'name'`);
@@ -124,6 +124,10 @@ function validateConfig(protocol, assetMap) {
 
   if (!mustBeValidProtocolDescription(description)) {
     throw new Error(`protocol ${protocol}: invalid field 'description'`);
+  }
+
+  if (!mustBeNonEmptyString(url)) {
+    throw new Error(`protocol ${protocol}: invalid field 'url'`);
   }
 
   validateCategory(protocol, category);
@@ -134,10 +138,6 @@ function validateConfig(protocol, assetMap) {
 
   if (!(icon.endsWith('.png') && icon.length > 4)) {
     throw new Error(`protocol ${protocol}: icon must be a valid png image`);
-  }
-
-  if (typeof metadata !== 'object') {
-    throw new Error(`protocol ${protocol}: invalid field 'metadata'`);
   }
 
   const iconPath = path.join(protocolsPath, icon);
@@ -152,6 +152,14 @@ function validateConfig(protocol, assetMap) {
 
   if (iconStats.size > BUFFER_LIMIT_ICON_KB_SIZE * 1024) {
     throw new Error(`protocol ${protocol}: icon size must be less than ${LIMIT_ICON_KB_SIZE}KB file`);
+  }
+
+  if (metadata === undefined) {
+    return;
+  }
+
+  if (typeof metadata !== 'object') {
+    throw new Error(`protocol ${protocol}: invalid field 'metadata'`);
   }
 
   const {pt, yt, lp} = metadata;

@@ -1,6 +1,7 @@
 name: yearn
 icon: logo.png
 category: Yield Strategy
+url: https://pendle.yearn.space/
 description: Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets.
 metadata:
   pt:
