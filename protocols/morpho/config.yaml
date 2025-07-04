@@ -275,6 +275,7 @@ metadata:
       description: >-
         The PT-ysUSDC-31JUL2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+      subtitle: USDC
     - chainId: 1
       address: '0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8'
       integrationUrl: >-
