@@ -445,4 +445,29 @@ metadata:
         The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho
         market with USDT as the loan token.
   yt: []
-  lp: []
+  lp:
+    - chainId: 1
+      address: '0x4339ffe2b7592dc783ed13cce310531ab366deac'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xfd2e0d55ed4fcc26fec66f2bb890a8eeb985e456ac236b29127c75db3e1e23c8/lp-susde-31jul2025-usdt
+      description: >-
+        The LP-sUSDe-31JUL2025 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
+    - chainId: 1
+      address: '0xa36b60a14a1a5247912584768c6e53e1a269a9f7'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x134c6d598a8314a53b15d5fa5005f8bb16ba97dee6350d4a317d09b7af4dab6f/lp-susde-25sep2025-usdt
+      description: >-
+        The LP-sUSDe-25SEP2025 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
+    - chainId: 1
+      address: '0xe93b4a93e80bd3065b290394264af5d82422ee70'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xfc238b7b39e0febab89433ab0380f2988b13671c1884d7ebb2f3eba4627261f0/lp-eusde-14aug2025-usdt
+      description: >-
+        The LP-eUSDe-14AUG2025 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
+    
