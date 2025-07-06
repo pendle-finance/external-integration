@@ -1055,6 +1055,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x96a4399f2c837f8aa34c39718e30625a84f9285991f0a08d1f2997e15bbeeaa8&network=mainnet",
             "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8",
+            "integrationUrl": "https://app.morpho.org/market?id=0xa4bb66e932dfa4b54c0b612dfffdbdc426f7906306a78178acd8562739121b9a&network=mainnet",
+            "description": "The PT-lvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
+            "subtitle": "lvlUSD"
           }
         ],
         "yt": [],
