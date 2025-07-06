@@ -1062,6 +1062,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xa4bb66e932dfa4b54c0b612dfffdbdc426f7906306a78178acd8562739121b9a&network=mainnet",
             "description": "The PT-lvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
             "subtitle": "lvlUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "integrationUrl": "https://app.morpho.org/market?id=0xd92a4247468eca1edc0c5b26cacfcdd7daaf666c5d26bd5e3ca5f70a9073a196&network=mainnet",
+            "description": "The PT-USDe-25SEP2025 is the asset used as collateral in a Morpho market with USDe as the loan token.",
+            "subtitle": "USDe"
           }
         ],
         "yt": [],
