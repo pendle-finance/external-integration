@@ -1,6 +1,7 @@
 name: Contango
 icon: logo.png
 category: Yield Strategy
+url: https://app.contango.xyz/
 description: Contango builds positions by automating looping strategies through flash loans. When a trader opens a position, the protocol borrows on money markets.
 metadata:
   pt:
