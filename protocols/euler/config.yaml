@@ -298,7 +298,6 @@ metadata:
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yUSD-7AUG2025&network=ethereum
       description: >-
-        PT-yUSD-7AUG2025 can be used as collateral to borrow or multiply against
-        .........
+        PT-yUSD-7AUG2025 can be used as collateral to borrow or multiply against USDC
   yt: []
   lp: []
