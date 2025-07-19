@@ -1089,6 +1089,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x147390b94333d30c4bd51c8e79e8f90f6e827e3ea97ecbfe2dc52a1ea67aa008&network=mainnet",
             "description": "The PT-AIDaUSDT-14AUG2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "integrationUrl": "https://app.morpho.org/market?id=0x3462a9442ec1aa46fc38bf91472b593b8fb86bf18eac47ebf82493dc4bed5b1b&network=mainnet",
+            "description": "The PT-USDe-25SEP2025 is the asset used as collateral in a Morpho market with USDtb as the loan token.",
+            "subtitle": "USDtb"
           }
         ],
         "yt": [],
