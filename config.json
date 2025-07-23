@@ -590,6 +590,12 @@
             "address": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-stS-18DEC2025&network=sonic",
             "description": "PT-stS-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd1d0ff7bb555f57a9604ce06bca704ab97a0049a",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yUSD-7AUG2025&network=ethereum",
+            "description": "PT-yUSD-7AUG2025 can be used as collateral to borrow or multiply against USDC"
           }
         ],
         "yt": [],
@@ -1083,6 +1089,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x147390b94333d30c4bd51c8e79e8f90f6e827e3ea97ecbfe2dc52a1ea67aa008&network=mainnet",
             "description": "The PT-AIDaUSDT-14AUG2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "integrationUrl": "https://app.morpho.org/market?id=0x3462a9442ec1aa46fc38bf91472b593b8fb86bf18eac47ebf82493dc4bed5b1b&network=mainnet",
+            "description": "The PT-USDe-25SEP2025 is the asset used as collateral in a Morpho market with USDtb as the loan token.",
+            "subtitle": "USDtb"
           }
         ],
         "yt": [],
@@ -1422,6 +1435,34 @@
             "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=arb&collateralToken=42161%3A0xab7f3837e6e721abbc826927b655180af6a04388",
             "description": "Earn leveraged fixed-rate yields with WETH on TermMax, with yields from PT-weETH-25JUN2026.",
             "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xab7f3837e6e721abbc826927b655180af6a04388",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=arb&collateralToken=42161%3A0xab7f3837e6e721abbc826927b655180af6a04388",
+            "description": "Borrow WETH at a fixed rate with PT-weETH-25JUN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDE-25SEP2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDE-25SEP2025.",
+            "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 1,
+            "address": "0x84013d1a574515b6a05a0e2392584d445d39d1df",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0x84013d1a574515b6a05a0e2392584d445d39d1df",
+            "description": "Borrow wETH at a fixed rate with PT-pufETH-25JUN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],

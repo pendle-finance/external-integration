@@ -291,6 +291,13 @@ metadata:
       integrationUrl: >-
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-stS-18DEC2025&network=sonic
       description: >-
-        PT-stS-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler
+        PT-stS-18DEC2025 can be used as collateral to borrow or multiply against
+        MEV Capital's wS on Euler
+    - chainId: 1
+      address: '0xd1d0ff7bb555f57a9604ce06bca704ab97a0049a'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yUSD-7AUG2025&network=ethereum
+      description: >-
+        PT-yUSD-7AUG2025 can be used as collateral to borrow or multiply against USDC
   yt: []
   lp: []
