@@ -484,6 +484,14 @@ metadata:
       description: >-
         The PT-USDe-25SEP2025 is the asset used as collateral in a Morpho market
         with USDtb as the loan token.
+    - chainId: 1
+      address: '0x5a5b93f762739fa94f3ecc0b34af2e56702e7f70'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xe161f2204b2d5a356a91c324e1a77d791da217fdec6b52a84b5b9e0b56516413&network=mainnet
+      description: >-
+        The PT-USR-4SEP2025 is the asset used as collateral in a Morpho market
+        with USDC as the loan token.
   yt: []
   lp:
     - chainId: 1
