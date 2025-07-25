@@ -159,5 +159,12 @@ metadata:
         https://app.termmax.ts.finance/borrow?collateralToken=1%3A0x84013d1a574515b6a05a0e2392584d445d39d1df
       description: >-
         Borrow wETH at a fixed rate with PT-pufETH-25JUN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xd0a4b74a6b62aa2b6c02349463d9041606608f36'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xd0a4b74a6b62aa2b6c02349463d9041606608f36
+      description: >-
+        Borrow USDC at a fixed rate with PT-tUSDe-25SEP2025 as collateral on TermMax.
   yt: []
   lp: []
