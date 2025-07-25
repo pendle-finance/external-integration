@@ -224,7 +224,7 @@ async function getAssetList(url) {
   const lpMap = {};
 
   for (const chainData of data) {
-    const {chainId, markets, pts, yts} = chainData;
+    const {chainId, markets, pts, yts, crossPts} = chainData;
     if (pts) {
       pts.map((pt) => ptMap[`${chainId}-${pt}`] = true)
     }
@@ -235,6 +235,10 @@ async function getAssetList(url) {
 
     if (markets) {
       markets.map((market) => lpMap[`${chainId}-${market}`] = true)
+    }
+
+    if (crossPts) {
+      crossPts.map((crossPt) => ptMap[`${chainId}-${crossPt.spokePt}`] = true);
     }
   }
 
