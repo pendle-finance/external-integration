@@ -596,6 +596,30 @@
             "address": "0xd1d0ff7bb555f57a9604ce06bca704ab97a0049a",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yUSD-7AUG2025&network=ethereum",
             "description": "PT-yUSD-7AUG2025 can be used as collateral to borrow or multiply against USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x66526197a4baf496d97e1004e43c2c374fb7d2e7",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sBOLD-27NOV2025&network=ethereum",
+            "description": "PT-sBOLD-27NOV2025 can be used as collateral to borrow or multiply against ........."
+          },
+          {
+            "chainId": 1,
+            "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDe-25SEP2025&network=ethereum",
+            "description": "PT-USDe-25SEP2025 can be used as collateral to borrow or multiply against ........."
+          },
+          {
+            "chainId": 1,
+            "address": "0xd0a4b74a6b62aa2b6c02349463d9041606608f36",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-tUSDe-25SEP2025&network=ethereum",
+            "description": "PT-tUSDe-25SEP2025 can be used as collateral to borrow or multiply against ........."
+          },
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDE-25SEP2025&network=ethereum",
+            "description": "PT-sUSDE-25SEP2025 can be used as collateral to borrow or multiply against ........."
           }
         ],
         "yt": [],
