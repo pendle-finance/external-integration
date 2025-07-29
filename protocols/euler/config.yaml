@@ -328,5 +328,26 @@ metadata:
       description: >-
         PT-sUSDE-25SEP2025 can be used as collateral to borrow or multiply
         against .........
+    - chainId: 1
+      address: '0x61da65f0534c6a4f4c9757f2979a923c08d6d2aa'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mMEV-30OCT2025&network=ethereum
+      description: >-
+        PT-mMEV-30OCT2025 can be used as collateral to borrow or multiply
+        against .........
+    - chainId: 1
+      address: '0x2e3229674085f5490a4cc2558ab96aedc3ab25d1'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mEDGE-30OCT2025&network=ethereum
+      description: >-
+        PT-mEDGE-30OCT2025 can be used as collateral to borrow or multiply
+        against .........
+    - chainId: 1
+      address: '0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDf-29JAN2026&network=ethereum
+      description: >-
+        PT-USDf-29JAN2026 can be used as collateral to borrow or multiply
+        against .........
   yt: []
   lp: []
