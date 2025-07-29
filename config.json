@@ -646,6 +646,28 @@
       "hash": "ee96cfc33805516c97322b31855cd579"
     },
     {
+      "id": "firm",
+      "name": "FiRM",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "FiRM is a lending protocol offering users the ability to borrow at a fixed rate and one-click leverage up to 11.7x for Pendle PT-sUSDe collaterals.",
+      "url": "https://inverse.finance/firm",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://www.inverse.finance/firm/PT-sUSDe-25SEP25",
+            "description": "Leverage up to 11.7x on PT-sUSDe-25SEP2025 at a fixed net APY.",
+            "subtitle": "Up to 11.7x leverage"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "20bf63629b196d340e937e98dc4669ae"
+    },
+    {
       "id": "gateio",
       "name": "Gate.io",
       "icon": "logo.png",
