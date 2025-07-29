@@ -983,13 +983,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.morpho.org/market?id=0x83e10b446f0f2013bb5417fbab8de0371808da605d9d88bdd3ad9de4e7303048&network=mainnet",
-            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
             "address": "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252",
             "integrationUrl": "https://app.morpho.org/market?id=0x66233e87913d94695fb09e8b8e586e754a7cd6dae6700b5e4b3aa08d3e73eb01&network=mainnet",
             "description": "The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
@@ -1127,6 +1120,20 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xf42b0dd39d1f852412283354dcb10eb7a39238832608f030d5163411e4197d43&network=mainnet",
             "description": "The PT-csUSDL-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "integrationUrl": "https://app.morpho.org/market?id=0x896111ed91a5ae232f98193b453fae1eb6670ce504e228636b7d0baae23fd52d&network=mainnet",
+            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with sUSDS as the loan token.",
+            "subtitle": "sUSDS"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd0a4b74a6b62aa2b6c02349463d9041606608f36",
+            "integrationUrl": "https://app.morpho.org/market?id=0xd729b6742d6eadee7ee38ecf85e9f0ba060398e28089adf2e5e0f43224e4688a&network=mainnet",
+            "description": "The PT-tUSDe-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
