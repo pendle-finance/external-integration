@@ -355,6 +355,6 @@ metadata:
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-hwHLP-25SEP2025&network=ethereum
       description: >-
         PT-hwHLP-25SEP2025 can be used as collateral to borrow or multiply
-        against .........
+        against Frontier's hwHLP on Euler
   yt: []
   lp: []
