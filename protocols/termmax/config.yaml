@@ -173,5 +173,19 @@ metadata:
         https://app.termmax.ts.finance/leverage?collateralToken=1%3A0x84013d1a574515b6a05a0e2392584d445d39d1df
       description: >-
         Earn leveraged fixed-rate yields with wETH on TermMax, with yields from PT-pufETH-25JUN2026.
+    - chainId: 1
+      address: '0xfe72382695dc280e7392a0be795128a126e9b7ae'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xfe72382695dc280e7392a0be795128a126e9b7ae
+      description: >-
+        Borrow wstETH at a fixed rate with PT-tETH-25SEP2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c
+      description: >-
+        Borrow USDC at a fixed rate with PT-pUSDe-16OCT2025 as collateral on TermMax.
   yt: []
   lp: []
