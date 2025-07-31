@@ -638,6 +638,12 @@
             "address": "0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDf-29JAN2026&network=ethereum",
             "description": "PT-USDf-29JAN2026 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x904673592a3febb74a30a73161e8c05a200c8961",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-hwHLP-25SEP2025&network=ethereum",
+            "description": "PT-hwHLP-25SEP2025 can be used as collateral to borrow or multiply against Frontier's hwHLP on Euler"
           }
         ],
         "yt": [],
