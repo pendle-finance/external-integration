@@ -261,14 +261,6 @@ metadata:
         The PT-wstUSR-25SEP2025 is the asset used as collateral in a Morpho
         market with USR as the loan token.
     - chainId: 1
-      address: '0xcce7d12f683c6dae700154f0badf779c0ba1f89a'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/market?id=0x3bdb58058b41bb700458ba3df317e254244ddec7fc35fec93d2d53475cc6ebdc&network=mainnet
-      description: >-
-        The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
-    - chainId: 1
       address: '0x11105208abb3ce206922bf4cd6b2d5f98cac2f0d'
       integrationUrl: >-
         https://app.morpho.org/market?id=0x51ac4100851b7186b82d4101838b7c89678430adcf5e728f9e895131b49709b1&network=mainnet
@@ -516,6 +508,22 @@ metadata:
       description: >-
         The PT-USR-4SEP2025 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
+    - chainId: 1
+      address: '0xcce7d12f683c6dae700154f0badf779c0ba1f89a'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x9df0fc9073632db5926b92f024165289b4ee4a9f8521dd6d3460f3544fe9770f&network=mainnet
+      description: >-
+        The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
+    - chainId: 1
+      address: '0x9f56094c450763769ba0ea9fe2876070c0fd5f77'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x92fa6ed4186351fba59f698ec4b6aeb674cdd2df73e2cb109eabece606b6398b&network=mainnet
+      description: >-
+        The PT-sUSDE-25SEP2025 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
   yt: []
   lp:
     - chainId: 1
