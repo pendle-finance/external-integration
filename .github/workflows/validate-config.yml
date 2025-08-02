@@ -5,6 +5,7 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - 'main'
+      - 'fix-validate-config'
 
 jobs:
   validate_json_files:
@@ -33,6 +34,9 @@ jobs:
           echo $BASE_SHA
           echo $HEAD_SHA
           export ROOT_SHA=$(git merge-base $BASE_SHA $HEAD_SHA)
+          echo $BASE_SHA
+          echo $HEAD_SHA
+          echo $ROOT_SHA
           git diff --quiet $ROOT_SHA $HEAD_SHA -- config.json || (echo "file config.json must not change" && exit 1)
           CHANGED_PROTOCOLS=$(git diff --name-only $ROOT_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
           CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS node validate-config.js
