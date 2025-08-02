@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -31,8 +32,9 @@ jobs:
           export HEAD_SHA=$(git rev-parse HEAD)
           echo $BASE_SHA
           echo $HEAD_SHA
-          git diff --quiet $BASE_SHA $HEAD_SHA -- config.json || (echo "file config.json must not change" && exit 1)
-          CHANGED_PROTOCOLS=$(git diff --name-only $BASE_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
+          export ROOT_SHA=$(git merge-base $BASE_SHA $HEAD_SHA)
+          git diff --quiet $ROOT_SHA $HEAD_SHA -- config.json || (echo "file config.json must not change" && exit 1)
+          CHANGED_PROTOCOLS=$(git diff --name-only $ROOT_SHA $HEAD_SHA -- 'protocols/*' | grep '^protocols/' | xargs -L1 dirname | sed 's|protocols/||' | sort -u) 
           CHANGED_PROTOCOLS=$CHANGED_PROTOCOLS node validate-config.js
         env:
           GET_ASSET_LIST_URL: https://api-v2.pendle.finance/core/v1/querier/simplified-data
