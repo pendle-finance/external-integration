@@ -8,54 +8,12 @@ description: >-
 metadata:
   pt:
     - chainId: 146
-      address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstkscusd29may-frxusd-37
-      description: >-
-        Leverage PT-wstkscUSD against frxUSD on Silo to maximize your fixed
-        yield while earning bonus Silo Points.
-    - chainId: 146
-      address: '0x420df605D062F8611EFb3F203BF258159b8FfFdE'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptsts29may-s-40
-      description: >-
-        Leverage PT-stS against S on Silo to maximize your fixed yield while
-        earning bonus Silo Points.
-    - chainId: 146
       address: '0x930441Aa7Ab17654dF5663781CA0C02CC17e6643'
       integrationUrl: https://v2.silo.finance/markets/sonic/ptausdc14aug-scusd-46
       description: >-
         Leverage PT-aUSDC against scUSD on Silo to maximize your fixed yield
         while earning bonus Silo Points.
       subtitle: scUSD
-    - chainId: 146
-      address: '0xa2161E75EDf50d70544e6588788A5732A3105c00'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstksceth29may-eth-35
-      description: >-
-        Leverage PT-wstkscETH against ETH on Silo to maximize your fixed yield
-        while earning bonus Silo Points.
-    - chainId: 146
-      address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstkscusd29may-usdc-34
-      description: >-
-        Leverage PT-wstkscUSD against USDC on Silo to maximize your fixed yield
-        while earning bonus Silo Points.
-    - chainId: 146
-      address: '0x46eb02b9F47634c4fab3110CC7ADc1C6311DfAC1'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwos29may-s-41
-      description: >-
-        Leverage PT-woS against S on Silo to maximize your fixed yield while
-        earning bonus Silo Points.
-    - chainId: 146
-      address: '0xa2161E75EDf50d70544e6588788A5732A3105c00'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstksceth29may-sceth-47
-      description: >-
-        Leverage PT-wstkscETH against scETH on Silo to maximize your fixed yield
-        while earning bonus Silo Points.
-    - chainId: 146
-      address: '0xBe27993204Ec64238F71A527B4c4D5F4949034C3'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwstkscusd29may-scusd-44
-      description: >-
-        Leverage PT-wstkscUSD against scUSD on Silo to maximize your fixed yield
-        while earning bonus Silo Points.
     - chainId: 146
       address: '0x789cA09b0B4bcc83062d817C43206f96bd464015'
       integrationUrl: https://v2.silo.finance/markets/sonic/ptwans28aug-s-51
@@ -69,13 +27,6 @@ metadata:
       description: >-
         Leverage PT-aSonUSDC-14AUG2025 against USDC on Silo to maximize your
         fixed yield while earning bonus Silo Points.
-      subtitle: USDC
-    - chainId: 146
-      address: '0x77d8f09053c28faf1e00df6511b23125d438616f'
-      integrationUrl: https://app.silo.finance/markets/sonic/104
-      description: >-
-        Leverage PT-Silo-20-USDC.e-17JUL2025 against USDCon Silo to maximize
-        your fixed yield while earning bonus Silo Points.
       subtitle: USDC
     - chainId: 146
       address: '0x9731842ed581816913933c01de142c7ee412a8c8'
@@ -109,8 +60,8 @@ metadata:
       address: '0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d'
       integrationUrl: https://app.silo.finance/markets/sonic/113
       description: >-
-        Leverage PT-stS-18DEC2025 against S on Silo to maximize your
-        fixed yield while earning bonus Silo Points.
+        Leverage PT-stS-18DEC2025 against S on Silo to maximize your fixed yield
+        while earning bonus Silo Points.
       subtitle: S
   yt: []
   lp: []
