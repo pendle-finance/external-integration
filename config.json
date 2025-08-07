@@ -389,12 +389,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xd1d0ff7bb555f57a9604ce06bca704ab97a0049a",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yUSD-7AUG2025&network=ethereum",
-            "description": "PT-yUSD-7AUG2025 can be used as collateral to borrow or multiply against USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0x66526197a4baf496d97e1004e43c2c374fb7d2e7",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sBOLD-27NOV2025&network=ethereum",
             "description": "PT-sBOLD-27NOV2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
@@ -440,6 +434,12 @@
             "address": "0x904673592a3febb74a30a73161e8c05a200c8961",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-hwHLP-25SEP2025&network=ethereum",
             "description": "PT-hwHLP-25SEP2025 can be used as collateral to borrow or multiply against Frontier's hwHLP on Euler"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c",
+            "integrationUrl": "https://app.euler.finance/?asset=PT-pUSDe-16OCT2025&network=ethereum",
+            "description": "PT-pUSDe-16OCT2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
           }
         ],
         "yt": [],
