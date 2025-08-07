@@ -190,9 +190,9 @@ metadata:
     - chainId: 1
       address: '0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c'
       integrationUrl: >-
-        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-pUSDe-16OCT2025&network=ethereum
+        https://app.euler.finance/?asset=PT-pUSDe-16OCT2025&network=ethereum
       description: >-
         PT-pUSDe-16OCT2025 can be used as collateral to borrow or multiply
-        against .........
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
