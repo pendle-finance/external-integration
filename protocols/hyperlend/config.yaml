@@ -1,0 +1,15 @@
+name: HyperLend
+icon: logo.png
+category: Money Market
+description: HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency
+url: https://app.hyperlend.finance
+metadata:
+  pt:
+    - chainId: 999
+      address: '0x311dB0FDe558689550c68355783c95eFDfe25329'
+      integrationUrl: >-
+        https://app.hyperlend.finance/markets/0x311dB0FDe558689550c68355783c95eFDfe25329
+      description: >-
+        PT-kHYPE-13NOV2025 can be used as collateral to borrow or multiply against a variety of assets
+  yt: []
+  lp: []
