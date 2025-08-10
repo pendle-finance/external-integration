@@ -511,6 +511,27 @@
       "hash": "d3dafc61f58da855482a726fdd32bf82"
     },
     {
+      "id": "hyperlend",
+      "name": "HyperLend",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency",
+      "url": "https://app.hyperlend.finance",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 999,
+            "address": "0x311db0fde558689550c68355783c95efdfe25329",
+            "integrationUrl": "https://app.hyperlend.finance/markets/0x311dB0FDe558689550c68355783c95eFDfe25329",
+            "description": "PT-kHYPE-13NOV2025 can be used as collateral to borrow a variety of assets"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "f93177e454ae5b4068921b35e571179b"
+    },
+    {
       "id": "insurace",
       "name": "InsurACE",
       "icon": "logo.png",
