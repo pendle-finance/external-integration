@@ -1143,6 +1143,13 @@
             "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c",
             "description": "Borrow USDC at a fixed rate with PT-pUSDe-16OCT2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xad7ee9712c279b619101706252db3b3d1e6756ab",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?search=ysusdc",
+            "description": "Borrow USDC at a fixed rate with PT-ysUSDC-30OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],
