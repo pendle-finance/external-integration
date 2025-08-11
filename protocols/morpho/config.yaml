@@ -271,6 +271,22 @@ metadata:
       description: >-
         The PT-staking-USDS-25SEP2025 is the asset used as collateral in a
         Morpho market with USDS as the loan token.
+    - chainId: 1
+      address: '0x9f56094c450763769ba0ea9fe2876070c0fd5f77'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x3e37bd6e02277f15f93cd7534ce039e60d19d9298f4d1bc6a3a4f7bf64de0a1c&network=mainnet
+      description: >-
+        The PT-sUSDE-25SEP2025 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 1
+      address: '0x10a099baf814b5fda138c4e6b60ed42c0d975be8'
+      subtitle: rUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xc69891665c85d1cce4eade67f15b9fda64c6bfbf3f1a92fffcc4d97b5cb61cfd&network=mainnet
+      description: >-
+        The PT-wsrUSD-30OCT2025 is the asset used as collateral in a Morpho
+        market with rUSD as the loan token.
   yt: []
   lp:
     - chainId: 1
