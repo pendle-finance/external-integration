@@ -80,37 +80,12 @@ metadata:
     - chainId: 1
       address: '0xbc6736d346a5ebc0debc997397912cd9b8fae10a'
       integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xbc6736d346a5ebc0debc997397912cd9b8fae10a'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xbc6736d346a5ebc0debc997397912cd9b8fae10a'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
+        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
       description: PT leverage looping through various supported money markets
     - chainId: 1
       address: '0xd0a4b74a6b62aa2b6c02349463d9041606608f36'
       integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xd0a4b74a6b62aa2b6c02349463d9041606608f36'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xd0a4b74a6b62aa2b6c02349463d9041606608f36'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xbc6736d346a5ebc0debc997397912cd9b8fae10a'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies.........................?selectedChains=1
+        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
       description: PT leverage looping through various supported money markets
   yt: []
   lp: []
