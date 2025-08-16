@@ -247,6 +247,14 @@ metadata:
       description: >-
         The PT-USDe-25SEP2025 is the asset used as collateral in a Morpho market
         with DAI as the loan token.
+    - chainId: 1
+      address: '0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c'
+      subtitle: USDe
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x48ad2c89e42c5e387280d0cc2935d6b71d428b4a0e012cf43a1a1aa2e65a1cf0&network=mainnet
+      description: >-
+        The PT-pUSDe-16OCT2025 is the asset used as collateral in a Morpho
+        market with USDe as the loan token.
   yt: []
   lp:
     - chainId: 1
