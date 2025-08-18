@@ -255,6 +255,14 @@ metadata:
       description: >-
         The PT-pUSDe-16OCT2025 is the asset used as collateral in a Morpho
         market with USDe as the loan token.
+    - chainId: 1
+      address: '0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x7fd694cd13880ce994c61e8f8991ce0c9e321e3d50f548dd62a1b6e610d29f32&network=mainnet
+      description: >-
+        The PT-cUSDO-20NOV2025 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
   yt: []
   lp:
     - chainId: 1
