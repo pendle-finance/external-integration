@@ -55,6 +55,7 @@ function formatProtocolConfig(config) {
   const pt = formatMetadataAssets(metadata?.pt ?? []);
   const yt = formatMetadataAssets(metadata?.yt ?? []);
   const lp = formatMetadataAssets(metadata?.lp ?? []);
+  const crossPts = formatMetadataAssets(metadata?.crossPts ?? []);
 
   return {
     id,
@@ -64,7 +65,7 @@ function formatProtocolConfig(config) {
     description,
     url,
     metadata: {
-      pt,
+      pt: [...pt, ...crossPts],
       yt,
       lp,
     },
