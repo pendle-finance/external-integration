@@ -591,6 +591,20 @@
       "hash": "00f2c6db8ea2d3f7de8e5bc1135c4a6c"
     },
     {
+      "id": "defisaver",
+      "name": "DeFi Saver",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "DeFi Saver is an all-in-one management tool for DeFi protocols such as Aave, Compound, Fluid, Morpho, Sky and more.",
+      "url": "https://app.defisaver.com/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "6de0cd33fd2e8862f51e82564ce2c260"
+    },
+    {
       "id": "dolomite",
       "name": "Dolomite",
       "icon": "logo.png",
