@@ -154,7 +154,7 @@ function validateConfig(protocol, assetMap) {
     throw new Error(`protocol ${protocol}: icon size must be less than ${LIMIT_ICON_KB_SIZE}KB file`);
   }
 
-  if (metadata === undefined) {
+  if (metadata === undefined || metadata === null) {
     return;
   }
 
