@@ -882,6 +882,20 @@
       "hash": "f93177e454ae5b4068921b35e571179b"
     },
     {
+      "id": "infinifi",
+      "name": "infiniFi",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "infiniFi automates borrow-short, lend-long asset management to achieve superior returns on Pendle PTs without the hassle of manual rollovers.  Higher Yield.  No leverage.",
+      "url": "https://infinifi.xyz",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "66ff93644b9971a66d33674f4f454552"
+    },
+    {
       "id": "insurace",
       "name": "InsurACE",
       "icon": "logo.png",
