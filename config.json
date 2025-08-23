@@ -978,6 +978,27 @@
       "hash": "e13d78ddbecbe638d0f1c153632a2afe"
     },
     {
+      "id": "term",
+      "name": "Term",
+      "icon": "Term_TokenIcon_OnBlue.png",
+      "category": "money market",
+      "url": "https://www.app.term.finance/auctions",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 43114,
+            "address": "0xb4205a645c7e920bd8504181b1d7f2c5c955c3e7",
+            "integrationUrl": "https://app.term.finance/auctions",
+            "description": "PT-USDe 25 Sep 2025 can be used as collateral in a fixed-rate, matched-maturity USDC Term loan.",
+            "subtitle": "USDC"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "f2eba5ba11d91248d31e8420627cc439"
+    },
+    {
       "id": "termmax",
       "name": "TermMax",
       "icon": "logo.png",
