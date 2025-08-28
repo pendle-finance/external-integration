@@ -8,13 +8,6 @@ description: >-
 metadata:
   pt:
     - chainId: 146
-      address: '0x789cA09b0B4bcc83062d817C43206f96bd464015'
-      integrationUrl: https://v2.silo.finance/markets/sonic/ptwans28aug-s-51
-      description: >-
-        Leverage PT-wANS against S on Silo to maximize your fixed yield while
-        earning bonus Silo Points.
-      subtitle: S
-    - chainId: 146
       address: '0x200338559c1975d1f216adcda8352aff2869afab'
       integrationUrl: https://app.silo.finance/markets/sonic/106
       description: >-
@@ -46,6 +39,7 @@ metadata:
       address: '0xb4205a645c7e920bd8504181b1d7f2c5c955c3e7'
       integrationUrl: https://app.silo.finance/markets/avalanche/144
       description: >-
-        Leverage PT-USDe-25SEP2025 against USDC on Silo to maximize your fixed yield.
+        Leverage PT-USDe-25SEP2025 against USDC on Silo to maximize your fixed
+        yield.
   yt: []
   lp: []
