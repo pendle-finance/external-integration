@@ -911,13 +911,6 @@
         "pt": [
           {
             "chainId": 146,
-            "address": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwans28aug-s-51",
-            "description": "Leverage PT-wANS against S on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "S"
-          },
-          {
-            "chainId": 146,
             "address": "0x200338559c1975d1f216adcda8352aff2869afab",
             "integrationUrl": "https://app.silo.finance/markets/sonic/106",
             "description": "Leverage PT-wOS-18DEC2025 against S on Silo to maximize your fixed yield while earning bonus Silo Points.",
