@@ -337,12 +337,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-syrupUSDC-28AUG2025&network=ethereum",
-            "description": "PT-syrupUSDC-28AUG2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
             "address": "0x742b4166878bfd339db65a29a17e49b81a6b6aac",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-RLP-4SEP2025&network=ethereum",
             "description": "PT-RLP-4SEP2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
