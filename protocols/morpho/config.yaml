@@ -343,6 +343,14 @@ metadata:
       description: >-
         The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a
         Morpho market with cbBTC as the loan token.
+    - chainId: 1
+      address: '0x9f56094c450763769ba0ea9fe2876070c0fd5f77'
+      subtitle: sUSDS
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x6117053ec7814a6e70f67d983653c2d6d224b7053a8784969ad1afbc851537df&network=mainnet
+      description: >-
+        The PT-sUSDE-25SEP2025 is the asset used as collateral in a Morpho
+        market with sUSDS as the loan token.
   yt: []
   lp:
     - chainId: 1
