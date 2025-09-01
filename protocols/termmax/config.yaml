@@ -209,13 +209,6 @@ metadata:
       description: >-
         Borrow USDC at a fixed rate with PT-RLP-04DEC2025 as collateral on TermMax.
     - chainId: 1
-      address: '0x3a70f0c696dcb3a4ab3833cd9726397dd61ac85e'
-      subtitle: Fixed-rate Borrow
-      integrationUrl: >-
-        https://app.termmax.ts.finance/borrow?chain=eth&search=rlp
-      description: >-
-        Borrow USDC at a fixed rate with PT-RLP-04DEC2025 as collateral on TermMax.
-    - chainId: 1
       address: '0xe6a934089bbee34f832060ce98848359883749b3'
       subtitle: Fixed-rate Borrow
       integrationUrl: >-
