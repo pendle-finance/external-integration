@@ -208,5 +208,19 @@ metadata:
         https://app.termmax.ts.finance/borrow?chain=eth&search=rlp
       description: >-
         Borrow USDC at a fixed rate with PT-RLP-04DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-susde
+      description: >-
+        Borrow USDC at a fixed rate with PT-sUSDe-27NOV2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
+      subtitle: Levered Yields
+      integrationUrl: >-
+        https://app.termmax.ts.finance/leverage?chain=eth&search=pt-susde
+      description: >-
+        Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDe-27NOV2025.
   yt: []
   lp: []
