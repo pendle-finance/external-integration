@@ -894,6 +894,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x20cd987b0b92365b549e17b6c5200ecc24032e4423a1badd7cc99d45fbce3c05&network=base",
             "description": "The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a Morpho market with cbBTC as the loan token.",
             "subtitle": "cbBTC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xe4d30ccf87cb3e5e637b64a2ee21bd5d3901839a",
+            "integrationUrl": "https://app.morpho.org/market?id=0x1ca75949a91c157183f53282d73c37191e7cd84002310f6632047d874aad4a0f&network=mainnet",
+            "description": "The PT-mHYPER-20NOV2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
