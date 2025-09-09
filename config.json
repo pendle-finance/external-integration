@@ -934,6 +934,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x8ed44f0370f077e44f745df3dc6307415a69efb6fcd818f53f8e5b8518eece99&network=mainnet",
             "description": "The PT-USR-4DEC2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
             "subtitle": "USR"
+          },
+          {
+            "chainId": 1,
+            "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
+            "integrationUrl": "https://app.morpho.org/market?id=0x03f715ef1ae508ab3e1faf4dffdbf2a077d1f0ad10c5aad42cf4438d5e3328af&network=mainnet",
+            "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
