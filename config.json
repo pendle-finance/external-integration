@@ -1075,6 +1075,12 @@
             "integrationUrl": "https://app.silo.finance/markets/sonic/148",
             "description": "Leverage PT-wstkscUSD-18DEC2025 against dUSD on Silo to maximize your fixed yield while earning bonus Silo Points.",
             "subtitle": "dUSD"
+          },
+          {
+            "chainId": 43114,
+            "address": "0x9da7f8c0d6e3f247affdf92c3dddd83c1e248e14",
+            "integrationUrl": "https://app.silo.finance/markets/avalanche/148",
+            "description": "Leverage PT-USDe-27NOV2025 against USDC on Silo to maximize your fixed yield."
           }
         ],
         "yt": [],
