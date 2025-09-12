@@ -1057,12 +1057,6 @@
             "subtitle": "S"
           },
           {
-            "chainId": 43114,
-            "address": "0xb4205a645c7e920bd8504181b1d7f2c5c955c3e7",
-            "integrationUrl": "https://app.silo.finance/markets/avalanche/144",
-            "description": "Leverage PT-USDe-25SEP2025 against USDC on Silo to maximize your fixed yield."
-          },
-          {
             "chainId": 146,
             "address": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
             "integrationUrl": "https://app.silo.finance/markets/sonic/141",
@@ -1123,15 +1117,7 @@
       "category": "money market",
       "url": "https://www.app.term.finance/auctions",
       "metadata": {
-        "pt": [
-          {
-            "chainId": 43114,
-            "address": "0xb4205a645c7e920bd8504181b1d7f2c5c955c3e7",
-            "integrationUrl": "https://app.term.finance/auctions",
-            "description": "PT-USDe 25 Sep 2025 can be used as collateral in a fixed-rate, matched-maturity USDC Term loan.",
-            "subtitle": "USDC"
-          }
-        ],
+        "pt": [],
         "yt": [],
         "lp": []
       },
