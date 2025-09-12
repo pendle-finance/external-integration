@@ -55,5 +55,11 @@ metadata:
       description: >-
         Leverage PT-USDe-27NOV2025 against USDC on Silo to maximize your fixed
         yield.
+     - chainId: 42161
+      address: '0x8b4ca42bb3b1d789859f106222cf7dc5eed48ccb'
+      integrationUrl: https://app.silo.finance/markets/arbitrum/145
+      description: >-
+        Leverage PT-USDai-19NOV2025 against USDC on Silo to maximize your fixed
+        yield.
   yt: []
   lp: []
