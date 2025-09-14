@@ -4,3 +4,8 @@ category: 'Money Market'
 url: https://www.app.term.finance/auctions
 metadata:
   pt:
+    - chainId: 43114
+      address: '0x9Da7f8c0D6e3F247AFFDf92c3DDDd83c1E248E14'
+      subtitle: USDC
+      integrationUrl: https://app.term.finance/auctions
+      description: PT-USDe 27 Nov 2025 can be used as collateral in a fixed-rate, matched-maturity USDC Term loan.
