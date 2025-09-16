@@ -35,11 +35,31 @@ metadata:
         Leverage PT-stS-18DEC2025 against S on Silo to maximize your fixed yield
         while earning bonus Silo Points.
       subtitle: S
-    - chainId: 43114
-      address: '0xb4205a645c7e920bd8504181b1d7f2c5c955c3e7'
-      integrationUrl: https://app.silo.finance/markets/avalanche/144
+    - chainId: 146
+      address: '0x5ee17fd12ede62b508f9615db384ce7b834ba657'
+      integrationUrl: https://app.silo.finance/markets/sonic/141
       description: >-
-        Leverage PT-USDe-25SEP2025 against USDC on Silo to maximize your fixed
+        Leverage PT-smsUSD-30OCT2025 against USDC on Silo to maximize your fixed
+        yield while earning bonus Silo Points.
+      subtitle: USDC
+    - chainId: 146
+      address: '0x0fb682c9692addcc1769f4d4d938c54420d54fa3'
+      integrationUrl: https://app.silo.finance/markets/sonic/148
+      description: >-
+        Leverage PT-wstkscUSD-18DEC2025 against dUSD on Silo to maximize your
+        fixed yield while earning bonus Silo Points.
+      subtitle: dUSD
+    - chainId: 43114
+      address: '0x9Da7f8c0D6e3F247AFFDf92c3DDDd83c1E248E14'
+      integrationUrl: https://app.silo.finance/markets/avalanche/148
+      description: >-
+        Leverage PT-USDe-27NOV2025 against USDC on Silo to maximize your fixed
+        yield.
+    - chainId: 42161
+      address: '0x936f210d277bf489a3211cef9ab4bc47a7b69c96'
+      integrationUrl: https://app.silo.finance/markets/arbitrum/145
+      description: >-
+        Leverage PT-sUSDai-19NOV2025 against USDC on Silo to maximize your fixed
         yield.
   yt: []
   lp: []
