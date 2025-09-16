@@ -209,6 +209,6 @@ metadata:
         https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDf-29JAN2026&network=ethereum
       description: >-
         PT-sUSDf-29JAN2026 can be used as collateral to borrow or multiply
-        against .........
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
