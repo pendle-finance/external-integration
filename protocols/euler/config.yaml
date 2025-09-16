@@ -203,5 +203,12 @@ metadata:
       description: >-
         PT-thBILL-27NOV2025 can be used as collateral to borrow or multiply
         against a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0x48e502fbb6ff2cc687d049150e2c8addc765a43a'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDf-29JAN2026&network=ethereum
+      description: >-
+        PT-sUSDf-29JAN2026 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
