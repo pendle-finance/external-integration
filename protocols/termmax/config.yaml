@@ -229,5 +229,12 @@ metadata:
         https://app.termmax.ts.finance/borrow?chain=eth&search=pt-tusde
       description: >-
         Borrow USDC at a fixed rate with PT-tUSDe-18DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x9aef3bf940a22a58d8c55e287e2edfdb0130cf2b'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sdeusd
+      description: >-
+        Borrow USDC at a fixed rate with PT-sdeUSD-11DEC2025 as collateral on TermMax.
   yt: []
   lp: []
