@@ -1425,6 +1425,20 @@
             "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&search=pt-susde",
             "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDe-27NOV2025.",
             "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1135b22d6e8fd0809392478eedcd8c107db6af9d",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&search=pt-tusde",
+            "description": "Borrow USDC at a fixed rate with PT-tUSDe-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9aef3bf940a22a58d8c55e287e2edfdb0130cf2b",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sdeusd",
+            "description": "Borrow USDC at a fixed rate with PT-sdeUSD-11DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],
