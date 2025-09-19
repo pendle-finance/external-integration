@@ -472,6 +472,30 @@
             "address": "0x48e502fbb6ff2cc687d049150e2c8addc765a43a",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDf-29JAN2026&network=ethereum",
             "description": "PT-sUSDf-29JAN2026 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1135b22d6e8fd0809392478eedcd8c107db6af9d",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-tUSDe-18DEC2025&network=ethereum",
+            "description": "PT-tUSDe-18DEC2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0xfceeb7586bab730fa400a5bf3fcf298d0db4c7e7",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-wstUSR-29JAN2026&network=ethereum",
+            "description": "PT-wstUSR-29JAN2026 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x23e0d07095daec91b6ae016ca9f08222dcc64c49",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USR-4DEC2025&network=ethereum",
+            "description": "PT-USR-4DEC2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3a70f0c696dcb3a4ab3833cd9726397dd61ac85e",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-RLP-4DEC2025&network=ethereum",
+            "description": "PT-RLP-4DEC2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
           }
         ],
         "yt": [],
