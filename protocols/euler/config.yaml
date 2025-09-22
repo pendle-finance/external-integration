@@ -238,5 +238,33 @@ metadata:
       description: >-
         PT-RLP-4DEC2025 can be used as collateral to borrow or multiply against
         a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0x9b02ca5685e9c332b158c01459562a161c8e8adf'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDaf-13NOV2025&network=ethereum
+      description: >-
+        PT-USDaf-13NOV2025 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0x8cfed6a728017a8641a213bd9e2ea6183de275e8'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mAPOLLO-20NOV2025&network=ethereum
+      description: >-
+        PT-mAPOLLO-20NOV2025 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0xe4d30ccf87cb3e5e637b64a2ee21bd5d3901839a'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mHYPER-20NOV2025&network=ethereum
+      description: >-
+        PT-mHYPER-20NOV2025 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
+    - chainId: 1
+      address: '0xa3ca92a69c6809607837bc3bd6b13e4c1e1e8ae9'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDaf-13NOV2025&network=ethereum
+      description: >-
+        PT-sUSDaf-13NOV2025 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
