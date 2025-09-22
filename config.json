@@ -1515,6 +1515,13 @@
             "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sdeusd",
             "description": "Borrow USDC at a fixed rate with PT-sdeUSD-11DEC2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x5982837d2d138af78a42a92f8f2f6863bb25f129",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&search=pt-teth",
+            "description": "Borrow ETH at a fixed rate with PT-tETH-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],
