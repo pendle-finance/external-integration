@@ -266,5 +266,12 @@ metadata:
       description: >-
         PT-sUSDaf-13NOV2025 can be used as collateral to borrow or multiply
         against a variety of assets within Euler Yield
+    - chainId: 8453
+      address: '0x0177055f7429d3bd6b19f2dd591127db871a510e'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yoUSD-26MAR2026&network=base
+      description: >-
+        PT-yoUSD-26MAR2026 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
