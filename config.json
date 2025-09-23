@@ -1094,13 +1094,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
-            "integrationUrl": "https://app.morpho.org/market?id=0xc6ae8e71e11ef511acee3f6cc6ad2af67b862877d459e3789905f537c85db5e3&network=mainnet",
-            "description": "The PT-sUSDE-25SEP2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
             "address": "0xe6a934089bbee34f832060ce98848359883749b3",
             "integrationUrl": "https://app.morpho.org/market?id=0x0f84816cd17292edba65f7c2e88a7aace40dad7cc79399b49b66f7cc81ecdfd2&network=mainnet",
             "description": "The PT-sUSDE-27NOV2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
@@ -1118,6 +1111,20 @@
             "address": "0xf9921bc1837a97b8f853c83521122c3fbf3f365f",
             "integrationUrl": "https://app.morpho.org/market?id=0x729e4ab1f1613a55f4dc6444cb073a2f9ba4c402f8c59e93e1d725f9ce45f23a&network=base",
             "description": "The PT-USDe-11DEC2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://app.morpho.org/market?id=0x92fa6ed4186351fba59f698ec4b6aeb674cdd2df73e2cb109eabece606b6398b&network=mainnet",
+            "description": "The PT-sUSDE-25SEP2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0xfceeb7586bab730fa400a5bf3fcf298d0db4c7e7",
+            "integrationUrl": "https://app.morpho.org/market?id=0xaaef8ad6dff96217212b72dbe0d45b3f3af0c255e9b1596c018caf635869db97&network=mainnet",
+            "description": "The PT-wstUSR-29JAN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           }
         ],
