@@ -7,11 +7,6 @@ description: >-
   loans. When a trader opens a position, the protocol borrows on money markets.
 metadata:
   pt:
-    - chainId: 8453
-      address: '0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=8453
-      description: PT leverage looping through various supported money markets
     - chainId: 1
       address: '0xdcfdf8434e8fdfff2dd7dfc9299877e813348ee7'
       integrationUrl: >-
@@ -23,19 +18,9 @@ metadata:
         https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
       description: PT leverage looping through various supported money markets
     - chainId: 1
-      address: '0xbc6736d346a5ebc0debc997397912cd9b8fae10a'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
       address: '0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a'
       integrationUrl: >-
         https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 8453
-      address: '0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=8453
       description: PT leverage looping through various supported money markets
     - chainId: 1
       address: '0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc'
@@ -63,11 +48,6 @@ metadata:
         https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1
       description: PT leverage looping through various supported money markets
     - chainId: 1
-      address: '0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
       address: '0x2e3229674085f5490a4cc2558ab96aedc3ab25d1'
       integrationUrl: >-
         https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
@@ -83,44 +63,29 @@ metadata:
         https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
       description: PT leverage looping through various supported money markets
     - chainId: 1
-      address: '0x9f56094c450763769ba0ea9fe2876070c0fd5f77'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xab365c0879024481e4ad3b47bd6fea9c10014fbc'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0x2ca5f2c4300450d53214b00546795c1c07b89acb'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xc347584b415715b1b66774b2899fef2fd3b56d6e'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xfe72382695dc280e7392a0be795128a126e9b7ae'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0xd0a4b74a6b62aa2b6c02349463d9041606608f36'
-      integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
       address: '0x10a099baf814b5fda138c4e6b60ed42c0d975be8'
       integrationUrl: >-
         https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
       description: PT leverage looping through various supported money markets
     - chainId: 1
-      address: '0x23e60d1488525bf4685f53b3aa8e676c30321066'
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
       integrationUrl: >-
-        https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1
+        https://app.contango.xyz/strategies.........................?selectedChains=1
+      description: PT leverage looping through various supported money markets
+    - chainId: 1
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
+      integrationUrl: >-
+        https://app.contango.xyz/strategies.........................?selectedChains=1
+      description: PT leverage looping through various supported money markets
+    - chainId: 1
+      address: '0xb44cdbef3145c1c1e772e8228e1154c80e70618e'
+      integrationUrl: >-
+        https://app.contango.xyz/strategies.........................?selectedChains=1
+      description: PT leverage looping through various supported money markets
+    - chainId: 1
+      address: '0xe4d30ccf87cb3e5e637b64a2ee21bd5d3901839a'
+      integrationUrl: >-
+        https://app.contango.xyz/strategies.........................?selectedChains=1
       description: PT leverage looping through various supported money markets
   yt: []
   lp: []
