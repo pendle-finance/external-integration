@@ -243,5 +243,19 @@ metadata:
         https://app.termmax.ts.finance/borrow?chain=eth&search=pt-teth
       description: >-
         Borrow ETH at a fixed rate with PT-tETH-18DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0xb44cdbef3145c1c1e772e8228e1154c80e70618e'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-iUSD
+      description: >-
+        Borrow USDC at a fixed rate with PT-iUSD-4DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x711214da1a94f478b96c1ca3d14a750f496f2a80'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-siUSD
+      description: >-
+        Borrow USDC at a fixed rate with PT-siUSD-9OCT2025 as collateral on TermMax.
   yt: []
   lp: []
