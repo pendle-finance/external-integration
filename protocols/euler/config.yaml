@@ -205,7 +205,7 @@ metadata:
       description: >-
         PT-yoUSD-26MAR2026 can be used as collateral to borrow or multiply
         against a variety of assets within Euler Yield
-      - chainId: 43114
+    - chainId: 43114
       address: '0x9Da7f8c0D6e3F247AFFDf92c3DDDd83c1E248E14'
       integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USDe-27NOV2025&network=avalanche
       description: >-
