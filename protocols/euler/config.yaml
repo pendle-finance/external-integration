@@ -207,9 +207,17 @@ metadata:
         against a variety of assets within Euler Yield
     - chainId: 43114
       address: '0x9Da7f8c0D6e3F247AFFDf92c3DDDd83c1E248E14'
-      integrationUrl: https://app.euler.finance/borrow?collateralAsset=PT-USDe-27NOV2025&network=avalanche
+      integrationUrl: >-
+        https://app.euler.finance/borrow?collateralAsset=PT-USDe-27NOV2025&network=avalanche
       description: >-
         PT-USDe-27NOV2025 can be used as collateral to borrow or multiply
         against a variety of assets within K3 Capital Cluster
+    - chainId: 8453
+      address: '0x1a5c5ea50717a2ea0e4f7036fb289349deaab58b'
+      integrationUrl: >-
+        https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-yoETH-26MAR2026&network=base
+      description: >-
+        PT-yoETH-26MAR2026 can be used as collateral to borrow or multiply
+        against a variety of assets within Euler Yield
   yt: []
   lp: []
