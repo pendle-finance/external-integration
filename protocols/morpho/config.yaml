@@ -344,6 +344,14 @@ metadata:
       description: >-
         The PT-syrupUSDC-29JAN2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 42161
+      address: '0x9d2ce39c0bf9baa959cb65163fbca89b91d240c5'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xc35065b88295b2f06b5fa19a9c318dee5e249bae31e3c3de6a66cbd5b38eca84&network=arbitrum
+      description: >-
+        The PT-mHYPER-20NOV2025 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp:
     - chainId: 1
