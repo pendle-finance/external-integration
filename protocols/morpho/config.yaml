@@ -169,14 +169,6 @@ metadata:
         The PT-AIDaUSDC-30OCT2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
     - chainId: 1
-      address: '0x711214da1a94f478b96c1ca3d14a750f496f2a80'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/market?id=0x97a6a42743a088af55e27f828fa59e815acace008e5c33828084dd9b5632e6db&network=mainnet
-      description: >-
-        The PT-PendleInfiniFi-siUSD-9OCT2025 is the asset used as collateral in
-        a Morpho market with USDC as the loan token.
-    - chainId: 1
       address: '0xe6a934089bbee34f832060ce98848359883749b3'
       subtitle: USDC
       integrationUrl: >-
