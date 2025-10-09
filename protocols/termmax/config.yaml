@@ -299,5 +299,33 @@ metadata:
         https://app.termmax.ts.finance/borrow?search=pt-teth&chain=eth
       description: >-
         Borrow wstETH at a fixed rate with PT-tETH-18DEC2025 as collateral on TermMax.
+    - chainId: 56
+      address: '0x31e88bf4ac49eef6711756d141f1a63e78f9f665'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=bnb&search=pt
+      description: >-
+        Borrow USDT at a fixed rate with PT-satUSD+-18DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x1c0c0da2c46a36ce5537175477252e7909032710'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=pt-tbtc&chain=eth
+      description: >-
+        Borrow WBTC at a fixed rate with PT-tBTC-18DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x61da65f0534c6a4f4c9757f2979a923c08d6d2aa'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=pt-mmev&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-mMEV-30OCT2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x11214ad8159a315148d98eeece228ccda8b1c6d8'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=pt-teth&chain=eth
+      description: >-
+        Borrow wETH at a fixed rate with PT-tETH-08JAN2026 as collateral on TermMax.
   yt: []
   lp: []
