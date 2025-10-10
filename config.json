@@ -779,6 +779,62 @@
             "integrationUrl": "https://app.euler.finance/positions/0x1e001f95599bc024ef5cd5e3cfc4c9bb52c65732/0xee074ceb44ada094391b9c71a7fb8ba6962d492c?network=arbitrumone",
             "description": "The PT-thBILL-27NOV2025 is the asset used as collateral in an Euler market with eUSD₮0-5 as the loan token.",
             "subtitle": "eUSD₮0-5"
+          },
+          {
+            "chainId": 9745,
+            "address": "0x8dfb9a39dfab16bffe77f15544b5bf03e377e419",
+            "integrationUrl": "https://app.euler.finance/positions/0x0bb995211462d10495136c6f2ecc367435481c2d/0xf0a1bdf7e678144702fec359fa1a0eb50b0b8845?network=plasma",
+            "description": "The PT-syrupUSDT-29JAN2026 is the asset used as collateral in an Euler market with eUSDT0-16 as the loan token.",
+            "subtitle": "eUSDT0-16"
+          },
+          {
+            "chainId": 9745,
+            "address": "0x93b544c330f60a2aa05ced87aeeffb8d38fd8c9a",
+            "integrationUrl": "https://app.euler.finance/positions/0x75c4d639067ddaf77f6bec440e68dddfab2c47ee/0x0d10591241f67449102acf05cd9c480cfe43154c?network=plasma",
+            "description": "The PT-USDe-15JAN2026 is the asset used as collateral in an Euler market with eUSDT0-14 as the loan token.",
+            "subtitle": "eUSDT0-14"
+          },
+          {
+            "chainId": 9745,
+            "address": "0x93b544c330f60a2aa05ced87aeeffb8d38fd8c9a",
+            "integrationUrl": "https://app.euler.finance/positions/0x75c4d639067ddaf77f6bec440e68dddfab2c47ee/0x35b6f39affa0020c1736cdc764287bfd32ee4324?network=plasma",
+            "description": "The PT-USDe-15JAN2026 is the asset used as collateral in an Euler market with eUSDe-5 as the loan token.",
+            "subtitle": "eUSDe-5"
+          },
+          {
+            "chainId": 9745,
+            "address": "0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8",
+            "integrationUrl": "https://app.euler.finance/positions/0xc3ff7a69a232239ce306db50d63ab2737053e24c/0x8073b76bbd1b40f1fb2b6aef7a920b1914bb86ab?network=plasma",
+            "description": "The PT-sUSDE-15JAN2026 is the asset used as collateral in an Euler market with eUSDT0-15 as the loan token.",
+            "subtitle": "eUSDT0-15"
+          },
+          {
+            "chainId": 9745,
+            "address": "0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8",
+            "integrationUrl": "https://app.euler.finance/positions/0xc3ff7a69a232239ce306db50d63ab2737053e24c/0xd9e36ad27aff5bbf2c65026462d45df093554d38?network=plasma",
+            "description": "The PT-sUSDE-15JAN2026 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
+            "subtitle": "eUSDe-6"
+          },
+          {
+            "chainId": 9745,
+            "address": "0xd516188daf64efa04a8d60872f891f2cc811a561",
+            "integrationUrl": "https://app.euler.finance/positions/0x5dcce5f1eddf4c1ada8bcf2da89d4bc7fb9dd5d2/0x8539f99dbc4f437c1f71de6920369b9cd46193ff?network=plasma",
+            "description": "The PT-USDai-19MAR2026 is the asset used as collateral in an Euler market with eUSDai-2 as the loan token.",
+            "subtitle": "eUSDai-2"
+          },
+          {
+            "chainId": 9745,
+            "address": "0xd516188daf64efa04a8d60872f891f2cc811a561",
+            "integrationUrl": "https://app.euler.finance/positions/0x5dcce5f1eddf4c1ada8bcf2da89d4bc7fb9dd5d2/0x98d6863fa1c247d529c94e53f521897ae9a6ebf0?network=plasma",
+            "description": "The PT-USDai-19MAR2026 is the asset used as collateral in an Euler market with eUSDT0-17 as the loan token.",
+            "subtitle": "eUSDT0-17"
+          },
+          {
+            "chainId": 9745,
+            "address": "0xedac81b27790e0728f54dea3b7718e5437e85353",
+            "integrationUrl": "https://app.euler.finance/positions/0x527295f09ff7c411b213b29a0de8c816a669b3fe/0x8aec278c2fd4cc07b10a8865aed33775f93eace6?network=plasma",
+            "description": "The PT-sUSDai-19MAR2026 is the asset used as collateral in an Euler market with eUSDT0-20 as the loan token.",
+            "subtitle": "eUSDT0-20"
           }
         ],
         "yt": [],
