@@ -465,6 +465,12 @@
             "address": "0xba1edf4a4c7eb8cb0dae0594326179f9c7d909d2",
             "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-xUSD-18DEC2025&network=ethereum",
             "description": "PT-xUSD-18DEC2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3e7736d0b1ed0f6a0a555355b72c2c2d416564e1",
+            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-mFARM-11DEC2025&network=ethereum",
+            "description": "PT-mFARM-11DEC2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
           }
         ],
         "yt": [],
