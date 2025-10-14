@@ -352,6 +352,14 @@ metadata:
       description: >-
         The PT-tUSDe-18DEC2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0x5510b080449d5e3bf345b6635ed40a35b36b081f'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x32b4a75db50a20f7435dfdcf54593a2e96fc97901321d3ab07268941dee93edb&network=mainnet
+      description: >-
+        The PT-siUSD-8JAN2026 is the asset used as collateral in a Morpho market
+        with USDC as the loan token.
   yt: []
   lp:
     - chainId: 1
