@@ -1417,6 +1417,20 @@
             "integrationUrl": "https://app.termmax.ts.finance/borrow?search=pt-teth&chain=eth",
             "description": "Borrow wETH at a fixed rate with PT-tETH-08JAN2026 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1fb3c5c35d95f48e48ffc8e36bcce5cb5f29f57c",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?search=srUSDe&chain=eth",
+            "description": "Borrow USDC at a fixed rate with PT-srUSDe-15JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x53f3373f0d811902405f91eb0d5cc3957887220d",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?search=jrUSDe&chain=eth",
+            "description": "Borrow USDC at a fixed rate with PT-jrUSDe-15JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],
