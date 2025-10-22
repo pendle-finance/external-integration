@@ -237,6 +237,20 @@
       "hash": "eac1c457299577d069ac19e7ef19b588"
     },
     {
+      "id": "euler",
+      "name": "Euler",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "Euler is a modular lending platform that enables users to lend, borrow and build without limits.",
+      "url": "https://app.euler.finance/borrow?network=ethereum",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "ee96cfc33805516c97322b31855cd579"
+    },
+    {
       "id": "firm",
       "name": "FiRM",
       "icon": "logo.png",
