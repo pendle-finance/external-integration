@@ -272,14 +272,6 @@ metadata:
       description: >-
         The PT-USDai-20NOV2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
-    - chainId: 1
-      address: '0x6645aa5a6f4ff29b30d53a483a02acc2cb85b241'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/market?id=0xa37bf4fe4141c5e33ec138e55184897ce873ea276872dd8259aa97b8149c6a07&network=mainnet
-      description: >-
-        The PT-alUSD-23OCT2025 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
     - chainId: 42161
       address: '0xf9921bc1837a97b8f853c83521122c3fbf3f365f'
       subtitle: USDC
