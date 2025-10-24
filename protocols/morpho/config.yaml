@@ -256,14 +256,6 @@ metadata:
       description: >-
         The PT-mMEV-30OCT2025 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
-    - chainId: 1
-      address: '0xe6a934089bbee34f832060ce98848359883749b3'
-      subtitle: sUSDS
-      integrationUrl: >-
-        https://app.morpho.org/market?id=0x50eccf3ce146eae380de93d362a2da80f81ee8acd72ac91ea0de141cae08e395&network=mainnet
-      description: >-
-        The PT-sUSDE-27NOV2025 is the asset used as collateral in a Morpho
-        market with sUSDS as the loan token.
     - chainId: 42161
       address: '0x8b4ca42bb3b1d789859f106222cf7dc5eed48ccb'
       subtitle: USDC
@@ -344,6 +336,14 @@ metadata:
       description: >-
         The PT-reUSD-18DEC2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
+      subtitle: USDS
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xa79d8028dec527565028fd9fc075b02b498f2b69a1d519dff543ba99b812ff6b&network=mainnet
+      description: >-
+        The PT-sUSDE-27NOV2025 is the asset used as collateral in a Morpho
+        market with USDS as the loan token.
   yt: []
   lp:
     - chainId: 1
