@@ -352,6 +352,14 @@ metadata:
       description: >-
         The PT-alUSD-11DEC2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0x62c6e813b9589c3631ba0cdb013acdb8544038b7'
+      subtitle: USDe
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x73ff251b2bc36dd3cba9f51009e529f239e241a358f9553199e1cd9681419ae1&network=mainnet
+      description: >-
+        The PT-USDe-27NOV2025 is the asset used as collateral in a Morpho market
+        with USDe as the loan token.
   yt: []
   lp:
     - chainId: 1
