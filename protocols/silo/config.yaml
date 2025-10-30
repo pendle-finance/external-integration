@@ -36,13 +36,6 @@ metadata:
         while earning bonus Silo Points.
       subtitle: S
     - chainId: 146
-      address: '0x5ee17fd12ede62b508f9615db384ce7b834ba657'
-      integrationUrl: https://app.silo.finance/markets/sonic/141
-      description: >-
-        Leverage PT-smsUSD-30OCT2025 against USDC on Silo to maximize your fixed
-        yield while earning bonus Silo Points.
-      subtitle: USDC
-    - chainId: 146
       address: '0x0fb682c9692addcc1769f4d4d938c54420d54fa3'
       integrationUrl: https://app.silo.finance/markets/sonic/148
       description: >-
