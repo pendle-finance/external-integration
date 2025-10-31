@@ -622,7 +622,14 @@
       "description": "Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions",
       "url": "https://lista.org/lending",
       "metadata": {
-        "pt": [],
+        "pt": [
+          {
+            "chainId": 56,
+            "address": "0x6254500243135573a948d7a5f90c307cd7973f43",
+            "integrationUrl": "https://lista.org/lending/market/bsc/0x997cf874bb5fddc1d4fdf29c0a2d4b3d0780cba48fa1d06c559611c064a476b0",
+            "description": "PT-USDe-5FEB2026(ETH) can be used as collateral to borrow or multiply against USD1"
+          }
+        ],
         "yt": [],
         "lp": []
       },
