@@ -355,5 +355,19 @@ metadata:
         https://app.termmax.ts.finance/borrow?search=iUSD&chain=eth
       description: >-
         Borrow USDC at a fixed rate with PT-iUSD-04DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0xcba36ce5f16fdf8be5177a3ccbbb5580a573226a'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=sYUSD&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-sYUSD-18DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x3e7736d0b1ed0f6a0a555355b72c2c2d416564e1'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=mfarm&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-mFARM-11DEC2025 as collateral on TermMax.
   yt: []
   lp: []
