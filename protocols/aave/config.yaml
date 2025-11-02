@@ -21,19 +21,5 @@ metadata:
       description: >-
         PT-USDe-27NOV2025 can be used as collateral to borrow or multiply
         against a variety of assets on Aave
-    - chainId: 9745
-      address: '0x93B544c330F60A2aa05ceD87aEEffB8D38FD8c9a'
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x93b544c330f60a2aa05ced87aeeffb8d38fd8c9a&marketName=proto_plasma_v3
-      description: >-
-        PT-USDe-15JAN2026 can be used as collateral to borrow or multiply
-        against a variety of assets on Aave
-    - chainId: 9745
-      address: '0x02FCC4989B4C9D435b7ceD3fE1Ba4CF77BBb5Dd8'
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8&marketName=proto_plasma_v3
-      description: >-
-        PT-sUSDE-15JAN2026 can be used as collateral to borrow or multiply
-        against a variety of assets on Aave
   yt: []
   lp: []

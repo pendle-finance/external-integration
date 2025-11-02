@@ -20,18 +20,6 @@
             "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x62c6e813b9589c3631ba0cdb013acdb8544038b7&marketName=proto_mainnet_v3",
             "description": "PT-USDe-27NOV2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x93b544c330f60a2aa05ced87aeeffb8d38fd8c9a",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x93b544c330f60a2aa05ced87aeeffb8d38fd8c9a&marketName=proto_plasma_v3",
-            "description": "PT-USDe-15JAN2026 can be used as collateral to borrow or multiply against a variety of assets on Aave"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-15JAN2026 can be used as collateral to borrow or multiply against a variety of assets on Aave"
           }
         ],
         "yt": [],
@@ -894,55 +882,6 @@
             "integrationUrl": "https://app.euler.finance/positions/0xde604f03e44247b31f71c4fa055f9f3ea08d1271/0xa5cd24d9792f4f131f5976af935a505d19c8db2b?network=sonic",
             "description": "The PT-wstkscETH-18DEC2025 is the asset used as collateral in an Euler market with eWETH-1 as the loan token.",
             "subtitle": "WETH"
-          },
-          {
-            "chainId": 146,
-            "address": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
-            "integrationUrl": "https://app.euler.finance/positions/0xf71b17ccf362b6dcc1b6917a05820477cf7802a0/0x90a804d316a06e00755444d56b9ef52e5c4f4d73?network=sonic",
-            "description": "The PT-stS-18DEC2025 is the asset used as collateral in an Euler market with ewS-5 as the loan token.",
-            "subtitle": "wS"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xa6c55e31154d39bb0aa3ca2ff9f7665bda4e47fc",
-            "integrationUrl": "https://app.euler.finance/positions/0x15f6ba87440e77c3db462dc0f6ab797a63b94db4/0xb5526491742fee67e9e0d0d8c619a95d422fd398?network=plasma",
-            "description": "The PT-splUSD-29JAN2026 is the asset used as collateral in an Euler market with eUSDT0-25 as the loan token.",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58",
-            "integrationUrl": "https://app.euler.finance/positions/0x0fbde49d0c6fa71d097c3c6465ecd6fb49ac7efa/0x9cbadf620185f98dd61241242089ff5f960adcb8?network=plasma",
-            "description": "The PT-RLP-26FEB2026 is the asset used as collateral in an Euler market with eRLP-2 as the loan token.",
-            "subtitle": "RLP"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58",
-            "integrationUrl": "https://app.euler.finance/positions/0x0fbde49d0c6fa71d097c3c6465ecd6fb49ac7efa/0xb23377af59d4fc95cb8330ee2834aa8241eeed03?network=plasma",
-            "description": "The PT-RLP-26FEB2026 is the asset used as collateral in an Euler market with eUSDT0-40 as the loan token.",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xcea23ab8fde0b90e4d08eb68e8876e43933721d2",
-            "integrationUrl": "https://app.euler.finance/positions/0x54ff34ef2503b9636b0ebd31143b9edd124e262f/0x0a660b3cbd7df118501e7bb0f2d6ec5e5e583bf8?network=plasma",
-            "description": "The PT-mHYPER-29JAN2026 is the asset used as collateral in an Euler market with eUSDT0-39 as the loan token.",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xffaf49f320b8ae1bb9ea596197040077a3666105",
-            "integrationUrl": "https://app.euler.finance/positions/0x4982576311a80a3d40ac5b97195f1de6c8c879c8/0x1b44853e7c3b6acba72c0b05e08b1f6aa029ff15?network=plasma",
-            "description": "The PT-wstUSR-26FEB2026 is the asset used as collateral in an Euler market with eUSR-3 as the loan token.",
-            "subtitle": "USR"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xffaf49f320b8ae1bb9ea596197040077a3666105",
-            "integrationUrl": "https://app.euler.finance/positions/0x4982576311a80a3d40ac5b97195f1de6c8c879c8/0x6a9e59545169be88115671d7171967f8fbffa0cd?network=plasma",
-            "description": "The PT-wstUSR-26FEB2026 is the asset used as collateral in an Euler market with eUSDT0-41 as the loan token.",
-            "subtitle": "USDT0"
           }
         ],
         "yt": [],
@@ -1294,41 +1233,6 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x73ff251b2bc36dd3cba9f51009e529f239e241a358f9553199e1cd9681419ae1&network=mainnet",
             "description": "The PT-USDe-27NOV2025 is the asset used as collateral in a Morpho market with USDe as the loan token.",
             "subtitle": "USDe"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe6a934089bbee34f832060ce98848359883749b3",
-            "integrationUrl": "https://app.morpho.org/market?id=0xa79d8028dec527565028fd9fc075b02b498f2b69a1d519dff543ba99b812ff6b&network=mainnet",
-            "description": "The PT-sUSDE-27NOV2025 is the asset used as collateral in a Morpho market with USDS as the loan token.",
-            "subtitle": "USDS"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe6a934089bbee34f832060ce98848359883749b3",
-            "integrationUrl": "https://app.morpho.org/market?id=0x50eccf3ce146eae380de93d362a2da80f81ee8acd72ac91ea0de141cae08e395&network=mainnet",
-            "description": "The PT-sUSDE-27NOV2025 is the asset used as collateral in a Morpho market with sUSDS as the loan token.",
-            "subtitle": "sUSDS"
-          },
-          {
-            "chainId": 1,
-            "address": "0x5aa4afe7359d5a68d193f03e013d553deb7dbd1f",
-            "integrationUrl": "https://app.morpho.org/market?id=0xf982e67987ed310641bb33f1e7ebf3a0a2930f6b00d8f6b089440ace18f76c9b&network=mainnet",
-            "description": "The PT-wsrUSD-26FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xeeaa924eb3667f30be02db9c55d87566a3f4df7a",
-            "integrationUrl": "https://app.morpho.org/market?id=0xb82cb1140daae367c1f39dd6b4ec6a3aaef997764c84634ad8a4114571c15ef3&network=mainnet",
-            "description": "The PT-RUSD-26FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xfa9fbcf2e52037328f9376ad8fadbac07b0e863d",
-            "integrationUrl": "https://app.morpho.org/market?id=0x5223ae739e3adcdb665919ac249983914aabb1b2991137f243bde79e65b87bc6&network=mainnet",
-            "description": "The PT-syrupUSDC-18DEC2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
           }
         ],
         "yt": [],
