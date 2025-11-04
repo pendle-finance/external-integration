@@ -1408,6 +1408,20 @@
       "hash": "d9fe3cded15ac3a2b4f4c1bf891f90f5"
     },
     {
+      "id": "pulse",
+      "name": "Pulse",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Pulse does it all. Scanning PT markets, reallocating capital, compounding returns, rolling maturities, and maximizing yield across Pendle.",
+      "url": "https://www.usepulse.xyz/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "9f3785ec0cb6f94c0e99ce4acc2c023d"
+    },
+    {
       "id": "rezerve-money",
       "name": "Rezerve Money",
       "icon": "logo.png",
