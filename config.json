@@ -1401,6 +1401,20 @@
       "hash": "d9fe3cded15ac3a2b4f4c1bf891f90f5"
     },
     {
+      "id": "rezerve-money",
+      "name": "Rezerve Money",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Rezerve Money is a yield strategy protocol that combines dynamic rebasing, staking, bonding, and liquid staking mechanisms.",
+      "url": "https://rezerve.money/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "b802ecd5b0a9b6c65d4a8cffdccf0f33"
+    },
+    {
       "id": "silo",
       "name": "Silo",
       "icon": "logo.png",
