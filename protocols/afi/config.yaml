@@ -3,9 +3,3 @@ icon: logo.png
 category: Yield Strategy
 url: https://www.afiprotocol.ai/
 description: AFI is a decentralized, non-custodial protocol that coordinates a network of algorithmic agents designed to execute risk-aware DeFi strategies across chains, 24/7.
-metadata:
-  pt:
-    - chainId: 1
-      address: '0x0B4C655bC989baaFe728f8270ff988A7C2B40Fd1'
-      integrationUrl: 'https://app.afiprotocol.ai/afiUSD'
-      description: 'Get ~20% APY + AFI Rewards on Pendle Derivatives Swarm live on ETH Mainnet.'
