@@ -1077,6 +1077,20 @@
       "hash": "66ff93644b9971a66d33674f4f454552"
     },
     {
+      "id": "infinit",
+      "name": "INFINIT",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Navigate DeFi with INFINIT - Discover, evaluate, and execute DeFi with AI agents.",
+      "url": "https://app.infinit.tech/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "f29ae557233931298f810f1431408d69"
+    },
+    {
       "id": "insurace",
       "name": "InsurACE",
       "icon": "logo.png",
