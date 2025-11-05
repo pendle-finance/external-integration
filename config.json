@@ -40,6 +40,20 @@
       "hash": "000b94ab85b7b18f10c51aba4cc505b0"
     },
     {
+      "id": "afi",
+      "name": "Artificial Financial Intelligence ( AFI )",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "AFI is a decentralized, non-custodial protocol that coordinates a network of algorithmic agents designed to execute risk-aware DeFi strategies across chains, 24/7.",
+      "url": "https://www.afiprotocol.ai/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "e79ba268bf4c9862ca15e93d3ea53a94"
+    },
+    {
       "id": "binance",
       "name": "Binance",
       "icon": "logo.png",
