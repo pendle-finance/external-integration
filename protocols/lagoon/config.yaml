@@ -1,0 +1,11 @@
+name: Lagoon
+icon: logo.png
+category: 'Yield Strategy'
+description: 'LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products.'
+url: https://app.lagoon.finance
+metadata:  
+  yt:
+    - chainId: 1
+      address: '0xfd13947c881bd183c0ec32e7ef65d62c4214d72c'
+      integrationUrl: https://app.lagoon.finance/vault/1/0x75E5941d4456dfe6D3cD8E0f844a5fcBd3157cA0
+      description: This vault takes fxSAVE YT 30APR2026 and holds them permanently while delivering 1000 $FXN incentives from f(x) Protocol on top of the underlying yield.
