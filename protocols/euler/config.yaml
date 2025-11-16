@@ -783,12 +783,12 @@ metadata:
         with esUSDf-1 as the loan token.
     - chainId: 1
       address: '0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc'
-      subtitle: frxUSD
-      relatedAsset: '0x20622fcd4476fbc9d5ef36ebd371307a56d9028c'
+      subtitle: USDT
+      relatedAsset: '0x7c280dbdef569e96c7919251bd2b0edf0734c5a8'
       integrationUrl: >-
-        https://app.euler.finance/positions/0xaabc07a47d2a63a9b06a7924a0780c2f3cae7bf9/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum
+        https://app.euler.finance/positions/0xaabc07a47d2a63a9b06a7924a0780c2f3cae7bf9/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum
       description: >-
         The PT-cUSDO-20NOV2025 is the asset used as collateral in an Euler
-        market with efrxUSD-1 as the loan token.
+        market with eUSDT-9 as the loan token.
   sy: []
   lp: []
