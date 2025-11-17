@@ -41,7 +41,7 @@
     },
     {
       "id": "afi",
-      "name": "Artificial Financial Intelligence ( AFI )",
+      "name": "AFI",
       "icon": "logo.png",
       "category": "yield strategy",
       "description": "AFI is a decentralized, non-custodial protocol that coordinates a network of algorithmic agents designed to execute risk-aware DeFi strategies across chains, 24/7.",
@@ -51,7 +51,7 @@
         "yt": [],
         "lp": []
       },
-      "hash": "e79ba268bf4c9862ca15e93d3ea53a94"
+      "hash": "99319039f776f0215dd538bb69921cd4"
     },
     {
       "id": "binance",
@@ -1040,6 +1040,27 @@
         "lp": []
       },
       "hash": "7c8e22682a7aed04944817f466c2f215"
+    },
+    {
+      "id": "lagoon",
+      "name": "Lagoon",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products.",
+      "url": "https://app.lagoon.finance",
+      "metadata": {
+        "pt": [],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0xfd13947c881bd183c0ec32e7ef65d62c4214d72c",
+            "integrationUrl": "https://app.lagoon.finance/vault/1/0x75E5941d4456dfe6D3cD8E0f844a5fcBd3157cA0",
+            "description": "Deposit fxSAVE YT 30APR2026 and earn 1000 $FXN incentives from f(x) Protocol on top of the underlying yield."
+          }
+        ],
+        "lp": []
+      },
+      "hash": "cb444f68221e932ea73b5ccf5dbb6169"
     },
     {
       "id": "lista",
