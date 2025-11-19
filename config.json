@@ -743,13 +743,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
-            "integrationUrl": "https://app.euler.finance/positions/0x72daab3f36d2070718a13fc2e2dc3e3181f0de10/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
-            "description": "The PT-USDe-27NOV2025 is the asset used as collateral in an Euler market with eUSDC-22 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
             "integrationUrl": "https://app.euler.finance/positions/0xf8973f8ca6623d55ba6d9c3feb6a83ad2d96d9d5/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
             "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in an Euler market with eUSDC-22 as the loan token.",
@@ -907,6 +900,13 @@
             "address": "0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
             "integrationUrl": "https://app.euler.finance/positions/0xaabc07a47d2a63a9b06a7924a0780c2f3cae7bf9/0xe1ce9af672f8854845e5474400b6ddc7ae458a10?network=ethereum",
             "description": "The PT-cUSDO-20NOV2025 is the asset used as collateral in an Euler market with eRLUSD-1 as the loan token.",
+            "subtitle": "RLUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
+            "integrationUrl": "https://app.euler.finance/positions/0x72daab3f36d2070718a13fc2e2dc3e3181f0de10/0xe1ce9af672f8854845e5474400b6ddc7ae458a10?network=ethereum",
+            "description": "The PT-USDe-27NOV2025 is the asset used as collateral in an Euler market with eRLUSD-1 as the loan token.",
             "subtitle": "RLUSD"
           }
         ],
