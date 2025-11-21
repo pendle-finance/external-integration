@@ -168,6 +168,14 @@ metadata:
       description: >-
         The PT-RUSD-26FEB2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
+    - chainId: 1
+      address: '0x9079e3af3ee265c8c49a75670db2a02bbfb8e822'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xfa5b0b24e68c993c1df02bcd6c1c774a9d3e4b311967d94ad1f2d0fee8f82a86&network=mainnet
+      description: >-
+        The PT-mHYPER-29JAN2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp:
     - chainId: 1
