@@ -149,12 +149,6 @@
         "pt": [
           {
             "chainId": 1,
-            "address": "0x136389d329968bd82efe05f0911eeb20ee74a138",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
             "address": "0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a",
             "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
             "description": "PT leverage looping through various supported money markets"
@@ -173,49 +167,7 @@
           },
           {
             "chainId": 1,
-            "address": "0x66526197a4baf496d97e1004e43c2c374fb7d2e7",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe6a934089bbee34f832060ce98848359883749b3",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe6a934089bbee34f832060ce98848359883749b3",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
             "address": "0xb44cdbef3145c1c1e772e8228e1154c80e70618e",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
             "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
             "description": "PT leverage looping through various supported money markets"
           },
