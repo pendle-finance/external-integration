@@ -1060,13 +1060,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xe8483517077afa11a9b07f849cee2552f040d7b2",
-            "integrationUrl": "https://app.morpho.org/market?id=0xd174bb7b8dd6ef16b116753b56679932ee13382b94f81bf66a2b37962cb41f56&network=mainnet",
-            "description": "The PT-sUSDE-5FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0x1f84a51296691320478c98b8d77f2bbd17d34350",
             "integrationUrl": "https://app.morpho.org/market?id=0x32a8b98a4c4b9f3b56798e6a7593799f5e1c33108302eacf981efa108fc4b131&network=mainnet",
             "description": "The PT-USDe-5FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
