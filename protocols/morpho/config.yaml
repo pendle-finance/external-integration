@@ -144,14 +144,6 @@ metadata:
       description: >-
         The PT-USDe-5FEB2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
-    - chainId: 8453
-      address: '0x194b8fed256c02ef1036ed812cae0c659ee6f7fd'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/market?id=0xafa2d80fcc3aa58419dd8c62b57087384bc35de27d70de9c91525276f2b2fd6e&network=base
-      description: >-
-        The PT-USDe-11DEC2025 is the asset used as collateral in a Morpho market
-        with USDC as the loan token.
     - chainId: 1
       address: '0xec4402d1389e749c14a7caeef3e4c1f861e09bc8'
       subtitle: USDC
