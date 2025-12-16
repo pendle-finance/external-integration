@@ -144,6 +144,14 @@ metadata:
       description: >-
         The PT-reUSD-25JUN2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0x29fd7180e5cced14ad148c7997e6b6857a8be86e'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x1cfdc0154ae6b9f1887a8250f2582d55606e1a2008e65108fb83dd50a928593e&network=mainnet
+      description: >-
+        The PT-RLP-9APR2026 is the asset used as collateral in a Morpho market
+        with USDC as the loan token.
   yt: []
   lp:
     - chainId: 1
