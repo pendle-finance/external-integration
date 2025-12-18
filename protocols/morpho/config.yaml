@@ -136,29 +136,21 @@ metadata:
       description: >-
         The PT-RLP-9APR2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
+    - chainId: 130
+      address: '0xb6168f597cd37a232cb7cb94cd1786be20ead156'
+      subtitle: USDC
+      integrationUrl: >-
+       https://app.morpho.org/unichain/market/0xe79e0d1f753be4cfb44b04d790d4f66d6b5ca34aa3b83d51f69f1ce50b98dd8e/pt-cusd-29jan2026-eth-usdc 
+      description: >-
+        The PT-cUSD-29JAN2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 130
+      address: '0x0fe4a1bbe013b54e38ef4e4ec8ba1d64d12a0663'
+      subtitle: USDC
+      integrationUrl: >-
+       https://app.morpho.org/unichain/market/0x8f31bcd38b1046e6a8d61a828cb37c55825b410bb2daf1a2296b089925133064/pt-usdai-19feb2026-arb-usdc
+      description: >-
+        The PT-USDai-19FEB2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
-  lp:
-    - chainId: 1
-      address: '0x4339ffe2b7592dc783ed13cce310531ab366deac'
-      subtitle: USDT
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xfd2e0d55ed4fcc26fec66f2bb890a8eeb985e456ac236b29127c75db3e1e23c8/lp-susde-31jul2025-usdt
-      description: >-
-        The LP-sUSDe-31JUL2025 is the asset used as collateral in a Morpho
-        market with USDT as the loan token.
-    - chainId: 1
-      address: '0xa36b60a14a1a5247912584768c6e53e1a269a9f7'
-      subtitle: USDT
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0x134c6d598a8314a53b15d5fa5005f8bb16ba97dee6350d4a317d09b7af4dab6f/lp-susde-25sep2025-usdt
-      description: >-
-        The LP-sUSDe-25SEP2025 is the asset used as collateral in a Morpho
-        market with USDT as the loan token.
-    - chainId: 1
-      address: '0xe93b4a93e80bd3065b290394264af5d82422ee70'
-      subtitle: USDT
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xfc238b7b39e0febab89433ab0380f2988b13671c1884d7ebb2f3eba4627261f0/lp-eusde-14aug2025-usdt
-      description: >-
-        The LP-eUSDe-14AUG2025 is the asset used as collateral in a Morpho
-        market with USDT as the loan token.
+  lp: []
