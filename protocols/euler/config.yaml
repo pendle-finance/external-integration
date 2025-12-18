@@ -151,15 +151,6 @@ metadata:
       description: >-
         The PT-sUSDai-19MAR2026 is the asset used as collateral in an Euler
         market with eUSDT0-20 as the loan token.
-    - chainId: 146
-      address: '0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d'
-      subtitle: wS
-      relatedAsset: '0x90a804d316a06e00755444d56b9ef52e5c4f4d73'
-      integrationUrl: >-
-        https://app.euler.finance/positions/0xf71b17ccf362b6dcc1b6917a05820477cf7802a0/0x90a804d316a06e00755444d56b9ef52e5c4f4d73?network=sonic
-      description: >-
-        The PT-stS-18DEC2025 is the asset used as collateral in an Euler market
-        with ewS-5 as the loan token.
     - chainId: 9745
       address: '0x48f119b3fca8244274531f2e06b74ac4b1f5fe58'
       subtitle: RLP
@@ -350,15 +341,6 @@ metadata:
         The PT-srUSDe-15JAN2026 is the asset used as collateral in an Euler
         market with eeUSDe-1 as the loan token.
     - chainId: 1
-      address: '0x1135b22d6e8fd0809392478eedcd8c107db6af9d'
-      subtitle: eUSDe
-      relatedAsset: '0x61aac438453d6e3513c0c8dbb69f13860e2b5028'
-      integrationUrl: >-
-        https://app.euler.finance/positions/0x0391d9029713b1e9ee1e241cb53d6bc89baf299d/0x61aac438453d6e3513c0c8dbb69f13860e2b5028?network=ethereum
-      description: >-
-        The PT-tUSDe-18DEC2025 is the asset used as collateral in an Euler
-        market with eeUSDe-1 as the loan token.
-    - chainId: 1
       address: '0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33'
       subtitle: eUSDe
       relatedAsset: '0x61aac438453d6e3513c0c8dbb69f13860e2b5028'
@@ -376,15 +358,6 @@ metadata:
       description: >-
         The PT-cUSD-29JAN2026 is the asset used as collateral in an Euler market
         with eeUSDe-1 as the loan token.
-    - chainId: 1
-      address: '0x1135b22d6e8fd0809392478eedcd8c107db6af9d'
-      subtitle: USDC
-      relatedAsset: '0xe0a80d35bb6618cba260120b279d357978c42bce'
-      integrationUrl: >-
-        https://app.euler.finance/positions/0x0391d9029713b1e9ee1e241cb53d6bc89baf299d/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum
-      description: >-
-        The PT-tUSDe-18DEC2025 is the asset used as collateral in an Euler
-        market with eUSDC-22 as the loan token.
     - chainId: 1
       address: '0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33'
       subtitle: USDC
@@ -511,15 +484,6 @@ metadata:
       description: >-
         The PT-cUSDO-28MAY2026 is the asset used as collateral in an Euler
         market with eUSDe-6 as the loan token.
-    - chainId: 1
-      address: '0x1135b22d6e8fd0809392478eedcd8c107db6af9d'
-      subtitle: RLUSD
-      relatedAsset: '0xe1ce9af672f8854845e5474400b6ddc7ae458a10'
-      integrationUrl: >-
-        https://app.euler.finance/positions/0x0391d9029713b1e9ee1e241cb53d6bc89baf299d/0xe1ce9af672f8854845e5474400b6ddc7ae458a10?network=ethereum
-      description: >-
-        The PT-tUSDe-18DEC2025 is the asset used as collateral in an Euler
-        market with eRLUSD-1 as the loan token.
     - chainId: 1
       address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
       subtitle: RLUSD
