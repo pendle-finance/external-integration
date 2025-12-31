@@ -1059,20 +1059,6 @@
             "subtitle": "PYUSD"
           },
           {
-            "chainId": 1,
-            "address": "0x5aa4afe7359d5a68d193f03e013d553deb7dbd1f",
-            "integrationUrl": "https://app.morpho.org/market?id=0xf982e67987ed310641bb33f1e7ebf3a0a2930f6b00d8f6b089440ace18f76c9b&network=mainnet",
-            "description": "The PT-wsrUSD-26FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xeeaa924eb3667f30be02db9c55d87566a3f4df7a",
-            "integrationUrl": "https://app.morpho.org/market?id=0xb82cb1140daae367c1f39dd6b4ec6a3aaef997764c84634ad8a4114571c15ef3&network=mainnet",
-            "description": "The PT-RUSD-26FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
             "chainId": 42161,
             "address": "0x1ef58a7af39883cc95c59a2c106b726c64c2ecc6",
             "integrationUrl": "https://app.morpho.org/market?id=0xff608e5881ccba3859006b3c01e377314384c3d661d684c3e8b6354146e62155&network=arbitrum",
@@ -1085,6 +1071,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x090ff0cd57a258b342c870691a180bb79691e97b31ddda2b7cdd4b5a362c3cca&network=arbitrum",
             "description": "The PT-USDai-19FEB2026 is the asset used as collateral in a Morpho market with USDT0 as the loan token.",
             "subtitle": "USDT0"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x1ef58a7af39883cc95c59a2c106b726c64c2ecc6",
+            "integrationUrl": "https://app.morpho.org/market?id=0x84367e5bc5df26437618f749d5beb793746e620560721fec15518d684191ebc6&network=arbitrum",
+            "description": "The PT-syrupUSDC-29JAN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
