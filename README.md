@@ -62,7 +62,7 @@ metadata:
 
 ## Dynamic Data Integration
 
-For protocols that need to provide real-time asset data, you can configure a `dataUrl` endpoint instead of static metadata. When `dataUrl` is provided, Pendle's backend fetches data directly from your endpoint. The metadata arrays can be empty as they will be ignored.
+When `dataUrl` is provided, Pendle's backend fetches data directly from your endpoint instead of using static metadata. The metadata arrays can be empty as they will be ignored.
 
 ### API Response Schema
 
@@ -100,7 +100,7 @@ Your endpoint must return JSON with this structure:
 #### Asset Entry (assets[])
 
  - chainId: Chain ID of the integrated asset (e.g., 1 for Ethereum, 42161 for Arbitrum).
- - address: Address of the integrated asset (PT, YT, or LP token). Must be checksummed.
+ - address: Address of the integrated asset (PT, YT, or LP token).
  - data: Array of market integrations for this asset.
 
 #### Market Data (assets[].data[])
@@ -113,7 +113,7 @@ Your endpoint must return JSON with this structure:
  - borrowApy (optional): Borrow APY as decimal (e.g., 0.05 for 5%).
  - supplyApy (optional): Supply APY as decimal (e.g., 0.03 for 3%).
  - totalSupply (optional): Total supplied amount in USD.
- - supplyCap (optional): Maximum supply cap in USD. Use -1 for unlimited.
+ - supplyCap (optional): Maximum supply cap in USD.
  - maxLtv (optional): Maximum loan-to-value ratio as decimal (e.g., 0.85 for 85%).
 
 ### Fallback Behavior
