@@ -383,5 +383,33 @@ metadata:
         https://app.termmax.ts.finance/borrow?search=DUSD&chain=eth
       description: >-
         Borrow USDC at a fixed rate with PT-DUSD-29JAN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x8209b01357946a64a0793e9773f6f3fe5a5f2526'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=DETH&chain=eth
+      description: >-
+        Borrow WETH at a fixed rate with PT-DETH-29JAN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=reUSD&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-reUSD-25JUN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xec4402d1389e749c14a7caeef3e4c1f861e09bc8'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=iUSD&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-iUSD-19FEB2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=susde&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-sUSDe-05FEB2026 as collateral on TermMax.
   yt: []
   lp: []
