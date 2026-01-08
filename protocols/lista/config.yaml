@@ -13,5 +13,19 @@ metadata:
       description: >-
         PT-USDe-5FEB2026(ETH) can be used as collateral to borrow or multiply
         against USD1
+    - chainId: 56
+      address: '0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0xdee403936c6f4c64095e68301c0b5ea2d49fa36ed204b61d504f55b280079a36
+      description: >-
+        PT-USDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
+        against USD1
+    - chainId: 56
+      address: '0x6254500243135573A948d7a5F90c307Cd7973f43'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x60415e312f17baaeeb4c00d3fe8bdb24856b18e63fff372a8cc351af00d40082
+      description: >-
+        PT-USDe-5FEB2026(ETH) can be used as collateral to borrow or multiply
+        against USDT
   yt: []
   lp: []
