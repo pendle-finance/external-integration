@@ -118,7 +118,8 @@ Your endpoint must return JSON with this structure:
 
 ### Fallback Behavior
 
-If your endpoint is unreachable, returns invalid data, or times out, Pendle falls back to the static `metadata` field in your config. This ensures your protocol remains visible even during API outages.
+If `dataUrl` is not provided, the static `metadata` field will be used.  
+If `dataUrl` is provided but the endpoint is unreachable, returns invalid data, or times out, the latest successfully fetched data will be used. This ensures your protocol remains visible even during API outages.
 
 ## How to Contribute
 
