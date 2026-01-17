@@ -1127,13 +1127,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xfceeb7586bab730fa400a5bf3fcf298d0db4c7e7",
-            "integrationUrl": "https://app.morpho.org/market?id=0xaaef8ad6dff96217212b72dbe0d45b3f3af0c255e9b1596c018caf635869db97&network=mainnet",
-            "description": "The PT-wstUSR-29JAN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
             "integrationUrl": "https://app.morpho.org/market?id=0x226966874fecfb817a431ffb7458d0acb082579eb99b448e9ec98d9249e06341&network=mainnet",
             "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
