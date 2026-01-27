@@ -1103,6 +1103,34 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xb82cb1140daae367c1f39dd6b4ec6a3aaef997764c84634ad8a4114571c15ef3&network=mainnet",
             "description": "The PT-RUSD-26FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xfceeb7586bab730fa400a5bf3fcf298d0db4c7e7",
+            "integrationUrl": "https://app.morpho.org/market?id=0xaaef8ad6dff96217212b72dbe0d45b3f3af0c255e9b1596c018caf635869db97&network=mainnet",
+            "description": "The PT-wstUSR-29JAN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x64b393288ab2a0fe7af6b73a9159493e60ab0605",
+            "integrationUrl": "https://app.morpho.org/market?id=0x3d353ef0436b85c3b12d53536c19b21c533c046b07c9d92d791a1510e7ef0b74&network=mainnet",
+            "description": "The PT-mAPOLLO-30APR2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
+            "integrationUrl": "https://app.morpho.org/market?id=0x226966874fecfb817a431ffb7458d0acb082579eb99b448e9ec98d9249e06341&network=mainnet",
+            "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1f84a51296691320478c98b8d77f2bbd17d34350",
+            "integrationUrl": "https://app.morpho.org/market?id=0x32a8b98a4c4b9f3b56798e6a7593799f5e1c33108302eacf981efa108fc4b131&network=mainnet",
+            "description": "The PT-USDe-5FEB2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
