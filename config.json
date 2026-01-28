@@ -1792,6 +1792,12 @@
             "address": "0xe8f1c9804770e11ab73395be54686ad656601e9e",
             "integrationUrl": "https://app.venus.io/#/isolated-pools/pool/0xd933909A4a2b7A4638903028f44D1d38ce27c352/market/0xA537ACf381b12Bbb91C58398b66D1D220f1C77c8?chainId=56",
             "description": "PT-clisBNB April 2025 market on Venus Protocol"
+          },
+          {
+            "chainId": 56,
+            "address": "0xe052823b4aefc6e230faf46231a57d0905e30ae0",
+            "integrationUrl": "https://app.venus.io/#/pool/0xfD36E2c2a6789Db23113685031d7F16329158384/market/0x6d3BD68E90B42615cb5abF4B8DE92b154ADc435e?chainId=56&tab=supply",
+            "description": "PT-clisBNBx Jun 2026 market on Venus Protocol"
           }
         ],
         "yt": [],
