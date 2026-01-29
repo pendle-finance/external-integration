@@ -302,20 +302,6 @@
         "pt": [
           {
             "chainId": 1,
-            "address": "0xfceeb7586bab730fa400a5bf3fcf298d0db4c7e7",
-            "integrationUrl": "https://app.euler.finance/positions/0x87d99f04082f56ad480889d53eca913318a1876b/0x3a8992754e2ef51d8f90620d2766278af5c59b90?network=ethereum",
-            "description": "The PT-wstUSR-29JAN2026 is the asset used as collateral in an Euler market with eUSR-1 as the loan token.",
-            "subtitle": "USR"
-          },
-          {
-            "chainId": 1,
-            "address": "0xfceeb7586bab730fa400a5bf3fcf298d0db4c7e7",
-            "integrationUrl": "https://app.euler.finance/positions/0x87d99f04082f56ad480889d53eca913318a1876b/0xcbc9b61177444a793b85442d3a953b90f6170b7d?network=ethereum",
-            "description": "The PT-wstUSR-29JAN2026 is the asset used as collateral in an Euler market with eUSDC-19 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0x5b1578e2604b91bd7b24f86f0e5ef6c024bb3a14",
             "integrationUrl": "https://app.euler.finance/positions/0x18337806b02b02099209b05589e6db85acd4345c/0x3f714090f7648139043349f599a48904187d76d0?network=ethereum",
             "description": "The PT-hgETH-25JUN2026 is the asset used as collateral in an Euler market with ehgETH-2 as the loan token.",
@@ -358,13 +344,6 @@
           },
           {
             "chainId": 9745,
-            "address": "0x8dfb9a39dfab16bffe77f15544b5bf03e377e419",
-            "integrationUrl": "https://app.euler.finance/positions/0x0bb995211462d10495136c6f2ecc367435481c2d/0xf0a1bdf7e678144702fec359fa1a0eb50b0b8845?network=plasma",
-            "description": "The PT-syrupUSDT-29JAN2026 is the asset used as collateral in an Euler market with eUSDT0-16 as the loan token.",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
             "address": "0xd516188daf64efa04a8d60872f891f2cc811a561",
             "integrationUrl": "https://app.euler.finance/positions/0x5dcce5f1eddf4c1ada8bcf2da89d4bc7fb9dd5d2/0x8539f99dbc4f437c1f71de6920369b9cd46193ff?network=plasma",
             "description": "The PT-USDai-19MAR2026 is the asset used as collateral in an Euler market with eUSDai-2 as the loan token.",
@@ -389,13 +368,6 @@
             "address": "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58",
             "integrationUrl": "https://app.euler.finance/positions/0x0fbde49d0c6fa71d097c3c6465ecd6fb49ac7efa/0xb23377af59d4fc95cb8330ee2834aa8241eeed03?network=plasma",
             "description": "The PT-RLP-26FEB2026 is the asset used as collateral in an Euler market with eUSDT0-40 as the loan token.",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xcea23ab8fde0b90e4d08eb68e8876e43933721d2",
-            "integrationUrl": "https://app.euler.finance/positions/0x54ff34ef2503b9636b0ebd31143b9edd124e262f/0x0a660b3cbd7df118501e7bb0f2d6ec5e5e583bf8?network=plasma",
-            "description": "The PT-mHYPER-29JAN2026 is the asset used as collateral in an Euler market with eUSDT0-39 as the loan token.",
             "subtitle": "USDT0"
           },
           {
@@ -425,27 +397,6 @@
             "integrationUrl": "https://app.euler.finance/positions/0xce7120c69a77e90615a9d65c581fdac1fd311cdc/0x4bfcf2acc5cb79ee2a00d08edfb81efd37cc2fe5?network=plasma",
             "description": "The PT-sUSDai-19MAR2026 is the asset used as collateral in an Euler market with eUSDai-3 as the loan token.",
             "subtitle": "USDai"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x8dfb9a39dfab16bffe77f15544b5bf03e377e419",
-            "integrationUrl": "https://app.euler.finance/positions/0x003671b7ff5cb7f5d9b7e3a0637839d8624ca5aa/0x8aec278c2fd4cc07b10a8865aed33775f93eace6?network=plasma",
-            "description": "The PT-syrupUSDT-29JAN2026 is the asset used as collateral in an Euler market with eUSDT0-20 as the loan token.",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 1,
-            "address": "0x48e502fbb6ff2cc687d049150e2c8addc765a43a",
-            "integrationUrl": "https://app.euler.finance/positions/0xfbcc21fedd4c4e9097ef1baa65b7ad386b59512d/0x3573a84bee11d49a1cbce2b291538de7a7dd81c6?network=ethereum",
-            "description": "The PT-sUSDf-29JAN2026 is the asset used as collateral in an Euler market with eUSDC-45 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a",
-            "integrationUrl": "https://app.euler.finance/positions/0xa7a064f56fbca60cbed47ed3e13c4b945def7ec3/0x3573a84bee11d49a1cbce2b291538de7a7dd81c6?network=ethereum",
-            "description": "The PT-USDf-29JAN2026 is the asset used as collateral in an Euler market with eUSDC-45 as the loan token.",
-            "subtitle": "USDC"
           },
           {
             "chainId": 42161,
@@ -512,20 +463,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
-            "integrationUrl": "https://app.euler.finance/positions/0xf8973f8ca6623d55ba6d9c3feb6a83ad2d96d9d5/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
-            "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in an Euler market with eUSDC-22 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x545a490f9ab534adf409a2e682bc4098f49952e3",
-            "integrationUrl": "https://app.euler.finance/positions/0xe067311975278b7e7b81bf57d2a9e58e3ead75b4/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
-            "description": "The PT-cUSD-29JAN2026 is the asset used as collateral in an Euler market with eUSDC-22 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0xe8483517077afa11a9b07f849cee2552f040d7b2",
             "integrationUrl": "https://app.euler.finance/positions/0xc532db16bc0530ed4920aa84ee6f84bcf8f83ef0/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
             "description": "The PT-sUSDE-5FEB2026 is the asset used as collateral in an Euler market with eUSDC-22 as the loan token.",
@@ -561,23 +498,9 @@
           },
           {
             "chainId": 1,
-            "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
-            "integrationUrl": "https://app.euler.finance/positions/0xf8973f8ca6623d55ba6d9c3feb6a83ad2d96d9d5/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
-            "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
-            "subtitle": "frxUSD"
-          },
-          {
-            "chainId": 1,
             "address": "0x1f84a51296691320478c98b8d77f2bbd17d34350",
             "integrationUrl": "https://app.euler.finance/positions/0x3de93dec4d41ffe849f7ba75041a38f7ee843bf3/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
             "description": "The PT-USDe-5FEB2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
-            "subtitle": "frxUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0x545a490f9ab534adf409a2e682bc4098f49952e3",
-            "integrationUrl": "https://app.euler.finance/positions/0xe067311975278b7e7b81bf57d2a9e58e3ead75b4/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
-            "description": "The PT-cUSD-29JAN2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
             "subtitle": "frxUSD"
           },
           {
@@ -617,20 +540,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x48e502fbb6ff2cc687d049150e2c8addc765a43a",
-            "integrationUrl": "https://app.euler.finance/positions/0xfbcc21fedd4c4e9097ef1baa65b7ad386b59512d/0x412d0e31790d77b6e7a7872a9fd6967b6e640229?network=ethereum",
-            "description": "The PT-sUSDf-29JAN2026 is the asset used as collateral in an Euler market with eUSDf-1 as the loan token.",
-            "subtitle": "USDf"
-          },
-          {
-            "chainId": 1,
-            "address": "0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a",
-            "integrationUrl": "https://app.euler.finance/positions/0xa7a064f56fbca60cbed47ed3e13c4b945def7ec3/0x412d0e31790d77b6e7a7872a9fd6967b6e640229?network=ethereum",
-            "description": "The PT-USDf-29JAN2026 is the asset used as collateral in an Euler market with eUSDf-1 as the loan token.",
-            "subtitle": "USDf"
-          },
-          {
-            "chainId": 1,
             "address": "0x67aeeed39c1675e0df93ad8bab543b17992d433b",
             "integrationUrl": "https://app.euler.finance/positions/0x50e2d08603db772ebc751b2d84f58d670976298d/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum",
             "description": "The PT-cUSDO-28MAY2026 is the asset used as collateral in an Euler market with eUSDT-9 as the loan token.",
@@ -652,13 +561,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
-            "integrationUrl": "https://app.euler.finance/positions/0xf8973f8ca6623d55ba6d9c3feb6a83ad2d96d9d5/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum",
-            "description": "The PT-stcUSD-29JAN2026 is the asset used as collateral in an Euler market with eUSDT-9 as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
             "address": "0x1f84a51296691320478c98b8d77f2bbd17d34350",
             "integrationUrl": "https://app.euler.finance/positions/0x3de93dec4d41ffe849f7ba75041a38f7ee843bf3/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum",
             "description": "The PT-USDe-5FEB2026 is the asset used as collateral in an Euler market with eUSDT-9 as the loan token.",
@@ -669,27 +571,6 @@
             "address": "0xd0609ac13000d88b0bebf5bb21074916edd92bb1",
             "integrationUrl": "https://app.euler.finance/positions/0x2da35f6e88eaba4e705bff7154b259859c353953/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum",
             "description": "The PT-jrUSDe-2APR2026 is the asset used as collateral in an Euler market with eUSDT-9 as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
-            "address": "0x545a490f9ab534adf409a2e682bc4098f49952e3",
-            "integrationUrl": "https://app.euler.finance/positions/0xe067311975278b7e7b81bf57d2a9e58e3ead75b4/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum",
-            "description": "The PT-cUSD-29JAN2026 is the asset used as collateral in an Euler market with eUSDT-9 as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
-            "address": "0x48e502fbb6ff2cc687d049150e2c8addc765a43a",
-            "integrationUrl": "https://app.euler.finance/positions/0xfbcc21fedd4c4e9097ef1baa65b7ad386b59512d/0xbfdc482616787b420bc6c710212fe3167e7198e9?network=ethereum",
-            "description": "The PT-sUSDf-29JAN2026 is the asset used as collateral in an Euler market with eUSDT-17 as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
-            "address": "0xec3b5e45dd278d5ab9cdb31754b54db314e9d52a",
-            "integrationUrl": "https://app.euler.finance/positions/0xa7a064f56fbca60cbed47ed3e13c4b945def7ec3/0xbfdc482616787b420bc6c710212fe3167e7198e9?network=ethereum",
-            "description": "The PT-USDf-29JAN2026 is the asset used as collateral in an Euler market with eUSDT-17 as the loan token.",
             "subtitle": "USDT"
           }
         ],
