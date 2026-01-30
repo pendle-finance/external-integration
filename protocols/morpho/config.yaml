@@ -256,5 +256,13 @@ metadata:
       description: >-
         The PT-sUSDE-5FEB2026 is the asset used as collateral in a Morpho market
         with PYUSD as the loan token.
+    - chainId: 1
+      address: '0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x2fb3713487c7812e7309935b034f40228841666f6b048faf31fd2110ae674f20&network=mainnet
+      description: >-
+        The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
