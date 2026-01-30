@@ -971,6 +971,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xe7f998c0ff11ca2bf091d39b6a3cef1035733528187d520c1c47710c8f1acaeb&network=mainnet",
             "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
             "subtitle": "AUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0xe8483517077afa11a9b07f849cee2552f040d7b2",
+            "integrationUrl": "https://app.morpho.org/market?id=0x5c4120f5129199ac747086fe3d141e6fe904ea335a7b9aa4059d065603afcefc&network=mainnet",
+            "description": "The PT-sUSDE-5FEB2026 is the asset used as collateral in a Morpho market with PYUSD as the loan token.",
+            "subtitle": "PYUSD"
           }
         ],
         "yt": [],
