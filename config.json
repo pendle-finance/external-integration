@@ -159,18 +159,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x1f84a51296691320478c98b8d77f2bbd17d34350",
-            "integrationUrl": "https://app.contango.xyz/",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe8483517077afa11a9b07f849cee2552f040d7b2",
-            "integrationUrl": "https://app.contango.xyz/",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
             "address": "0x29fd7180e5cced14ad148c7997e6b6857a8be86e",
             "integrationUrl": "https://app.contango.xyz/",
             "description": "PT leverage looping through various supported money markets"
