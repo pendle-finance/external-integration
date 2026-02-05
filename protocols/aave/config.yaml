@@ -7,54 +7,6 @@ description: >-
 url: https://app.aave.com/
 metadata:
   pt:
-    - chainId: 1
-      address: '0x1f84a51296691320478c98b8d77f2bbd17d34350'
-      subtitle: USDT
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x1f84a51296691320478c98b8d77f2bbd17d34350&marketName=proto_ethereum_v3
-      description: PT-USDe-5FEB2026 can be used as collateral to borrow USDT on Aave
-    - chainId: 1
-      address: '0x1f84a51296691320478c98b8d77f2bbd17d34350'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x1f84a51296691320478c98b8d77f2bbd17d34350&marketName=proto_ethereum_v3
-      description: PT-USDe-5FEB2026 can be used as collateral to borrow USDC on Aave
-    - chainId: 1
-      address: '0x1f84a51296691320478c98b8d77f2bbd17d34350'
-      subtitle: USDe
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x1f84a51296691320478c98b8d77f2bbd17d34350&marketName=proto_ethereum_v3
-      description: PT-USDe-5FEB2026 can be used as collateral to borrow USDe on Aave
-    - chainId: 1
-      address: '0x1f84a51296691320478c98b8d77f2bbd17d34350'
-      subtitle: USDtb
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x1f84a51296691320478c98b8d77f2bbd17d34350&marketName=proto_ethereum_v3
-      description: PT-USDe-5FEB2026 can be used as collateral to borrow USDtb on Aave
-    - chainId: 1
-      address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
-      subtitle: USDT
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0xe8483517077afa11a9b07f849cee2552f040d7b2&marketName=proto_ethereum_v3
-      description: PT-sUSDE-5FEB2026 can be used as collateral to borrow USDT on Aave
-    - chainId: 1
-      address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0xe8483517077afa11a9b07f849cee2552f040d7b2&marketName=proto_ethereum_v3
-      description: PT-sUSDE-5FEB2026 can be used as collateral to borrow USDC on Aave
-    - chainId: 1
-      address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
-      subtitle: USDe
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0xe8483517077afa11a9b07f849cee2552f040d7b2&marketName=proto_ethereum_v3
-      description: PT-sUSDE-5FEB2026 can be used as collateral to borrow USDe on Aave
-    - chainId: 1
-      address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
-      subtitle: USDtb
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0xe8483517077afa11a9b07f849cee2552f040d7b2&marketName=proto_ethereum_v3
-      description: PT-sUSDE-5FEB2026 can be used as collateral to borrow USDtb on Aave
     - chainId: 9745
       address: '0x54dc267be2839303ff1e323584a16e86cec4aa44'
       subtitle: USDT0
