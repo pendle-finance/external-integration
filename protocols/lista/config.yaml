@@ -13,6 +13,7 @@ metadata:
       description: >-
         PT-USDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
         against USD1
+      subtitle: USD1
     - chainId: 56 
       address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
       integrationUrl: >-
@@ -20,6 +21,7 @@ metadata:
       description: >-
         PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
         against USDT    
+      subtitle: USDT
     - chainId: 56
       address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
       integrationUrl: >-
@@ -27,6 +29,7 @@ metadata:
       description: >-
         PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
         against USD1       
+      subtitle: USD1
     - chainId: 56
       address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
       integrationUrl: >-
@@ -34,6 +37,7 @@ metadata:
       description: >-
         PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
         against U 
+      subtitle: U
     - chainId: 56
       address: '0x0EA46a4C257071352b57E9F6d054fC137F6E14b9'
       integrationUrl: >-
@@ -41,6 +45,7 @@ metadata:
       description: >-
         PT-srUSDe-2APR2026(ETH) can be used as collateral to borrow or multiply
         against U 
+      subtitle: U
     - chainId: 56
       address: '0x0EA46a4C257071352b57E9F6d054fC137F6E14b9'
       integrationUrl: >-
@@ -48,5 +53,6 @@ metadata:
       description: >-
         PT-srUSDe-2APR2026(ETH) can be used as collateral to borrow or multiply
         against USDT
+      subtitle: USDT
   yt: []
   lp: []
