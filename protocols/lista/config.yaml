@@ -2,41 +2,24 @@ name: Lista Lending
 icon: logo.png
 category: Money Market
 url: https://lista.org/lending
-description: >-
-  Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions
+description: Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions
 metadata:
   pt:
-    - chainId: 56
-      address: '0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3'
-      integrationUrl: >-
-        https://lista.org/lending/market/bsc/0xdee403936c6f4c64095e68301c0b5ea2d49fa36ed204b61d504f55b280079a36
-      description: >-
-        PT-USDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
-        against USD1
-      subtitle: USD1
-    - chainId: 56 
-      address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
-      integrationUrl: >-
-        https://lista.org/lending/market/bsc/0xcde129c808d3b7f57fa2384e5ceb1d3debb0c895932f06364abb9d6760a1e6e7
-      description: >-
-        PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
-        against USDT    
-      subtitle: USDT
     - chainId: 56
       address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
       integrationUrl: >-
         https://lista.org/lending/market/bsc/0x73a49d7e15386803327e0571908259b1ebd9c5638f91b90545fdda7694c8a3a2
       description: >-
-        PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
-        against USD1       
+        PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or
+        multiply against USD1       
       subtitle: USD1
     - chainId: 56
       address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
       integrationUrl: >-
         https://lista.org/lending/market/bsc/0x8f67e40a16183fb211df70012365f6f4c6e1b90373659ee72749d6152b85dd7f
       description: >-
-        PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or multiply
-        against U 
+        PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or
+        multiply against U 
       subtitle: U
     - chainId: 56
       address: '0x0EA46a4C257071352b57E9F6d054fC137F6E14b9'
@@ -53,6 +36,54 @@ metadata:
       description: >-
         PT-srUSDe-2APR2026(ETH) can be used as collateral to borrow or multiply
         against USDT
+      subtitle: USDT
+    - chainId: 56
+      address: '0xe052823b4aefc6e230faf46231a57d0905e30ae0'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x02e3e78089e25120193128aac38cb28a6d9ef4d8aba8134a9235100f699ab26b
+      description: >-
+        PT-clisBNB-25JUN2026 can be used as collateral to borrow or multiply
+        against BNB
+      subtitle: BNB
+    - chainId: 56
+      address: '0x0ea46a4c257071352b57e9f6d054fc137f6e14b9'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x4bb83ece770d2254218e0e86b1d4fdc503dc9726fb53e269f206cec5b7cd250c
+      description: >-
+        PT-srUSDe-2APR2026 can be used as collateral to borrow or multiply
+        against USD1
+      subtitle: USD1
+    - chainId: 56
+      address: '0x7e318884f6f299031f4fa88d7a324e076d460a4b'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x4d5db69438f73d026b81cda3d6263a32c3ea9a4b0a28d3d3be1ab9aec8a996cc
+      description: >-
+        PT-USDe-7MAY2026 can be used as collateral to borrow or multiply against
+        USD1
+      subtitle: USD1
+    - chainId: 56
+      address: '0x7e318884f6f299031f4fa88d7a324e076d460a4b'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x861e74a10ea7886c04826e7ce55501eca750f4875ab92e8790f1c2b2900115bc
+      description: >-
+        PT-USDe-7MAY2026 can be used as collateral to borrow or multiply against
+        U
+      subtitle: U
+    - chainId: 56
+      address: '0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x3b4a64c5d230773d31440dee7f98245784b362130baca089b9ea81a777628746
+      description: >-
+        PT-USDe-9APR2026 can be used as collateral to borrow or multiply against
+        USDT
+      subtitle: USDT
+    - chainId: 56
+      address: '0x7e318884f6f299031f4fa88d7a324e076d460a4b'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x1edaac0bcc846c559a7d6ebdeb53583bc784f116ee31a1084f29d4d437773b8f
+      description: >-
+        PT-USDe-7MAY2026 can be used as collateral to borrow or multiply against
+        USDT
       subtitle: USDT
   yt: []
   lp: []
