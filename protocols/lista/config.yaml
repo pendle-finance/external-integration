@@ -24,14 +24,6 @@ metadata:
     - chainId: 56
       address: '0x0EA46a4C257071352b57E9F6d054fC137F6E14b9'
       integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x62bd656d4c1896dec061ceab413bedf3a1cc713c5134bbd6c6d58099cae07284
-      description: >-
-        PT-srUSDe-2APR2026(ETH) can be used as collateral to borrow or multiply
-        against U 
-      subtitle: U
-    - chainId: 56
-      address: '0x0EA46a4C257071352b57E9F6d054fC137F6E14b9'
-      integrationUrl: >-
         https://lista.org/lending/market/bsc/0x0ff603ab5cf4b44e603ec8109acf7b84f36133278b9f20ca404d216e593d0964
       description: >-
         PT-srUSDe-2APR2026(ETH) can be used as collateral to borrow or multiply
@@ -62,14 +54,6 @@ metadata:
         USD1
       subtitle: USD1
     - chainId: 56
-      address: '0x7e318884f6f299031f4fa88d7a324e076d460a4b'
-      integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x861e74a10ea7886c04826e7ce55501eca750f4875ab92e8790f1c2b2900115bc
-      description: >-
-        PT-USDe-7MAY2026 can be used as collateral to borrow or multiply against
-        U
-      subtitle: U
-    - chainId: 56
       address: '0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3'
       integrationUrl: >-
         https://lista.org/lending/market/bsc/0x3b4a64c5d230773d31440dee7f98245784b362130baca089b9ea81a777628746
@@ -85,5 +69,13 @@ metadata:
         PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply
         against USDT
       subtitle: USDT
+    - chainId: 56
+      address: '0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0xdee403936c6f4c64095e68301c0b5ea2d49fa36ed204b61d504f55b280079a36
+      description: >-
+        PT-USDe-9APR2026 can be used as collateral to borrow or multiply against
+        USD1
+      subtitle: USD1
   yt: []
   lp: []
