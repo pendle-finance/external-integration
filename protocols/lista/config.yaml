@@ -8,14 +8,6 @@ metadata:
     - chainId: 56
       address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
       integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x73a49d7e15386803327e0571908259b1ebd9c5638f91b90545fdda7694c8a3a2
-      description: >-
-        PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or
-        multiply against USD1       
-      subtitle: USD1
-    - chainId: 56
-      address: '0x7EB92A12a15E8a019A26A8b344F1e59b14cb8Ad3'
-      integrationUrl: >-
         https://lista.org/lending/market/bsc/0x8f67e40a16183fb211df70012365f6f4c6e1b90373659ee72749d6152b85dd7f
       description: >-
         PT-sUSDe-9APR2026(PLASMA) can be used as collateral to borrow or
