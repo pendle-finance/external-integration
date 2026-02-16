@@ -30,14 +30,6 @@ metadata:
         against BNB
       subtitle: BNB
     - chainId: 56
-      address: '0x0ea46a4c257071352b57e9f6d054fc137f6e14b9'
-      integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x4bb83ece770d2254218e0e86b1d4fdc503dc9726fb53e269f206cec5b7cd250c
-      description: >-
-        PT-srUSDe-2APR2026 can be used as collateral to borrow or multiply
-        against USD1
-      subtitle: USD1
-    - chainId: 56
       address: '0x7e318884f6f299031f4fa88d7a324e076d460a4b'
       integrationUrl: >-
         https://lista.org/lending/market/bsc/0x4d5db69438f73d026b81cda3d6263a32c3ea9a4b0a28d3d3be1ab9aec8a996cc
@@ -68,6 +60,14 @@ metadata:
       description: >-
         PT-USDe-9APR2026 can be used as collateral to borrow or multiply against
         USD1
+      subtitle: USD1
+    - chainId: 56
+      address: '0x7eb92a12a15e8a019a26a8b344f1e59b14cb8ad3'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x73a49d7e15386803327e0571908259b1ebd9c5638f91b90545fdda7694c8a3a2
+      description: >-
+        PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply
+        against USD1
       subtitle: USD1
   yt: []
   lp: []
