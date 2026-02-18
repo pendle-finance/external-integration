@@ -1018,6 +1018,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0x54e42432a7c0309ba650080cab6fcff377034fd9de174bbd3a4b519186ffc0f8&network=mainnet",
             "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
             "subtitle": "AUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x606b5c773dc4d6e625c411cf60565f8c30c467d2",
+            "integrationUrl": "https://app.morpho.org/market?id=0xc978f01522ff64adafd91856065d602c56e326a0368b895bd9244d5998e60076&network=mainnet",
+            "description": "The PT-savUSD-14MAY2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
