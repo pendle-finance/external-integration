@@ -200,5 +200,13 @@ metadata:
       description: >-
         The PT-savUSD-14MAY2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 42161
+      address: '0xe46271ecb1d5c7c5134868760f10c18b03021ef1'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xc8455ed78482f7ef016caf0127c7ffd5e643b3b83d08d43e242a63c12358f754&network=arbitrum
+      description: >-
+        The PT-thBILL-18JUN2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
