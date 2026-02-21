@@ -909,10 +909,17 @@
           },
           {
             "chainId": 42161,
-            "address": "0xe46271ecb1d5c7c5134868760f10c18b03021ef1",
-            "integrationUrl": "https://app.morpho.org/market?id=0xc8455ed78482f7ef016caf0127c7ffd5e643b3b83d08d43e242a63c12358f754&network=arbitrum",
-            "description": "The PT-thBILL-18JUN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "address": "0x1cdde40e29da213f42a7fa109ccadca372d9ee1b",
+            "integrationUrl": "https://app.morpho.org/market?id=0x958b40fcd0df023c156ec4a7eb8ffd47985b19d8bb02a36fb0af1bfc837fd605&network=arbitrum",
+            "description": "The PT-USDai-18JUN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x1cdde40e29da213f42a7fa109ccadca372d9ee1b",
+            "integrationUrl": "https://app.morpho.org/market?id=0x98225f86d3c0673d9b652b12f021f9bc6a09c9ca960680bea23c4de7e2a90f64&network=arbitrum",
+            "description": "The PT-USDai-18JUN2026 is the asset used as collateral in a Morpho market with USDT0 as the loan token.",
+            "subtitle": "USDT0"
           }
         ],
         "yt": [],
