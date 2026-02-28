@@ -184,5 +184,13 @@ metadata:
       description: >-
         The PT-sUSDai-18JUN2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0x606b5c773dc4d6e625c411cf60565f8c30c467d2'
+      subtitle: frxUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xed808d36371491748eaa28b16533cafc270e705139e3ff807ea17ce60d6938c9&network=mainnet
+      description: >-
+        The PT-savUSD-14MAY2026 is the asset used as collateral in a Morpho
+        market with frxUSD as the loan token.
   yt: []
   lp: []
