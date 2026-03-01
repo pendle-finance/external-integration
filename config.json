@@ -864,6 +864,13 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xed808d36371491748eaa28b16533cafc270e705139e3ff807ea17ce60d6938c9&network=mainnet",
             "description": "The PT-savUSD-14MAY2026 is the asset used as collateral in a Morpho market with frxUSD as the loan token.",
             "subtitle": "frxUSD"
+          },
+          {
+            "chainId": 8453,
+            "address": "0xc31e19dc6c8a90d628432e15bbd538aa8c789e5d",
+            "integrationUrl": "https://app.morpho.org/market?id=0xaf2657ed859dcac494afc20ba83e26fa153414da971a1f082ebfcb45d73955f1&network=base",
+            "description": "The PT-USDai-18JUN2026-(ARB) is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
