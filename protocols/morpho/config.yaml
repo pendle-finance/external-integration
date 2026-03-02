@@ -200,5 +200,21 @@ metadata:
       description: >-
         The PT-USDai-18JUN2026-(ARB) is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce'
+      subtitle: AUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0xe7f998c0ff11ca2bf091d39b6a3cef1035733528187d520c1c47710c8f1acaeb&network=mainnet
+      description: >-
+        The PT-cUSD-23JUL2026 is the asset used as collateral in a Morpho market
+        with AUSD as the loan token.
+    - chainId: 1
+      address: '0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83'
+      subtitle: AUSD
+      integrationUrl: >-
+        https://app.morpho.org/market?id=0x54e42432a7c0309ba650080cab6fcff377034fd9de174bbd3a4b519186ffc0f8&network=mainnet
+      description: >-
+        The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho
+        market with AUSD as the loan token.
   yt: []
   lp: []
