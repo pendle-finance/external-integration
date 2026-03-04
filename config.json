@@ -762,13 +762,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.morpho.org/market?id=0xba8c21d3e47814574a61bee82e7053274f731ad253b24865acab8476fa477ee7&network=mainnet",
-            "description": "The PT-srUSDe-2APR2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
-            "subtitle": "AUSD"
-          },
-          {
-            "chainId": 1,
             "address": "0xaf76b3af3477e4a2cd0b7f80c3152108c19a25e5",
             "integrationUrl": "https://app.morpho.org/market?id=0xaac3ffcdf8a75919657e789fa72ab742a7bbfdf5bb0b87e4bbeb3c29bbbbb05c&network=mainnet",
             "description": "The PT-siUSD-26MAR2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
@@ -892,20 +885,6 @@
             "integrationUrl": "https://app.morpho.org/market?id=0xaf2657ed859dcac494afc20ba83e26fa153414da971a1f082ebfcb45d73955f1&network=base",
             "description": "The PT-USDai-18JUN2026-(ARB) is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
-            "integrationUrl": "https://app.morpho.org/market?id=0xe7f998c0ff11ca2bf091d39b6a3cef1035733528187d520c1c47710c8f1acaeb&network=mainnet",
-            "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
-            "subtitle": "AUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
-            "integrationUrl": "https://app.morpho.org/market?id=0x54e42432a7c0309ba650080cab6fcff377034fd9de174bbd3a4b519186ffc0f8&network=mainnet",
-            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
-            "subtitle": "AUSD"
           }
         ],
         "yt": [],
