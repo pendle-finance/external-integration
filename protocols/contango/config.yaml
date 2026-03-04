@@ -17,7 +17,11 @@ metadata:
       integrationUrl: https://app.contango.xyz/
       description: PT leverage looping through various supported money markets
     - chainId: 1
-      address: '0xeeaa924eb3667f30be02db9c55d87566a3f4df7a'
+      address: '0xaebf0bb9f57e89260d57f31af34eb58657d96ce0'
+      integrationUrl: https://app.contango.xyz/
+      description: PT leverage looping through various supported money markets
+    - chainId: 1
+      address: '0x3de0ff76e8b528c092d47b9dac775931cef80f49'
       integrationUrl: https://app.contango.xyz/
       description: PT leverage looping through various supported money markets
   yt: []
