@@ -53,5 +53,13 @@ metadata:
         PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply
         against U
       subtitle: U
+    - chainId: 56
+      address: '0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x3b4a64c5d230773d31440dee7f98245784b362130baca089b9ea81a777628746
+      description: >-
+        PT-USDe-9APR2026 can be used as collateral to borrow or multiply against
+        USDT
+      subtitle: USDT
   yt: []
   lp: []
