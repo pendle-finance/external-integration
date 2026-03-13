@@ -545,6 +545,13 @@
             "integrationUrl": "https://app.euler.finance/positions/0x343e9c605acfcec8c2a872e3b0b6fcad9d7ab4e6/0xaf5372792a29dc6b296d6ffd4aa3386aff8f9bb2?network=ethereum",
             "description": "The PT-sUSDE-7MAY2026 is the asset used as collateral in an Euler market with eRLUSD-7 as the loan token.",
             "subtitle": "RLUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3de0ff76e8b528c092d47b9dac775931cef80f49",
+            "integrationUrl": "https://app.euler.finance/positions/0xd816347c7e12f9649cfb94573035d581836a2030/0x660750b98c3a53dd1303f2e43f543ef037d3f625?network=ethereum",
+            "description": "The PT-sUSDE-7MAY2026 is the asset used as collateral in an Euler market with eUSDe-10 as the loan token.",
+            "subtitle": "USDe"
           }
         ],
         "yt": [],
