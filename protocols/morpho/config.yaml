@@ -200,5 +200,13 @@ metadata:
       description: >-
         The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho
         market with AUSD as the loan token.
+    - chainId: 1
+      address: '0x3de0ff76e8b528c092d47b9dac775931cef80f49'
+      subtitle: PYUSD
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xcb12dcbc7c6c4f20ca1537a3cc1a41ec27501f85a3e322a710d9a16a88a28c0e
+      description: >-
+        The PT-sUSDE-7MAY2026 is the asset used as collateral in a Morpho market
+        with PYUSD as the loan token.
   yt: []
   lp: []
