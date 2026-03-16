@@ -160,14 +160,6 @@ metadata:
       description: >-
         The PT-RLP-9APR2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
-    - chainId: 130
-      address: '0xa6656e5456809b028c05531ad20dc2897b4dad91'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/unichain/market/0x983abfadbdb7b35064149bc43ebd6e7ebf11d5c8731b2a806683aab440d3874c
-      description: >-
-        The PT-USDai-18JUN2026-(ARB) is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
     - chainId: 1
       address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
       subtitle: USDC
@@ -184,14 +176,6 @@ metadata:
       description: >-
         The PT-USDG-28MAY2026 is the asset used as collateral in a Morpho market
         with AUSD as the loan token.
-    - chainId: 130
-      address: '0x026644dc6fc4cf22a45ad14231090c7736d07507'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/unichain/market/0x54ea85acf999d0229f0bde475e43674972c4261972a6d78ba34e659bbabe947a
-      description: >-
-        The PT-srUSDe-2APR2026-(ETH) is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
     - chainId: 1
       address: '0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce'
       subtitle: AUSD
