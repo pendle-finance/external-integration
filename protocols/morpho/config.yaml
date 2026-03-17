@@ -208,5 +208,13 @@ metadata:
       description: >-
         The PT-sUSDE-7MAY2026 is the asset used as collateral in a Morpho market
         with PYUSD as the loan token.
+    - chainId: 1
+      address: '0xcc16cd49194e7aa3dca780c742580e2f9b418874'
+      subtitle: frxUSD
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x6a8f296524b7f300b56e3653bbfc0ce4dd0dff225f1d5ec09c4fd190886ae53e
+      description: >-
+        The PT-avUSD-14MAY2026 is the asset used as collateral in a Morpho
+        market with frxUSD as the loan token.
   yt: []
   lp: []
