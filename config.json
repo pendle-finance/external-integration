@@ -953,6 +953,13 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x6a8f296524b7f300b56e3653bbfc0ce4dd0dff225f1d5ec09c4fd190886ae53e",
             "description": "The PT-avUSD-14MAY2026 is the asset used as collateral in a Morpho market with frxUSD as the loan token.",
             "subtitle": "frxUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0xcc16cd49194e7aa3dca780c742580e2f9b418874",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xf80a664057fe3cadcd9e83f27bb1effe5c15d1d2648acc7634daff1581951b5e",
+            "description": "The PT-avUSD-14MAY2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
