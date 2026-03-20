@@ -230,13 +230,6 @@ metadata:
       description: >-
         Borrow USDC at a fixed rate with PT-tUSDe-18DEC2025 as collateral on TermMax.
     - chainId: 1
-      address: '0x9aef3bf940a22a58d8c55e287e2edfdb0130cf2b'
-      subtitle: Fixed-rate Borrow
-      integrationUrl: >-
-        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sdeusd
-      description: >-
-        Borrow USDC at a fixed rate with PT-sdeUSD-11DEC2025 as collateral on TermMax.
-    - chainId: 1
       address: '0x5982837d2d138af78a42a92f8f2f6863bb25f129'
       subtitle: Fixed-rate Borrow
       integrationUrl: >-
@@ -369,5 +362,103 @@ metadata:
         https://app.termmax.ts.finance/borrow?search=mfarm&chain=eth
       description: >-
         Borrow USDC at a fixed rate with PT-mFARM-11DEC2025 as collateral on TermMax.
+    - chainId: 1
+      address: '0x7e818c8c07aeb2aa297c9510f94e18c9a7a05ba4'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=msyrupUSDp&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-msyrupUSDp-26FEB2026 as collateral on TermMax.
+    - chainId: 42161
+      address: '0x9b3924f9652cabf3db48b7b4c92e474c571b3ab4'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=thbill&chain=arb
+      description: >-
+        Borrow USDC at a fixed rate with PT-thBILL-19FEB2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x97ca796aed60a4e34a7d7878f399b51e8718fbf7'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=DUSD&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-DUSD-29JAN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x8209b01357946a64a0793e9773f6f3fe5a5f2526'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=DETH&chain=eth
+      description: >-
+        Borrow WETH at a fixed rate with PT-DETH-29JAN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=reUSD&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-reUSD-25JUN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xec4402d1389e749c14a7caeef3e4c1f861e09bc8'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=iUSD&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-iUSD-19FEB2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xe8483517077afa11a9b07f849cee2552f040d7b2'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=susde&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-sUSDe-05FEB2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x29fd7180e5cced14ad148c7997e6b6857a8be86e'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=rlp
+      description: >-
+        Borrow USDC at a fixed rate with PT-RLP-9APR2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xdc9a5a2e3ce7ac881fc3b28c629c05d1617d1c56'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?search=reusd&chain=eth
+      description: >-
+        Borrow USDC at a fixed rate with PT-reUSDe-25JUN2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x380e68536dfebafee63321d25e9dfefc67d0fe71'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=streth
+      description: >-
+        Borrow WETH at a fixed rate with PT-strETH-26MAR2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x3de0ff76e8b528c092d47b9dac775931cef80f49'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=susde
+      description: >-
+        Borrow USDC at a fixed rate with PT-sUSDe-07MAY2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=cusd
+      description: >-
+        Borrow USDC at a fixed rate with PT-cUSD-23JULY2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=cusd
+      description: >-
+        Borrow USDC at a fixed rate with PT-stcUSD-23JULY2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x67aeeed39c1675e0df93ad8bab543b17992d433b'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=cusdo
+      description: >-
+        Borrow USDC at a fixed rate with PT-cUSDO-28MAY2026 as collateral on TermMax.
   yt: []
   lp: []
