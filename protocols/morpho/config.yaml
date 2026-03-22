@@ -41,14 +41,6 @@ metadata:
         The PT-savUSD-14MAY2026 is the asset used as collateral in a Morpho
         market with frxUSD as the loan token.
     - chainId: 1
-      address: '0x5dbf246b37e1b9ac5d08bb38233d71322ae7d166'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xdf034d0351a4c0af947e1a37ecd5ccbce60d72eac90de6fcad48c74e2869d14c
-      description: >-
-        The PT-iUSD-25JUN2026 is the asset used as collateral in a Morpho market
-        with USDC as the loan token.
-    - chainId: 1
       address: '0xd87169640666649f1e6f92034dca9e4ae748de69'
       subtitle: USDC
       integrationUrl: >-
