@@ -689,13 +689,6 @@
           },
           {
             "chainId": 56,
-            "address": "0x7eb92a12a15e8a019a26a8b344f1e59b14cb8ad3",
-            "integrationUrl": "https://lista.org/lending/market/bsc/0x1fed91636b77dab38fd796e21580718aa51e8cf89e442a0268de786adc544596",
-            "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply against U",
-            "subtitle": "U"
-          },
-          {
-            "chainId": 56,
             "address": "0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3",
             "integrationUrl": "https://lista.org/lending/market/bsc/0xdee403936c6f4c64095e68301c0b5ea2d49fa36ed204b61d504f55b280079a36",
             "description": "PT-USDe-9APR2026 can be used as collateral to borrow or multiply against USD1",
