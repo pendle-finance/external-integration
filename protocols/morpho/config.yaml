@@ -81,14 +81,6 @@ metadata:
         The PT-USDai-18JUN2026-(ARB) is the asset used as collateral in a Morpho
         market with USDC as the loan token.
     - chainId: 1
-      address: '0xaf76b3af3477e4a2cd0b7f80c3152108c19a25e5'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xaac3ffcdf8a75919657e789fa72ab742a7bbfdf5bb0b87e4bbeb3c29bbbbb05c
-      description: >-
-        The PT-siUSD-26MAR2026 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
-    - chainId: 1
       address: '0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2'
       subtitle: USDC
       integrationUrl: >-
