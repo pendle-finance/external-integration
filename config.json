@@ -344,34 +344,6 @@
             "subtitle": "WETH"
           },
           {
-            "chainId": 8453,
-            "address": "0x0177055f7429d3bd6b19f2dd591127db871a510e",
-            "integrationUrl": "https://app.euler.finance/positions/0x24d633664aea3f551b2fa34fa66dd1ba52a33933/0x085178078796da17b191f9081b5e2fccc79a7ee7?network=base",
-            "description": "The PT-yoUSD-26MAR2026 is the asset used as collateral in an Euler market with eUSDC-29 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x0177055f7429d3bd6b19f2dd591127db871a510e",
-            "integrationUrl": "https://app.euler.finance/positions/0x24d633664aea3f551b2fa34fa66dd1ba52a33933/0x990d616ca6e7192625d1b7c41fb67b5758df7cf2?network=base",
-            "description": "The PT-yoUSD-26MAR2026 is the asset used as collateral in an Euler market with eyoUSD-1 as the loan token.",
-            "subtitle": "yoUSD"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x1a5c5ea50717a2ea0e4f7036fb289349deaab58b",
-            "integrationUrl": "https://app.euler.finance/positions/0x38df63f1986b80578b7357bcda3d4f71f129afff/0x774c08f8e78c47046d325c0331788954c35df10a?network=base",
-            "description": "The PT-yoETH-26MAR2026 is the asset used as collateral in an Euler market with eWETH-19 as the loan token.",
-            "subtitle": "WETH"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x1a5c5ea50717a2ea0e4f7036fb289349deaab58b",
-            "integrationUrl": "https://app.euler.finance/positions/0x38df63f1986b80578b7357bcda3d4f71f129afff/0xdbdc9c3edbd401109c83b333c16a0251806b3330?network=base",
-            "description": "The PT-yoETH-26MAR2026 is the asset used as collateral in an Euler market with eyoETH-1 as the loan token.",
-            "subtitle": "yoETH"
-          },
-          {
             "chainId": 1,
             "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
             "integrationUrl": "https://app.euler.finance/positions/0x4f4afcdd8e418f5aa9130ba53af23cb7bf47f467/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
