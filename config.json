@@ -725,13 +725,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xaf76b3af3477e4a2cd0b7f80c3152108c19a25e5",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0xaac3ffcdf8a75919657e789fa72ab742a7bbfdf5bb0b87e4bbeb3c29bbbbb05c",
-            "description": "The PT-siUSD-26MAR2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2",
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x9bc98c2f20ac58287ef2c860eea53a2fdc27c17a7817ff1206c0b7840cc7cd79",
             "description": "The PT-reUSD-25JUN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
