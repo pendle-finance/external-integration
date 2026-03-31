@@ -848,6 +848,34 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0xa75bb490ecfee90c86a9d22ebc2dde42fb83478b3f18722b9fc6f5f668cab124",
             "description": "The PT-apyUSD-18JUN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x92a6a01b07984de46c24e8eba248449beb8b1dcb",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xed05fcc2893b78b3fa468d21b6e4d2925e7f2c64eb1f16279757c43f87502a99",
+            "description": "The PT-apxUSD-18JUN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x619d75e3b790ebc21c289f2805bb7177a7d732e2",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x7dd7fd034b18a3cc6fccaec556e24cfa727757059f526eb87e9f26704c7a6dc2",
+            "description": "The PT-srUSDe-25JUN2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x619d75e3b790ebc21c289f2805bb7177a7d732e2",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x1bd93f3ef76c3debad2b6023291af6a81125e71adfe775c2177afd7b79f7e41e",
+            "description": "The PT-srUSDe-25JUN2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "subtitle": "USDT"
+          },
+          {
+            "chainId": 1,
+            "address": "0x619d75e3b790ebc21c289f2805bb7177a7d732e2",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x98caecbaec1d775784c8da1100849f006dd97a12561c51af28f5db63c4fd5fbd",
+            "description": "The PT-srUSDe-25JUN2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
+            "subtitle": "AUSD"
           }
         ],
         "yt": [],
