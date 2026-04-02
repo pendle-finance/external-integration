@@ -588,6 +588,13 @@
             "integrationUrl": "https://lista.org/lending/market/bsc/0x02e3e78089e25120193128aac38cb28a6d9ef4d8aba8134a9235100f699ab26b",
             "description": "PT-clisBNB-25JUN2026 can be used as collateral to borrow or multiply against BNB",
             "subtitle": "BNB"
+          },
+          {
+            "chainId": 56,
+            "address": "0x0ea46a4c257071352b57e9f6d054fc137f6e14b9",
+            "integrationUrl": "https://lista.org/lending/market/bsc/0x62bd656d4c1896dec061ceab413bedf3a1cc713c5134bbd6c6d58099cae07284",
+            "description": "PT-srUSDe-2APR2026 can be used as collateral to borrow or multiply against U",
+            "subtitle": "U"
           }
         ],
         "yt": [],
