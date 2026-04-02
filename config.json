@@ -94,27 +94,6 @@
             "subtitle": "USDtb"
           },
           {
-            "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375&marketName=proto_ethereum_v3",
-            "description": "PT-srUSDe-2APR2026 can be used as collateral to borrow USDT on Aave",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375&marketName=proto_ethereum_v3",
-            "description": "PT-srUSDe-2APR2026 can be used as collateral to borrow USDC on Aave",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375&marketName=proto_ethereum_v3",
-            "description": "PT-srUSDe-2APR2026 can be used as collateral to borrow USDe on Aave",
-            "subtitle": "USDe"
-          },
-          {
             "chainId": 9745,
             "address": "0x54dc267be2839303ff1e323584a16e86cec4aa44",
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x54dc267be2839303ff1e323584a16e86cec4aa44&marketName=proto_plasma_v3",
@@ -345,20 +324,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.euler.finance/positions/0x4f4afcdd8e418f5aa9130ba53af23cb7bf47f467/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
-            "description": "The PT-srUSDe-2APR2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
-            "subtitle": "frxUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0xd0609ac13000d88b0bebf5bb21074916edd92bb1",
-            "integrationUrl": "https://app.euler.finance/positions/0x2da35f6e88eaba4e705bff7154b259859c353953/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
-            "description": "The PT-jrUSDe-2APR2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
-            "subtitle": "frxUSD"
-          },
-          {
-            "chainId": 1,
             "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
             "integrationUrl": "https://app.euler.finance/positions/0x9dfe82d2a2419b143d99a36789c405f2d8072c1e/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
             "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
@@ -373,23 +338,9 @@
           },
           {
             "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.euler.finance/positions/0x4f4afcdd8e418f5aa9130ba53af23cb7bf47f467/0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6?network=ethereum",
-            "description": "The PT-srUSDe-2APR2026 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
-            "subtitle": "USDe"
-          },
-          {
-            "chainId": 1,
             "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
             "integrationUrl": "https://app.euler.finance/positions/0x9dfe82d2a2419b143d99a36789c405f2d8072c1e/0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6?network=ethereum",
             "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
-            "subtitle": "USDe"
-          },
-          {
-            "chainId": 1,
-            "address": "0xd0609ac13000d88b0bebf5bb21074916edd92bb1",
-            "integrationUrl": "https://app.euler.finance/positions/0x2da35f6e88eaba4e705bff7154b259859c353953/0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6?network=ethereum",
-            "description": "The PT-jrUSDe-2APR2026 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
             "subtitle": "USDe"
           },
           {
@@ -422,23 +373,9 @@
           },
           {
             "chainId": 1,
-            "address": "0x9bf45ab47747f4b4dd09b3c2c73953484b4eb375",
-            "integrationUrl": "https://app.euler.finance/positions/0x4f4afcdd8e418f5aa9130ba53af23cb7bf47f467/0x61aac438453d6e3513c0c8dbb69f13860e2b5028?network=ethereum",
-            "description": "The PT-srUSDe-2APR2026 is the asset used as collateral in an Euler market with eeUSDe-1 as the loan token.",
-            "subtitle": "eUSDe"
-          },
-          {
-            "chainId": 1,
             "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
             "integrationUrl": "https://app.euler.finance/positions/0x9dfe82d2a2419b143d99a36789c405f2d8072c1e/0x61aac438453d6e3513c0c8dbb69f13860e2b5028?network=ethereum",
             "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in an Euler market with eeUSDe-1 as the loan token.",
-            "subtitle": "eUSDe"
-          },
-          {
-            "chainId": 1,
-            "address": "0xd0609ac13000d88b0bebf5bb21074916edd92bb1",
-            "integrationUrl": "https://app.euler.finance/positions/0x2da35f6e88eaba4e705bff7154b259859c353953/0x61aac438453d6e3513c0c8dbb69f13860e2b5028?network=ethereum",
-            "description": "The PT-jrUSDe-2APR2026 is the asset used as collateral in an Euler market with eeUSDe-1 as the loan token.",
             "subtitle": "eUSDe"
           },
           {
