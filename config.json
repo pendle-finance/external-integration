@@ -10,34 +10,6 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 9745,
-            "address": "0x54dc267be2839303ff1e323584a16e86cec4aa44",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x54dc267be2839303ff1e323584a16e86cec4aa44&marketName=proto_plasma_v3",
-            "description": "PT-USDe-9APR2026 can be used as collateral to borrow USDT0 on Aave",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x54dc267be2839303ff1e323584a16e86cec4aa44",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x54dc267be2839303ff1e323584a16e86cec4aa44&marketName=proto_plasma_v3",
-            "description": "PT-USDe-9APR2026 can be used as collateral to borrow USDe on Aave",
-            "subtitle": "USDe"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xab509448ad489e2e1341e25cc500f2596464cc82",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xab509448ad489e2e1341e25cc500f2596464cc82&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow USDT0 on Aave",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xab509448ad489e2e1341e25cc500f2596464cc82",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xab509448ad489e2e1341e25cc500f2596464cc82&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow USDe on Aave",
-            "subtitle": "USDe"
-          },
-          {
             "chainId": 1,
             "address": "0xaebf0bb9f57e89260d57f31af34eb58657d96ce0",
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xaebf0bb9f57e89260d57f31af34eb58657d96ce0&marketName=proto_ethereum_v3",
@@ -92,20 +64,6 @@
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x3de0ff76e8b528c092d47b9dac775931cef80f49&marketName=proto_ethereum_v3",
             "description": "PT-sUSDE-7MAY2026 can be used as collateral to borrow USDtb on Aave",
             "subtitle": "USDtb"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x54dc267be2839303ff1e323584a16e86cec4aa44",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x54dc267be2839303ff1e323584a16e86cec4aa44&marketName=proto_plasma_v3",
-            "description": "PT-USDe-9APR2026 can be used as collateral to borrow GHO on Aave",
-            "subtitle": "GHO"
-          },
-          {
-            "chainId": 9745,
-            "address": "0xab509448ad489e2e1341e25cc500f2596464cc82",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xab509448ad489e2e1341e25cc500f2596464cc82&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow GHO on Aave",
-            "subtitle": "GHO"
           },
           {
             "chainId": 9745,
@@ -645,6 +603,13 @@
             "integrationUrl": "https://lista.org/lending/market/bsc/0x1fed91636b77dab38fd796e21580718aa51e8cf89e442a0268de786adc544596",
             "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply against U",
             "subtitle": "U"
+          },
+          {
+            "chainId": 56,
+            "address": "0x7eb92a12a15e8a019a26a8b344f1e59b14cb8ad3",
+            "integrationUrl": "https://lista.org/lending/market/bsc/0xca1432913a86b41eb10c66de79fe390b877c811a113755e9efb10f38de862450",
+            "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply against USDT",
+            "subtitle": "USDT"
           }
         ],
         "yt": [],
