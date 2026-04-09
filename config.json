@@ -698,13 +698,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x29fd7180e5cced14ad148c7997e6b6857a8be86e",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0x1cfdc0154ae6b9f1887a8250f2582d55606e1a2008e65108fb83dd50a928593e",
-            "description": "The PT-RLP-9APR2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
             "address": "0x9db38d74a0d29380899ad354121dfb521adb0548",
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x5cebfae10f5e88d33df2421923f3d9f32359429fda2f78edacc9b4fdb09b0553",
             "description": "The PT-USDG-28MAY2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
