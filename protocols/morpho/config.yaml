@@ -192,21 +192,5 @@ metadata:
       description: >-
         The PT-cUSD-23JUL2026 is the asset used as collateral in a Morpho market
         with AUSD as the loan token.
-    - chainId: 1
-      address: '0x619d75e3b790ebc21c289f2805bb7177a7d732e2'
-      subtitle: AUSD
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0x98caecbaec1d775784c8da1100849f006dd97a12561c51af28f5db63c4fd5fbd
-      description: >-
-        The PT-srUSDe-25JUN2026 is the asset used as collateral in a Morpho
-        market with AUSD as the loan token.
-    - chainId: 1
-      address: '0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83'
-      subtitle: AUSD
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0x54e42432a7c0309ba650080cab6fcff377034fd9de174bbd3a4b519186ffc0f8
-      description: >-
-        The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho
-        market with AUSD as the loan token.
   yt: []
   lp: []
