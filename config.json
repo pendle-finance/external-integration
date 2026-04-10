@@ -596,6 +596,13 @@
             "integrationUrl": "https://lista.org/lending/market/bsc/0x4d5db69438f73d026b81cda3d6263a32c3ea9a4b0a28d3d3be1ab9aec8a996cc",
             "description": "PT-USDe-7MAY2026 can be used as collateral to borrow or multiply against USD1",
             "subtitle": "USD1"
+          },
+          {
+            "chainId": 56,
+            "address": "0x7eb92a12a15e8a019a26a8b344f1e59b14cb8ad3",
+            "integrationUrl": "https://lista.org/lending/market/bsc/0x1fed91636b77dab38fd796e21580718aa51e8cf89e442a0268de786adc544596",
+            "description": "PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply against U",
+            "subtitle": "U"
           }
         ],
         "yt": [],
