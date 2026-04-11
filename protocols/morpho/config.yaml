@@ -208,5 +208,21 @@ metadata:
       description: >-
         The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho
         market with AUSD as the loan token.
+    - chainId: 1
+      address: '0x92a6a01b07984de46c24e8eba248449beb8b1dcb'
+      subtitle: apxUSD
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xf3814af4869a6ce59ffef016e555dd4c1e92bf383b5ab89abe496044c6364746
+      description: >-
+        The PT-apxUSD-18JUN2026 is the asset used as collateral in a Morpho
+        market with apxUSD as the loan token.
+    - chainId: 1
+      address: '0x3365554a61ceff74a76528f9e86c1e87946d16a5'
+      subtitle: apxUSD
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x04663e98d677d8ef38b76d5a19d1fddc1aff10a86b71dc7f01cd8f5a18a16f06
+      description: >-
+        The PT-apyUSD-18JUN2026 is the asset used as collateral in a Morpho
+        market with apxUSD as the loan token.
   yt: []
   lp: []
