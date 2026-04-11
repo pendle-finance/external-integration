@@ -571,13 +571,6 @@
         "pt": [
           {
             "chainId": 56,
-            "address": "0x67e84ba0196738a59ee58df848a2c16ed2a6a6f3",
-            "integrationUrl": "https://lista.org/lending/market/bsc/0xdee403936c6f4c64095e68301c0b5ea2d49fa36ed204b61d504f55b280079a36",
-            "description": "PT-USDe-9APR2026 can be used as collateral to borrow or multiply against USD1",
-            "subtitle": "USD1"
-          },
-          {
-            "chainId": 56,
             "address": "0xe052823b4aefc6e230faf46231a57d0905e30ae0",
             "integrationUrl": "https://lista.org/lending/market/bsc/0x02e3e78089e25120193128aac38cb28a6d9ef4d8aba8134a9235100f699ab26b",
             "description": "PT-clisBNB-25JUN2026 can be used as collateral to borrow or multiply against BNB",
