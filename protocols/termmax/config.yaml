@@ -460,5 +460,19 @@ metadata:
         https://app.termmax.ts.finance/borrow?chain=eth&search=cusdo
       description: >-
         Borrow USDC at a fixed rate with PT-cUSDO-28MAY2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x1d69402390657308c91179aa184bf992908c1e08'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-usdat
+      description: >-
+        Borrow USDC at a fixed rate with PT-USDat-27AUG2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0xc689f76f90fe1762fac55983ff25ae71033a84f7'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-usdat
+      description: >-
+        Borrow USDC at a fixed rate with PT-sUSDat-27AUG2026 as collateral on TermMax.
   yt: []
   lp: []
