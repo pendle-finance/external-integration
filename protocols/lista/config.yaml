@@ -6,36 +6,20 @@ description: Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions
 metadata:
   pt:
     - chainId: 56
-      address: '0xe052823b4aefc6e230faf46231a57d0905e30ae0'
+      address: '0x721105716ab5419f1aaadbbc7835e3eabd7e067d'
       integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x02e3e78089e25120193128aac38cb28a6d9ef4d8aba8134a9235100f699ab26b
+        https://lista.org/lending/market/bsc/0x0b8ebe5693745c6d664cf94930151cdd6f5cfebffe40932b63ad9a335b322a73
       description: >-
-        PT-clisBNB-25JUN2026 can be used as collateral to borrow or multiply
-        against BNB
-      subtitle: BNB
+        PT-sUSDE-7MAY2026 can be used as collateral to borrow or multiply
+        against USDT
+      subtitle: USDT
     - chainId: 56
-      address: '0x7eb92a12a15e8a019a26a8b344f1e59b14cb8ad3'
+      address: '0x54a8f370575fe98c305640d7d11b8aa2df451b13'
       integrationUrl: >-
-        https://lista.org/lending/market/bsc/0xc1264ae84203b5660478bba5cfe15d9f579aa98402fb073bff65c31040f12f1a
+        https://lista.org/lending/market/bsc/0xa44adcc94ded8fe976419e3ebb4fe149b9cdec4893e870eecb46541b11099268
       description: >-
-        PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply
-        against USD1
-      subtitle: USD1
-    - chainId: 56
-      address: '0x7e318884f6f299031f4fa88d7a324e076d460a4b'
-      integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x4d5db69438f73d026b81cda3d6263a32c3ea9a4b0a28d3d3be1ab9aec8a996cc
-      description: >-
-        PT-USDe-7MAY2026 can be used as collateral to borrow or multiply against
-        USD1
-      subtitle: USD1
-    - chainId: 56
-      address: '0x7eb92a12a15e8a019a26a8b344f1e59b14cb8ad3'
-      integrationUrl: >-
-        https://lista.org/lending/market/bsc/0x1fed91636b77dab38fd796e21580718aa51e8cf89e442a0268de786adc544596
-      description: >-
-        PT-sUSDE-9APR2026 can be used as collateral to borrow or multiply
-        against U
-      subtitle: U
+        PT-reUSD-25JUN2026 can be used as collateral to borrow or multiply
+        against USDT
+      subtitle: USDT
   yt: []
   lp: []
