@@ -160,13 +160,5 @@ metadata:
       description: >-
         The PT-reUSD-25JUN2026 is the asset used as collateral in a Morpho
         market with USDT as the loan token.
-    - chainId: 8453
-      address: '0x25cb814c094b3ee4b19bfcab4c190c53d7890635'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/base/market/0x5c01254d8549521b43f922e175a270f0ef2e00d5c5f3f343bcd5f8451dcf93fe
-      description: >-
-        The PT-apxUSD-18JUN2026 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
   yt: []
   lp: []
