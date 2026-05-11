@@ -474,5 +474,26 @@ metadata:
         https://app.termmax.ts.finance/borrow?chain=eth&search=pt-usdat
       description: >-
         Borrow USDC at a fixed rate with PT-sUSDat-27AUG2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x3a0f4beeb1bb41bb545a1ce54b905fa13c162e34'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-nusd
+      description: >-
+        Borrow USDC at a fixed rate with PT-jrNUSD-28MAY2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x82b853db31f025858792d8fa969f2a1dc245c179'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-nusd
+      description: >-
+        Borrow USDC at a fixed rate with PT-srNUSD-28MAY2026 as collateral on TermMax.
+    - chainId: 1
+      address: '0x1a69154f6f6247e4457332860fb173251a36e03f'
+      subtitle: Fixed-rate Borrow
+      integrationUrl: >-
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sierra
+      description: >-
+        Borrow USDC at a fixed rate with PT-SIERRA-02JUL2026 as collateral on TermMax.
   yt: []
   lp: []
