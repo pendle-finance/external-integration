@@ -21,5 +21,13 @@ metadata:
         PT-USDG-28MAY2026 can be used as collateral to borrow or multiply
         against USDT
       subtitle: USDT
+    - chainId: 56
+      address: '0x721105716ab5419f1aaadbbc7835e3eabd7e067d'
+      integrationUrl: >-
+        https://lista.org/lending/market/bsc/0x0b8ebe5693745c6d664cf94930151cdd6f5cfebffe40932b63ad9a335b322a73
+      description: >-
+        PT-sUSDE-7MAY2026 can be used as collateral to borrow or multiply
+        against USDT
+      subtitle: USDT
   yt: []
   lp: []
