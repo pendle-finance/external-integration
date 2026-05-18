@@ -1327,6 +1327,13 @@
             "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sierra",
             "description": "Borrow USDC at a fixed rate with PT-SIERRA-02JUL2026 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x2d433b943fb8c015ae409444b7f960ed288082b4",
+            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&search=pt-srusdat",
+            "description": "Borrow USDC at a fixed rate with PT-srUSDat-27AUG2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],
