@@ -1,7 +1,7 @@
 name: Morpho
 icon: logo.png
 category: Money Market
-url: https://app.morpho.org/ethereum/borrow
+url: 'https://app.morpho.org/ethereum/borrow'
 description: >-
   A permissionless and non-custodial lending protocol where users can earn
   interest on over-collaterized lending and borrow digital assets using
@@ -168,5 +168,21 @@ metadata:
       description: >-
         The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho
         market with AUSD as the loan token.
+    - chainId: 1
+      address: '0x1d69402390657308c91179aa184bf992908c1e08'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x69ef7fd17b42cd7df6d885aee1b11380837afbc1664b25587041cf193b31617b
+      description: >-
+        The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 1
+      address: '0x2d433b943fb8c015ae409444b7f960ed288082b4'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x42c2b592fc759fad461fb5c80d5ea214a496f70d8594398d69af68c2f3798de6
+      description: >-
+        The PT-srUSDat-27AUG2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
