@@ -4,33 +4,9 @@ category: Money Market
 description: >-
   Aave is a decentralised non-custodial liquidity protocol where users can
   participate as suppliers or borrowers
-url: https://app.aave.com/
+url: 'https://app.aave.com/'
 metadata:
   pt:
-    - chainId: 1
-      address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9db38d74a0d29380899ad354121dfb521adb0548&marketName=proto_ethereum_v3
-      description: PT-USDG-28MAY2026 can be used as collateral to borrow USDC on Aave
-    - chainId: 1
-      address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
-      subtitle: USDT
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9db38d74a0d29380899ad354121dfb521adb0548&marketName=proto_ethereum_v3
-      description: PT-USDG-28MAY2026 can be used as collateral to borrow USDT on Aave
-    - chainId: 1
-      address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
-      subtitle: USDe
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9db38d74a0d29380899ad354121dfb521adb0548&marketName=proto_ethereum_v3
-      description: PT-USDG-28MAY2026 can be used as collateral to borrow USDe on Aave
-    - chainId: 1
-      address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
-      subtitle: USDG
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9db38d74a0d29380899ad354121dfb521adb0548&marketName=proto_ethereum_v3
-      description: PT-USDG-28MAY2026 can be used as collateral to borrow USDG on Aave
     - chainId: 9745
       address: '0x30559e3d35e33ab69399a3fe9f383d32bd3c016e'
       subtitle: USDe
