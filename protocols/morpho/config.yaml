@@ -40,22 +40,6 @@ metadata:
       description: >-
         The PT-apxUSD-18JUN2026 is the asset used as collateral in a Morpho
         market with apxUSD as the loan token.
-    - chainId: 1
-      address: '0x82b853db31f025858792d8fa969f2a1dc245c179'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xc2bc5e1e304fb1ea103dcbee37ece3c7e9219fb4b2b19d8ffdf81c39f4fbf180
-      description: >-
-        The PT-srNUSD-28MAY2026 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
-    - chainId: 1
-      address: '0x6c65db1d88c8eda1e3debf2b2ef3d0ece8600466'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xb62aac664f81d19f21a158aa0373967ef60fd1ac8de4a9091bd225c007973ca6
-      description: >-
-        The PT-sNUSD-4JUN2026 is the asset used as collateral in a Morpho market
-        with USDC as the loan token.
     - chainId: 8453
       address: '0xc31e19dc6c8a90d628432e15bbd538aa8c789e5d'
       subtitle: USDC
@@ -105,22 +89,6 @@ metadata:
         The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho
         market with USDT as the loan token.
     - chainId: 1
-      address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0x5cebfae10f5e88d33df2421923f3d9f32359429fda2f78edacc9b4fdb09b0553
-      description: >-
-        The PT-USDG-28MAY2026 is the asset used as collateral in a Morpho market
-        with USDC as the loan token.
-    - chainId: 1
-      address: '0x9db38d74a0d29380899ad354121dfb521adb0548'
-      subtitle: AUSD
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0x16f269c5cc745b486060d42e21aef2f33edfe4b8cf6dce95e518a789469aae78
-      description: >-
-        The PT-USDG-28MAY2026 is the asset used as collateral in a Morpho market
-        with AUSD as the loan token.
-    - chainId: 1
       address: '0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2'
       subtitle: USDT
       integrationUrl: >-
@@ -128,14 +96,6 @@ metadata:
       description: >-
         The PT-reUSD-25JUN2026 is the asset used as collateral in a Morpho
         market with USDT as the loan token.
-    - chainId: 8453
-      address: '0x25cb814c094b3ee4b19bfcab4c190c53d7890635'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/base/market/0x5c01254d8549521b43f922e175a270f0ef2e00d5c5f3f343bcd5f8451dcf93fe
-      description: >-
-        The PT-apxUSD-18JUN2026 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
     - chainId: 1
       address: '0x619d75e3b790ebc21c289f2805bb7177a7d732e2'
       subtitle: USDC
@@ -183,6 +143,30 @@ metadata:
         https://app.morpho.org/unichain/market/0x87a686cc100aabe917f8e1ad58140a1b63f0edbb9650a32c0526718dc610b2d5
       description: >-
         The PT-cUSD-23JUL2026-(ETH) is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 1
+      address: '0xd341a146a4fd20ea89898e4d86ae1829bf3a1c23'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xf02d2e8f427a2b91785b3d09690ef9d3811bf674ba97b00bafc7665004a6dd97
+      description: >-
+        The PT-sUSDD-27AUG2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 1
+      address: '0xb5be35d8ff83d431899b95851cb17a2b4bcef150'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xb37c30f34bff11c81ee8400133965f450a5f7c5d81ba2cf5740076f49eabc95c
+      description: >-
+        The PT-apyUSD-5NOV2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 1
+      address: '0xaf687b5ecb525ccea96115088999b4ed80c388b6'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x908b037029b5c0671ba3b362eaf289c3199560d1d4632e6cb527cc7240fa006e
+      description: >-
+        The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
   yt: []
   lp: []
