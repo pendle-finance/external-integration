@@ -176,5 +176,13 @@ metadata:
       description: >-
         The PT-USD3-17DEC2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
+    - chainId: 1
+      address: '0xd341a146a4fd20ea89898e4d86ae1829bf3a1c23'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xdf6ca97d41975a6996e9db491cb38152b65d7c00807dfe15d95d8d76e5d122e0
+      description: >-
+        The PT-sUSDD-27AUG2026 is the asset used as collateral in a Morpho
+        market with USDT as the loan token.
   yt: []
   lp: []
