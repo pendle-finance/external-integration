@@ -176,5 +176,13 @@ metadata:
       description: >-
         The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho
         market with apxUSD as the loan token.
+    - chainId: 1
+      address: '0x5a19fa369f2895dcd8d2cee62e4ceae58ef92bbb'
+      subtitle: RLUSD
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x1749e02006bc6bd6a86af52d231511f6911d5e42318e028e51a28dfabc68dd47
+      description: >-
+        The PT-sUSDE-13AUG2026 is the asset used as collateral in a Morpho
+        market with RLUSD as the loan token.
   yt: []
   lp: []
