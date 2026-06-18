@@ -10,48 +10,6 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 9745,
-            "address": "0x30559e3d35e33ab69399a3fe9f383d32bd3c016e",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x30559e3d35e33ab69399a3fe9f383d32bd3c016e&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-18JUN2026 can be used as collateral to borrow USDe on Aave",
-            "subtitle": "USDe"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x30559e3d35e33ab69399a3fe9f383d32bd3c016e",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x30559e3d35e33ab69399a3fe9f383d32bd3c016e&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-18JUN2026 can be used as collateral to borrow USDT0 on Aave",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x30559e3d35e33ab69399a3fe9f383d32bd3c016e",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x30559e3d35e33ab69399a3fe9f383d32bd3c016e&marketName=proto_plasma_v3",
-            "description": "PT-sUSDE-18JUN2026 can be used as collateral to borrow GHO on Aave",
-            "subtitle": "GHO"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x23b17d3944742ace3d0c71586fcb320d1e4a1ed2",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x23b17d3944742ace3d0c71586fcb320d1e4a1ed2&marketName=proto_plasma_v3",
-            "description": "PT-USDe-18JUN2026 can be used as collateral to borrow USDe on Aave",
-            "subtitle": "USDe"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x23b17d3944742ace3d0c71586fcb320d1e4a1ed2",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x23b17d3944742ace3d0c71586fcb320d1e4a1ed2&marketName=proto_plasma_v3",
-            "description": "PT-USDe-18JUN2026 can be used as collateral to borrow USDT0 on Aave",
-            "subtitle": "USDT0"
-          },
-          {
-            "chainId": 9745,
-            "address": "0x23b17d3944742ace3d0c71586fcb320d1e4a1ed2",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x23b17d3944742ace3d0c71586fcb320d1e4a1ed2&marketName=proto_plasma_v3",
-            "description": "PT-USDe-18JUN2026 can be used as collateral to borrow GHO on Aave",
-            "subtitle": "GHO"
-          },
-          {
             "chainId": 1,
             "address": "0x619d75e3b790ebc21c289f2805bb7177a7d732e2",
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x619d75e3b790ebc21c289f2805bb7177a7d732e2&marketName=proto_ethereum_v3",
@@ -316,27 +274,6 @@
             "integrationUrl": "https://app.euler.finance/positions/0x18337806b02b02099209b05589e6db85acd4345c/0x87c414825ab3d1e9bdc773e9b1fd968822c9cf51?network=ethereum",
             "description": "The PT-hgETH-25JUN2026 is the asset used as collateral in an Euler market with eWETH-29 as the loan token.",
             "subtitle": "WETH"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xe46271ecb1d5c7c5134868760f10c18b03021ef1",
-            "integrationUrl": "https://app.euler.finance/positions/0x27b3b7f97ef233912384d0b5b3844173710f4d3c/0x44c10da836d2abe881b77bbb0b3dce5f85c0c1cc?network=arbitrumone",
-            "description": "The PT-thBILL-18JUN2026 is the asset used as collateral in an Euler market with eUSDC-6 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xe46271ecb1d5c7c5134868760f10c18b03021ef1",
-            "integrationUrl": "https://app.euler.finance/positions/0x27b3b7f97ef233912384d0b5b3844173710f4d3c/0x79e1f4a1cde92568d58eb823f81d9c0c7c384e6b?network=arbitrumone",
-            "description": "The PT-thBILL-18JUN2026 is the asset used as collateral in an Euler market with ethBILL-2 as the loan token.",
-            "subtitle": "thBILL"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xe46271ecb1d5c7c5134868760f10c18b03021ef1",
-            "integrationUrl": "https://app.euler.finance/positions/0x27b3b7f97ef233912384d0b5b3844173710f4d3c/0xee074ceb44ada094391b9c71a7fb8ba6962d492c?network=arbitrumone",
-            "description": "The PT-thBILL-18JUN2026 is the asset used as collateral in an Euler market with eUSD₮0-5 as the loan token.",
-            "subtitle": "USD₮0"
           }
         ],
         "yt": [],
