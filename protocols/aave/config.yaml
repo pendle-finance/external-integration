@@ -43,5 +43,23 @@ metadata:
       integrationUrl: >-
         https://app.aave.com/reserve-overview/?underlyingAsset=0xf7fb83435f455bd970f2d9f943f4eece1941b3e9&marketName=proto_plasma_v3
       description: PT-sUSDE-22OCT2026 can be used as collateral to borrow GHO on Aave
+    - chainId: 1
+      address: '0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34&marketName=proto_ethereum_v3
+      description: PT-srUSDe-22OCT2026 can be used as collateral to borrow USDT on Aave
+    - chainId: 1
+      address: '0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34&marketName=proto_ethereum_v3
+      description: PT-srUSDe-22OCT2026 can be used as collateral to borrow USDC on Aave
+    - chainId: 1
+      address: '0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34'
+      subtitle: USDe
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34&marketName=proto_ethereum_v3
+      description: PT-srUSDe-22OCT2026 can be used as collateral to borrow USDe on Aave
   yt: []
   lp: []
