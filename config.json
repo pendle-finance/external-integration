@@ -625,6 +625,13 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x1749e02006bc6bd6a86af52d231511f6911d5e42318e028e51a28dfabc68dd47",
             "description": "The PT-sUSDE-13AUG2026 is the asset used as collateral in a Morpho market with RLUSD as the loan token.",
             "subtitle": "RLUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0xecfafdc7741323a945a163ed068b5a3c43483957",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x1e9d614631a7df0ec07fb05b2c8cb2491575fd1a63a33bf187a6afb295a4fc64",
+            "description": "The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
