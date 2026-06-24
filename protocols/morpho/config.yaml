@@ -160,5 +160,13 @@ metadata:
       description: >-
         The PT-sUSDE-13AUG2026 is the asset used as collateral in a Morpho
         market with RLUSD as the loan token.
+    - chainId: 1
+      address: '0xecfafdc7741323a945a163ed068b5a3c43483957'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x1e9d614631a7df0ec07fb05b2c8cb2491575fd1a63a33bf187a6afb295a4fc64
+      description: >-
+        The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
