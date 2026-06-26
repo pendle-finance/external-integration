@@ -178,6 +178,28 @@
       "hash": "00f2c6db8ea2d3f7de8e5bc1135c4a6c"
     },
     {
+      "id": "curvance",
+      "name": "Curvance",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage.",
+      "url": "https://app.curvance.com/",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.curvance.com/",
+            "description": "PT-AUSD-08OCT2026 can be used as collateral to borrow AUSD on Curvance",
+            "subtitle": "AUSD"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "ce66a61ef84e1290321ab15d3a26a9b2"
+    },
+    {
       "id": "defisaver",
       "name": "DeFi Saver",
       "icon": "logo.png",
