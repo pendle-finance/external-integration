@@ -62,7 +62,7 @@
       "name": "AFI",
       "icon": "logo.png",
       "category": "yield strategy",
-      "description": "AFI is a decentralized, non-custodial protocol that coordinates a network of algorithmic agents designed to execute risk-aware DeFi strategies across chains, 24/7.",
+      "description": "AFI builds Proof-of-Reserve infrastructure for Real-World Assets, unlocking institutional-grade yield that’s fully composable in DeFi.",
       "url": "https://www.afiprotocol.ai/",
       "metadata": {
         "pt": [],
@@ -607,6 +607,39 @@
         "lp": []
       },
       "hash": "a6ac138dd5e646646eb429b6d45f1aa3"
+    },
+    {
+      "id": "odyssey",
+      "name": "Odyssey",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Odyssey provides one-click leveraged looping strategies across Pendle PTs and other supported assets using leading DeFi lending markets.",
+      "url": "https://app.odyssey.finance/en/loopr",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.odyssey.finance/en/loopr/strategy/e55481aa-c5c5-4b98-a1d5-bb1ba0e1c7ae",
+            "description": "One-click leveraged looping for this Pendle PT."
+          },
+          {
+            "chainId": 1,
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.odyssey.finance/en/loopr/strategy/99fb9261-3b78-42e9-b71e-8f157c117c4b",
+            "description": "One-click leveraged looping for this Pendle PT."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7f47c3e6b2c00fc4eb4d5ae50d0ab0ab6888eb4d",
+            "integrationUrl": "https://app.odyssey.finance/en/loopr/strategy/7529f260-2c79-4d96-b865-7f318d25b475",
+            "description": "One-click leveraged looping for this Pendle PT."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "e6f71b520d1d4bc8fc548b75f0e1dbc3"
     },
     {
       "id": "okx",
