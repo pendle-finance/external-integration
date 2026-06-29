@@ -1,0 +1,27 @@
+name: Odyssey
+icon: logo.png
+category: Yield Strategy
+url: 'https://app.odyssey.finance/en/loopr'
+description: >-
+  Odyssey provides one-click leveraged looping strategies across Pendle PTs and
+  other supported assets using leading DeFi lending markets.
+
+metadata:
+  pt:
+    - chainId: 1
+      address: '0x928FB6ED39100a92B2480f5cbB93453f98D9F4cE'
+      integrationUrl: 'https://app.odyssey.finance/en/loopr/strategy/e55481aa-c5c5-4b98-a1d5-bb1ba0e1c7ae'
+      description: One-click leveraged looping for this Pendle PT.
+
+    - chainId: 1
+      address: '0x2d3C279E5FcDF5b793c0a75ed90738D7369B0b83'
+      integrationUrl: 'https://app.odyssey.finance/en/loopr/strategy/99fb9261-3b78-42e9-b71e-8f157c117c4b'
+      description: One-click leveraged looping for this Pendle PT.
+
+    - chainId: 1
+      address: '0x7f47c3e6b2c00fC4eB4d5Ae50d0Ab0Ab6888Eb4D'
+      integrationUrl: 'https://app.odyssey.finance/en/loopr/strategy/7529f260-2c79-4d96-b865-7f318d25b475'
+      description: One-click leveraged looping for this Pendle PT.
+
+  yt: []
+  lp: []
