@@ -347,6 +347,13 @@
             "integrationUrl": "https://app.euler.finance/positions/0xe81157d2788f2cacf5902e803e172e1b6309086d/0x482c3e2530fac8fe2c63ae007ad2695c6d685e98?network=arbitrumone",
             "description": "The PT-USDai-15OCT2026 is the asset used as collateral in an Euler market with eUSD₮0-2 as the loan token.",
             "subtitle": "USD₮0"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.euler.finance/positions/0x70023ef5e6fb65fa133288e9826cbea3b173dd67/0x0f9ba9d0f2f9289efbc2b8505932b458c3cdcf64?network=143",
+            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in an Euler market with eAUSD-20 as the loan token.",
+            "subtitle": "AUSD"
           }
         ],
         "yt": [],
