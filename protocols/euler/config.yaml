@@ -133,5 +133,23 @@ metadata:
       description: >-
         The PT-earnAUSD-8OCT2026 is the asset used as collateral in an Euler
         market with eAUSD-19 as the loan token.
+    - chainId: 1
+      address: '0xecfafdc7741323a945a163ed068b5a3c43483957'
+      subtitle: AUSD
+      relatedAsset: '0xd5b786e64eb320940eefb1570fa4c82ec54dbf72'
+      integrationUrl: >-
+        https://app.euler.finance/positions/0x6876374e4ac054bfca389109570ae15b4d25e279/0xd5b786e64eb320940eefb1570fa4c82ec54dbf72?network=1
+      description: >-
+        The PT-reUSD-10DEC2026 is the asset used as collateral in an Euler
+        market with eAUSD-10 as the loan token.
+    - chainId: 1
+      address: '0x4ad88f62310d377c60f6b0c25bde8011f315eea7'
+      subtitle: AUSD
+      relatedAsset: '0xe4266ed0ed99cb8e24cd3bae221a336e09f0ce75'
+      integrationUrl: >-
+        https://app.euler.finance/positions/0xb101113cfc272367a33a4b3b725766ac1075c548/0xe4266ed0ed99cb8e24cd3bae221a336e09f0ce75?network=1
+      description: >-
+        The PT-STRCx-27AUG2026 is the asset used as collateral in an Euler
+        market with eAUSD-8 as the loan token.
   sy: []
   lp: []
