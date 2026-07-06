@@ -176,5 +176,13 @@ metadata:
       description: >-
         The PT-apyUSD-27AUG2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0xd28b0d694b8e814fa905a8b480b30691e18396eb'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x4483b864209c50da2be8fc75371db0e92fdc6bc8920d86fc9b56ea7383f8c9d1
+      description: >-
+        The PT-apxUSD-27AUG2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
