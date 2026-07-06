@@ -646,20 +646,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xb5be35d8ff83d431899b95851cb17a2b4bcef150",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0xebd23a871b52e0a8c92bd719f4413600101b69e946cb72923b3a33fb5bc6ec85",
-            "description": "The PT-apyUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
-            "subtitle": "apxUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0xaf687b5ecb525ccea96115088999b4ed80c388b6",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0xd86df29b48f2d88a0453027212247a29e68ff52c6589c46054f57285da2fa7e3",
-            "description": "The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
-            "subtitle": "apxUSD"
-          },
-          {
-            "chainId": 1,
             "address": "0x5a19fa369f2895dcd8d2cee62e4ceae58ef92bbb",
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x1749e02006bc6bd6a86af52d231511f6911d5e42318e028e51a28dfabc68dd47",
             "description": "The PT-sUSDE-13AUG2026 is the asset used as collateral in a Morpho market with RLUSD as the loan token.",
