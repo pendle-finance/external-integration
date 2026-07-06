@@ -692,6 +692,13 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x62878115c6ee109c256237eb6daef589d006258202682d2e210cad3bb19e0f09",
             "description": "The PT-apyUSD-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd28b0d694b8e814fa905a8b480b30691e18396eb",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x4483b864209c50da2be8fc75371db0e92fdc6bc8920d86fc9b56ea7383f8c9d1",
+            "description": "The PT-apxUSD-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
