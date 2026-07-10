@@ -699,6 +699,13 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0xd86df29b48f2d88a0453027212247a29e68ff52c6589c46054f57285da2fa7e3",
             "description": "The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
             "subtitle": "apxUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x2412afc9614939a5d994397fe0b94a4f6fb8bc02bfc139e1a5956a865e2efe26",
+            "description": "The PT-USDG-24SEP2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
