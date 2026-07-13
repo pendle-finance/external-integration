@@ -660,13 +660,6 @@
           },
           {
             "chainId": 1,
-            "address": "0xecfafdc7741323a945a163ed068b5a3c43483957",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0x6acd18854e43f93f5a90446004c35c72a68af1ad99f08cb247782ce6457914ca",
-            "description": "The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
             "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x02bb03bf55f07c3ed3eee8a25d8df60fb9d09a38db612f0e07cf5c4d3df0100d",
             "description": "The PT-USDG-24SEP2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
@@ -699,13 +692,6 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0xd86df29b48f2d88a0453027212247a29e68ff52c6589c46054f57285da2fa7e3",
             "description": "The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
             "subtitle": "apxUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0x2412afc9614939a5d994397fe0b94a4f6fb8bc02bfc139e1a5956a865e2efe26",
-            "description": "The PT-USDG-24SEP2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
           }
         ],
         "yt": [],
