@@ -192,5 +192,13 @@ metadata:
       description: >-
         The PT-AUSD-8OCT2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
+    - chainId: 1
+      address: '0xc1906aecf868749a2dee203f59b904c0cf212140'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0x2412afc9614939a5d994397fe0b94a4f6fb8bc02bfc139e1a5956a865e2efe26
+      description: >-
+        The PT-USDG-24SEP2026 is the asset used as collateral in a Morpho market
+        with USDC as the loan token.
   yt: []
   lp: []
