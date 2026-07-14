@@ -176,5 +176,21 @@ metadata:
       description: >-
         The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho
         market with apxUSD as the loan token.
+    - chainId: 42161
+      address: '0xc9d24ad0bb25f34098e226a8c5192dea7bacccae'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/arbitrum/market/0x97cb4b88a7a5e8e9c039b106374124e642395437ffc0ef93f2799343ad022985
+      description: >-
+        The PT-USDai-15OCT2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
+    - chainId: 143
+      address: '0x9fc74f8ed616b5baf52a170caa97d6d3898602d1'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/monad/market/0x93a7a013b5501cee5d9bee0d29bb3fca790196134c4c7058365e5bc6d2ad80a2
+      description: >-
+        The PT-AUSD-8OCT2026 is the asset used as collateral in a Morpho market
+        with USDC as the loan token.
   yt: []
   lp: []
