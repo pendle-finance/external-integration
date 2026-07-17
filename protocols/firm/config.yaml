@@ -1,0 +1,16 @@
+name: FiRM
+icon: logo.png
+category: Money Market
+url: https://inverse.finance/firm
+description: FiRM is a lending protocol offering users the ability to borrow at a fixed rate and one-click leverage up to 11.7x for Pendle PT-sUSDe collaterals.
+metadata:
+  pt:
+    - chainId: 1
+      address: '0x9F56094C450763769BA0EA9Fe2876070c0fD5F77'
+      subtitle: Up to 11.7x leverage
+      integrationUrl: >-
+        https://www.inverse.finance/firm/PT-sUSDe-25SEP25
+      description: >-
+        Leverage up to 11.7x on PT-sUSDe-25SEP2025 at a fixed net APY.
+  yt: []
+  lp: []

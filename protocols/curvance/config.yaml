@@ -1,0 +1,16 @@
+name: Curvance
+icon: logo.png
+category: Money Market
+description: >-
+  Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage.
+url: 'https://app.curvance.com/'
+metadata:
+  pt:
+    - chainId: 143
+      address: '0x9fc74f8ed616b5baf52a170caa97d6d3898602d1'
+      subtitle: AUSD
+      integrationUrl: >-
+        https://app.curvance.com/
+      description: PT-AUSD-08OCT2026 can be used as collateral to borrow AUSD on Curvance 
+  yt: []
+  lp: []

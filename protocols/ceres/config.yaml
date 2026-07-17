@@ -1,0 +1,22 @@
+name: ceres
+icon: logo.png
+category: Yield Strategy
+url: https://app.ceresfarm.fi/en/
+description: >-
+  Ceres Farm is a leveraged yield farming protocol built on Pendle PT markets.
+metadata:
+  pt:
+    - chainId: 146
+      address: "0x5ee17fd12ede62b508f9615db384ce7b834ba657"
+      integrationUrl: https://app.ceresfarm.fi/en/vault/0x8d6ed65d53a1587a98c0ae293768bc7bbce87463
+      description: >-
+        Smart Vault leverages PT-smsUSD for boosted fixed yield with automated rebalancing and compounding.
+      subtitle: smsUSD
+    - chainId: 146
+      address: "0x200338559c1975d1f216adcda8352aff2869afab"
+      integrationUrl: https://app.ceresfarm.fi/en/vault/0x29449d2c5E3A59Ff31c80adfbA3B8EC1C656427F
+      description: >-
+        Smart Vault leverages PT-wOS for boosted fixed yield with automated rebalancing and compounding.
+      subtitle: wOS
+  yt: []
+  lp: []

@@ -10,34 +10,66 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 1,
-            "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x50d2c7992b802eef16c04feadab310f31866a545&marketName=proto_mainnet_v3",
-            "description": "PT-eUSDe-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
+            "chainId": 9745,
+            "address": "0xf7fb83435f455bd970f2d9f943f4eece1941b3e9",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf7fb83435f455bd970f2d9f943f4eece1941b3e9&marketName=proto_plasma_v3",
+            "description": "PT-sUSDE-22OCT2026 can be used as collateral to borrow USDe on Aave",
+            "subtitle": "USDe"
+          },
+          {
+            "chainId": 9745,
+            "address": "0xf7fb83435f455bd970f2d9f943f4eece1941b3e9",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf7fb83435f455bd970f2d9f943f4eece1941b3e9&marketName=proto_plasma_v3",
+            "description": "PT-sUSDE-22OCT2026 can be used as collateral to borrow USDT0 on Aave",
+            "subtitle": "USDT0"
+          },
+          {
+            "chainId": 9745,
+            "address": "0xf7fb83435f455bd970f2d9f943f4eece1941b3e9",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf7fb83435f455bd970f2d9f943f4eece1941b3e9&marketName=proto_plasma_v3",
+            "description": "PT-sUSDE-22OCT2026 can be used as collateral to borrow GHO on Aave",
+            "subtitle": "GHO"
           },
           {
             "chainId": 1,
-            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x3b3fb9c57858ef816833dc91565efcd85d96f634&marketName=proto_mainnet_v3",
-            "description": "PT-sUSDE-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
+            "address": "0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34&marketName=proto_ethereum_v3",
+            "description": "PT-srUSDe-22OCT2026 can be used as collateral to borrow USDT on Aave",
+            "subtitle": "USDT"
           },
           {
             "chainId": 1,
-            "address": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x14bdc3a3ae09f5518b923b69489cbcafb238e617&marketName=proto_mainnet_v3",
-            "description": "PT-eUSDe-14AUG2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
+            "address": "0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34&marketName=proto_ethereum_v3",
+            "description": "PT-srUSDe-22OCT2026 can be used as collateral to borrow USDC on Aave",
+            "subtitle": "USDC"
           },
           {
             "chainId": 1,
-            "address": "0x917459337caac939d41d7493b3999f571d20d667",
-            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x917459337caac939d41d7493b3999f571d20d667&marketName=proto_mainnet_v3",
-            "description": "PT-USDe-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets on Aave"
+            "address": "0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34&marketName=proto_ethereum_v3",
+            "description": "PT-srUSDe-22OCT2026 can be used as collateral to borrow USDe on Aave",
+            "subtitle": "USDe"
           }
         ],
         "yt": [],
         "lp": []
       },
       "hash": "000b94ab85b7b18f10c51aba4cc505b0"
+    },
+    {
+      "id": "afi",
+      "name": "AFI",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "AFI builds Proof-of-Reserve infrastructure for Real-World Assets, unlocking institutional-grade yield that’s fully composable in DeFi.",
+      "url": "https://www.afiprotocol.ai/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "99319039f776f0215dd538bb69921cd4"
     },
     {
       "id": "binance",
@@ -82,6 +114,35 @@
       "hash": "961d4dd0cb7c1db18882790396b96a06"
     },
     {
+      "id": "ceres",
+      "name": "ceres",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Ceres Farm is a leveraged yield farming protocol built on Pendle PT markets.",
+      "url": "https://app.ceresfarm.fi/en/",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 146,
+            "address": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
+            "integrationUrl": "https://app.ceresfarm.fi/en/vault/0x8d6ed65d53a1587a98c0ae293768bc7bbce87463",
+            "description": "Smart Vault leverages PT-smsUSD for boosted fixed yield with automated rebalancing and compounding.",
+            "subtitle": "smsUSD"
+          },
+          {
+            "chainId": 146,
+            "address": "0x200338559c1975d1f216adcda8352aff2869afab",
+            "integrationUrl": "https://app.ceresfarm.fi/en/vault/0x29449d2c5E3A59Ff31c80adfbA3B8EC1C656427F",
+            "description": "Smart Vault leverages PT-wOS for boosted fixed yield with automated rebalancing and compounding.",
+            "subtitle": "wOS"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "9653a24180683cf23b73b6c1d37d6b58"
+    },
+    {
       "id": "coinbase",
       "name": "Coinbase",
       "icon": "logo.png",
@@ -105,189 +166,9 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 42161,
-            "address": "0xe2b2d203577c7cb3d043e89ccf90b5e24d19b66f",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x355ec27c9d4530de01a103fa27f884a2f3da65ef",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x8db96f2fccf7cdd74a60e8eff5801df043cd11de",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x1255638efeca62e12e344e0b6b22ea853ec6e2c7",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x685155d3bd593508fe32be39729810a591ed9c87",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 42161,
-            "address": "0x1fa42e6730df74ff2742704761da41111bb7f019",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=42161",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
             "chainId": 1,
-            "address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xee9085fc268f6727d5d4293dbabccf901ffdcc29",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb07b9fdd62dc478e521e8bde3630a777725b0eb4",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb997b3418935a1df0f914ee901ec83927c1509a0",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xf6fd7ceb095bfd54130359cc9366a1493944213a",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x23e479ddcda990e8523494895759bd98cd2fdbf6",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe00bd3df25fb187d6abbb620b3dfd19839947b81",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x44a7876ca99460ef3218bf08b5f52e2dbe199566",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x5bae9a5d67d1ca5b09b14c91935f635cfbf3b685",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xae5099c39f023c91d3dd55244cafb36225b0850e",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x270d664d2fc7d962012a787aec8661ca83df24eb",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6e43f6abce001c14c7115d20908d0c272338eaf1",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe08c45f3cfe70f4e03668dc6e84af842bee95a68",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=8453",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xf696fe29ef85e892b5926313897d178288faa07e",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x917459337caac939d41d7493b3999f571d20d667",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6ca4d5d2ecb72e3bbf17543b3367746b80d22694",
-            "integrationUrl": "https://app.contango.xyz/strategies/leveraged-staking/btc?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0xae4be3acd95b6a4ac5a0524ab95da90c721f6c83",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
-            "description": "PT leverage looping through various supported money markets"
-          },
-          {
-            "chainId": 1,
-            "address": "0x23e60d1488525bf4685f53b3aa8e676c30321066",
-            "integrationUrl": "https://app.contango.xyz/strategies/farming/usd-stablecoins?selectedChains=1",
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.contango.xyz/",
             "description": "PT leverage looping through various supported money markets"
           }
         ],
@@ -295,6 +176,42 @@
         "lp": []
       },
       "hash": "00f2c6db8ea2d3f7de8e5bc1135c4a6c"
+    },
+    {
+      "id": "curvance",
+      "name": "Curvance",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage.",
+      "url": "https://app.curvance.com/",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.curvance.com/",
+            "description": "PT-AUSD-08OCT2026 can be used as collateral to borrow AUSD on Curvance",
+            "subtitle": "AUSD"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "ce66a61ef84e1290321ab15d3a26a9b2"
+    },
+    {
+      "id": "defisaver",
+      "name": "DeFi Saver",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "DeFi Saver is an all-in-one management tool for DeFi protocols such as Aave, Compound, Fluid, Morpho, Sky and more.",
+      "url": "https://app.defisaver.com/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "6de0cd33fd2e8862f51e82564ce2c260"
     },
     {
       "id": "dolomite",
@@ -334,268 +251,144 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 80094,
-            "address": "0x2719e657ec3b3cbe521a18e640ca55799836376f",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-25SEP2025&network=berachain",
-            "description": "PT-sUSDE-25SEP2025 can be used as collateral to borrow or multiply against a variety of assets on Berachain"
-          },
-          {
-            "chainId": 56,
-            "address": "0xdd809435ba6c9d6903730f923038801781ca66ce",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-26JUN2025&network=bnbsmartchain",
-            "description": "PT-sUSDE-26JUN2025 can be used as collateral to borrow or multiply against stables on Euler"
-          },
-          {
-            "chainId": 8453,
-            "address": "0xec443e7e0e745348e500084892c89218b3ba4683",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USR-24APR2025&network=base",
-            "description": "PT-USR-24APR2025 can be used as collateral to borrow or multiply against Apostro Resolv's USR or USDC on Euler"
-          },
-          {
-            "chainId": 146,
-            "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-wstkscUSD-29MAY2025&network=sonic",
-            "description": "PT-wstkscUSD-29MAY2025 can be used as collateral to borrow or multiply against MEV Capital's USDC.e on Euler"
-          },
-          {
-            "chainId": 146,
-            "address": "0xa2161e75edf50d70544e6588788a5732a3105c00",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-wstkscETH-29MAY2025&network=sonic",
-            "description": "PT-wstkscETH-29MAY2025 can be used as collateral to borrow or multiply against MEV Capital's WETH on Euler"
-          },
-          {
-            "chainId": 146,
-            "address": "0x420df605d062f8611efb3f203bf258159b8fffde",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-stS-29MAY2025&network=sonic",
-            "description": "PT-stS-29MAY2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler"
-          },
-          {
-            "chainId": 146,
-            "address": "0x46eb02b9f47634c4fab3110cc7adc1c6311dfac1",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-wOS-29MAY2025&network=sonic",
-            "description": "PT-wOS-29MAY2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler"
+            "chainId": 1,
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.euler.finance/positions/0x9dfe82d2a2419b143d99a36789c405f2d8072c1e/0x20622fcd4476fbc9d5ef36ebd371307a56d9028c?network=ethereum",
+            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in an Euler market with efrxUSD-1 as the loan token.",
+            "subtitle": "frxUSD"
           },
           {
             "chainId": 1,
-            "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-eUSDE-29MAY2025&network=ethereum",
-            "description": "PT-eUSDE-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.euler.finance/positions/0x9dfe82d2a2419b143d99a36789c405f2d8072c1e/0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6?network=ethereum",
+            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
+            "subtitle": "USDe"
           },
           {
             "chainId": 1,
-            "address": "0xf696fe29ef85e892b5926313897d178288faa07e",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USD0%2B%2B-26JUN2025&network=ethereum",
-            "description": "PT-USD0++-26JUN2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.euler.finance/positions/0x9dfe82d2a2419b143d99a36789c405f2d8072c1e/0x61aac438453d6e3513c0c8dbb69f13860e2b5028?network=ethereum",
+            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in an Euler market with eeUSDe-1 as the loan token.",
+            "subtitle": "eUSDe"
           },
           {
             "chainId": 1,
-            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-sUSDE-29MAY2025",
-            "description": "PT-sUSDE-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.euler.finance/positions/0xd5f9afc441ca3f72b22d0b60d53e55b966c8de64/0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6?network=ethereum",
+            "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
+            "subtitle": "USDe"
           },
           {
             "chainId": 1,
-            "address": "0xae4be3acd95b6a4ac5a0524ab95da90c721f6c83",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USR-29MAY2025&network=ethereum",
-            "description": "PT-USR-29MAY2025 can be used as collateral to borrow or multiply against USDC or USR within Resolv markets on Euler"
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.euler.finance/positions/0xd5f9afc441ca3f72b22d0b60d53e55b966c8de64/0xe0a80d35bb6618cba260120b279d357978c42bce?network=ethereum",
+            "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in an Euler market with eUSDC-22 as the loan token.",
+            "subtitle": "USDC"
           },
           {
             "chainId": 1,
-            "address": "0x23e60d1488525bf4685f53b3aa8e676c30321066",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-wstUSR-25SEP2025&network=ethereum",
-            "description": "PT-wstUSR-25SEP2025 can be used as collateral to borrow or multiply against Apostro Resolv's USDC or USR on Euler"
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.euler.finance/positions/0xd5f9afc441ca3f72b22d0b60d53e55b966c8de64/0x7c280dbdef569e96c7919251bd2b0edf0734c5a8?network=ethereum",
+            "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in an Euler market with eUSDT-9 as the loan token.",
+            "subtitle": "USDT"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xb459db106f645d698e74027eef6019a26a0675cc",
+            "integrationUrl": "https://app.euler.finance/positions/0xcc6700f5326b2f8930660c483b4d5ce904b815c6/0x6afb8d3f6d4a34e9cb2f217317f4dc8e05aa673b?network=arbitrumone",
+            "description": "The PT-sUSDai-15OCT2026 is the asset used as collateral in an Euler market with eUSDC-2 as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xb459db106f645d698e74027eef6019a26a0675cc",
+            "integrationUrl": "https://app.euler.finance/positions/0xcc6700f5326b2f8930660c483b4d5ce904b815c6/0x482c3e2530fac8fe2c63ae007ad2695c6d685e98?network=arbitrumone",
+            "description": "The PT-sUSDai-15OCT2026 is the asset used as collateral in an Euler market with eUSD₮0-2 as the loan token.",
+            "subtitle": "USD₮0"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
+            "integrationUrl": "https://app.euler.finance/positions/0xe81157d2788f2cacf5902e803e172e1b6309086d/0x6afb8d3f6d4a34e9cb2f217317f4dc8e05aa673b?network=arbitrumone",
+            "description": "The PT-USDai-15OCT2026 is the asset used as collateral in an Euler market with eUSDC-2 as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
+            "integrationUrl": "https://app.euler.finance/positions/0xe81157d2788f2cacf5902e803e172e1b6309086d/0x482c3e2530fac8fe2c63ae007ad2695c6d685e98?network=arbitrumone",
+            "description": "The PT-USDai-15OCT2026 is the asset used as collateral in an Euler market with eUSD₮0-2 as the loan token.",
+            "subtitle": "USD₮0"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.euler.finance/positions/0xf3e55a17c4c59cb70ea44973795fa8f3c3baad72/0x248c74aa002a571c340a3d894aaf294884a49be1?network=143",
+            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in an Euler market with eAUSD-18 as the loan token.",
+            "subtitle": "AUSD"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.euler.finance/positions/0x70023ef5e6fb65fa133288e9826cbea3b173dd67/0x0f9ba9d0f2f9289efbc2b8505932b458c3cdcf64?network=143",
+            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in an Euler market with eAUSD-20 as the loan token.",
+            "subtitle": "AUSD"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.euler.finance/positions/0x70023ef5e6fb65fa133288e9826cbea3b173dd67/0xa8120b07af194e724803e23f75aafb2e0cd7caaa?network=143",
+            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in an Euler market with eUSDC-16 as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 143,
+            "address": "0xdaf216939826acaba0c2312f7e30a890213845cd",
+            "integrationUrl": "https://app.euler.finance/positions/0xc4fabe0b5a280163ab47e3162689a278c81df3f9/0x7cc566d100e81a9708fd23b18f6b92d3249430c9?network=143",
+            "description": "The PT-earnAUSD-8OCT2026 is the asset used as collateral in an Euler market with eAUSD-19 as the loan token.",
+            "subtitle": "AUSD"
           },
           {
             "chainId": 1,
-            "address": "0xa8c8861b5ccf8cce0ade6811cd2a7a7d3222b0b8",
-            "integrationUrl": "https://app.euler.finance/borrow?market=resolv&collateralAsset=PT-wstUSR-27MAR2025",
-            "description": "PT-wstUSR-27MAR2025 can be used as collateral to borrow or multiply against Apostro's Resolv wstUSR on Euler"
+            "address": "0xecfafdc7741323a945a163ed068b5a3c43483957",
+            "integrationUrl": "https://app.euler.finance/positions/0x6876374e4ac054bfca389109570ae15b4d25e279/0xd5b786e64eb320940eefb1570fa4c82ec54dbf72?network=1",
+            "description": "The PT-reUSD-10DEC2026 is the asset used as collateral in an Euler market with eAUSD-10 as the loan token.",
+            "subtitle": "AUSD"
           },
           {
             "chainId": 1,
-            "address": "0x61439b9575278054d69c9176d88fafaf8319e4b7",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USD0++-30JAN2025&chainId=1",
-            "description": "PT-USD0++-30JAN2025 can be used as collateral to borrow or multiply against Euler Yield wM or Euler Yield USDC on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0x5bae9a5d67d1ca5b09b14c91935f635cfbf3b685",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USD0++-27MAR2025&chainId=1",
-            "description": "PT-USD0++-27MAR2025 can be used as collateral to borrow or multiply against Euler Yield wM or Euler Yield USDC on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe00bd3df25fb187d6abbb620b3dfd19839947b81",
-            "integrationUrl": "https://app.euler.finance/positions/0xcf47fBe97aaE77B8ABEa5e1F59c9bcb808A8d47d/0x8dDE384022D4dE1D6C67891a8865f551c444dc4C",
-            "description": "PT-sUSDE-27MAR2025 can be used as collateral to borrow or multiply against Stablecoin Maxi sUSDE on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0x8a47b431a7d947c6a3ed6e42d501803615a97eaa",
-            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-USDe-27MAR2025",
-            "description": "PT-USDe-27MAR2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0xec5a52c685cc3ad79a6a347abace330d69e0b1ed",
-            "integrationUrl": "https://app.euler.finance/positions/0xBc99605074737d36266f45E0d192dDe6CFDFd72a/0xA2038a5B7Ce1C195F0C52b77134c5369CCfe0148",
-            "description": "PT-LBTC-27MAR2025 can be used as collateral to borrow or multiply against Apostro BTC Cluster's LBTC on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-cUSDO-19JUN2025&network=ethereum",
-            "description": "PT-cUSDO-19JUN2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 8453,
-            "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USR-25SEP2025&network=base",
-            "description": "PT-USR-25SEP2025 can be used as collateral to borrow or multiply against Apostro Resolv's USR or USDC on Euler"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-LBTC-29MAY2025&network=base",
-            "description": "PT-LBTC-29MAY2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDE-31JUL2025&network=ethereum",
-            "description": "PT-sUSDE-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 146,
-            "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-aSonUSDC-14AUG2025&network=sonic",
-            "description": "PT-aSonUSDC-14AUG2025 can be used as collateral to borrow or multiply against scUSD or USDC.e on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-syrupUSDC-28AUG2025&network=ethereum",
-            "description": "PT-syrupUSDC-28AUG2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0xedce58c0d14a9beaa4f053ebdbdb2df83f211118",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USN-31JUL2025&network=ethereum",
-            "description": "PT-USN-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0x742b4166878bfd339db65a29a17e49b81a6b6aac",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-RLP-4SEP2025&network=ethereum",
-            "description": "PT-RLP-4SEP2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-eUSDE-14AUG2025&network=ethereum",
-            "description": "PT-eUSDE-14AUG2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 146,
-            "address": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-wstkscETH-18DEC2025&network=sonic",
-            "description": "PT-wstkscETH-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's WETH on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0x1132065009850c72e27b7950c0f9285d1d103589",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-mMEV-31JUL2025&network=ethereum",
-            "description": "PT-mMEV-31JUL2025 can be used to earn yield by lending out within Euler "
-          },
-          {
-            "chainId": 1,
-            "address": "0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-lvlUSD-25SEP2025&network=ethereum",
-            "description": "PT-lvlUSD-25SEP2025 can be used to earn yield by lending out within Euler "
-          },
-          {
-            "chainId": 1,
-            "address": "0x2ca5f2c4300450d53214b00546795c1c07b89acb",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-slvlUSD-25SEP2025&network=ethereum",
-            "description": "PT-slvlUSD-25SEP2025 can be used to earn yield by lending out within Euler "
-          },
-          {
-            "chainId": 1,
-            "address": "0x7f01d0fce9bc646389483384c41b4d71c7139f11",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-mEDGE-31JUL2025&network=ethereum",
-            "description": "PT-mEDGE-31JUL2025 can be used to earn yield by lending out within Euler "
-          },
-          {
-            "chainId": 146,
-            "address": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-wstkscETH-18DEC2025&network=sonic",
-            "description": "PT-wstkscETH-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's WETH on Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0x7c5aa3e49d46e582f50287f70695278d962392df",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSN-31JUL2025&network=ethereum",
-            "description": "PT-sUSN-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0xffec096c087c13cc268497b89a613cace4df9a48",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDS-14AUG2025&network=ethereum",
-            "description": "PT-USDS-14AUG2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-cUSDO-20NOV2025&network=ethereum",
-            "description": "PT-cUSDO-20NOV2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0x076bda095a434a7b00733115a0d679de6478d9f8",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-YU-4SEP2025&network=ethereum",
-            "description": "PT-YU-4SEP2025 can be used as collateral to borrow or multiply against USDC "
-          },
-          {
-            "chainId": 1,
-            "address": "0xab365c0879024481e4ad3b47bd6fea9c10014fbc",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-sUSDf-25SEP2025&network=ethereum",
-            "description": "PT-sUSDf-25SEP2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0x136389d329968bd82efe05f0911eeb20ee74a138",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-USD0%2B%2B-27NOV2025&network=ethereum",
-            "description": "PT-USD0++-27NOV2025 can be used to earn yield by lending out within Euler "
-          },
-          {
-            "chainId": 1,
-            "address": "0x5a5b93f762739fa94f3ecc0b34af2e56702e7f70",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-USR-4SEP2025&network=ethereum",
-            "description": "PT-USR-4SEP2025 can be used to earn yield by lending out within Euler"
-          },
-          {
-            "chainId": 1,
-            "address": "0x917459337caac939d41d7493b3999f571d20d667",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-USDe-31JUL2025&network=ethereum",
-            "description": "PT-USDe-31JUL2025 can be used as collateral to borrow or multiply against a variety of assets within Euler Yield"
-          },
-          {
-            "chainId": 1,
-            "address": "0x5b1578e2604b91bd7b24f86f0e5ef6c024bb3a14",
-            "integrationUrl": "https://app.euler.finance/?asset=PT-hgETH-25JUN2026&network=ethereum",
-            "description": "PT-hgETH-25JUN2026 can be used to earn yield by lending out within Euler"
-          },
-          {
-            "chainId": 146,
-            "address": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
-            "integrationUrl": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-stS-18DEC2025&network=sonic",
-            "description": "PT-stS-18DEC2025 can be used as collateral to borrow or multiply against MEV Capital's wS on Euler"
+            "address": "0x4ad88f62310d377c60f6b0c25bde8011f315eea7",
+            "integrationUrl": "https://app.euler.finance/positions/0xb101113cfc272367a33a4b3b725766ac1075c548/0xe4266ed0ed99cb8e24cd3bae221a336e09f0ce75?network=1",
+            "description": "The PT-STRCx-27AUG2026 is the asset used as collateral in an Euler market with eAUSD-8 as the loan token.",
+            "subtitle": "AUSD"
           }
         ],
         "yt": [],
         "lp": []
       },
       "hash": "ee96cfc33805516c97322b31855cd579"
+    },
+    {
+      "id": "firm",
+      "name": "FiRM",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "FiRM is a lending protocol offering users the ability to borrow at a fixed rate and one-click leverage up to 11.7x for Pendle PT-sUSDe collaterals.",
+      "url": "https://inverse.finance/firm",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://www.inverse.finance/firm/PT-sUSDe-25SEP25",
+            "description": "Leverage up to 11.7x on PT-sUSDe-25SEP2025 at a fixed net APY.",
+            "subtitle": "Up to 11.7x leverage"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "20bf63629b196d340e937e98dc4669ae"
     },
     {
       "id": "gateio",
@@ -639,6 +432,55 @@
       "hash": "d3dafc61f58da855482a726fdd32bf82"
     },
     {
+      "id": "hyperlend",
+      "name": "HyperLend",
+      "icon": "logo.png",
+      "category": "money market",
+      "description": "HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency",
+      "url": "https://app.hyperlend.finance",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 999,
+            "address": "0x311db0fde558689550c68355783c95efdfe25329",
+            "integrationUrl": "https://app.hyperlend.finance/markets/0x311dB0FDe558689550c68355783c95eFDfe25329",
+            "description": "PT-kHYPE-13NOV2025 can be used as collateral to borrow a variety of assets"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "f93177e454ae5b4068921b35e571179b"
+    },
+    {
+      "id": "infinifi",
+      "name": "infiniFi",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "infiniFi automates borrow-short, lend-long asset management to achieve superior returns on Pendle PTs without the hassle of manual rollovers.  Higher Yield.  No leverage.",
+      "url": "https://infinifi.xyz",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "66ff93644b9971a66d33674f4f454552"
+    },
+    {
+      "id": "infinit",
+      "name": "INFINIT",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Navigate DeFi with INFINIT - Discover, evaluate, and execute DeFi with AI agents.",
+      "url": "https://app.infinit.tech/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "f29ae557233931298f810f1431408d69"
+    },
+    {
       "id": "insurace",
       "name": "InsurACE",
       "icon": "logo.png",
@@ -653,6 +495,27 @@
       "hash": "7c8e22682a7aed04944817f466c2f215"
     },
     {
+      "id": "lagoon",
+      "name": "Lagoon",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products.",
+      "url": "https://app.lagoon.finance",
+      "metadata": {
+        "pt": [],
+        "yt": [
+          {
+            "chainId": 1,
+            "address": "0xfd13947c881bd183c0ec32e7ef65d62c4214d72c",
+            "integrationUrl": "https://app.lagoon.finance/vault/1/0x75E5941d4456dfe6D3cD8E0f844a5fcBd3157cA0",
+            "description": "Deposit fxSAVE YT 30APR2026 and earn 1000 $FXN incentives from f(x) Protocol on top of the underlying yield."
+          }
+        ],
+        "lp": []
+      },
+      "hash": "cb444f68221e932ea73b5ccf5dbb6169"
+    },
+    {
       "id": "lista",
       "name": "Lista Lending",
       "icon": "logo.png",
@@ -660,7 +523,15 @@
       "description": "Redefining BNB with Liquid Staking, Lista Lending and CDP Solutions",
       "url": "https://lista.org/lending",
       "metadata": {
-        "pt": [],
+        "pt": [
+          {
+            "chainId": 56,
+            "address": "0x1e798c7fce8b3cdce8950f8ff5a0c62f1dc7d532",
+            "integrationUrl": "https://lista.org/lending/market/bsc/0x0ea1212e590eb38d2cd646faabe1dcb5ec1aaebff39701f2a3558399b44397a6",
+            "description": "PT-sUSDai-15OCT2026 can be used as collateral to borrow or multiply against USDT",
+            "subtitle": "USDT"
+          }
+        ],
         "yt": [],
         "lp": []
       },
@@ -677,390 +548,203 @@
         "pt": [
           {
             "chainId": 1,
-            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
-            "integrationUrl": "https://app.morpho.org/market?id=0x407d8c123443d362ffdfe73208068ef158a21d1a44a988c9acc23a51bade7905&network=mainnet",
-            "description": "The PT-sUSDE-29MAY2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
-            "integrationUrl": "https://app.morpho.org/market?id=0x8d177cc2597296e8ff4816be51fe2482add89de82bdfaba3118c7948a6b2bc02&network=mainnet",
-            "description": "The PT-sUSDE-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x702b7ec7628de2622e51e1bb34a7e6ad9e95f3a25a2ed361e4ce621f23f5e642",
+            "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           },
           {
             "chainId": 1,
-            "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
-            "integrationUrl": "https://app.morpho.org/market?id=0xae4571cdcad4191b9a59d1bb27a10a1b05c92c84fe423e4886d5781a30a9c8f1&network=mainnet",
-            "description": "The PT-eUSDE-29MAY2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
-            "integrationUrl": "https://app.morpho.org/market?id=0x21e55c99123958ff5667f824948c97d0f64dfaa6e2848062e72bc68d200d35f9&network=mainnet",
-            "description": "The PT-eUSDE-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
-            "integrationUrl": "https://app.morpho.org/market?id=0x457b54a03c6bba984470d5687ec6df7967c0168bdc0052315713bfd287cd576c&network=mainnet",
-            "description": "The PT-cUSDO-19JUN2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.morpho.org/market?id=0xb81eaed0df42ff6646c8daf4fe38afab93b13b6a89c9750d08e705223a45e2ef&network=mainnet",
-            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.morpho.org/market?id=0xbc552f0b14dd6f8e60b760a534ac1d8613d3539153b4d9675d697e048f2edc7e&network=mainnet",
-            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
-            "integrationUrl": "https://app.morpho.org/market?id=0x9a697eb760dd12aaea23699c96ea2ebbfe48b7af64138d92c4d232b9ed380024&network=base",
-            "description": "The PT-LBTC-29MAY2025 is the asset used as collateral in a Morpho market with cbBTC as the loan token.",
-            "subtitle": "cbBTC"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
-            "integrationUrl": "https://app.morpho.org/market?id=0x12c37bd01e0050e15e85e37b6bfd9a9bc357e7881a4589b6873f94512af1ce66&network=base",
-            "description": "The PT-LBTC-29MAY2025 is the asset used as collateral in a Morpho market with LBTC as the loan token.",
-            "subtitle": "LBTC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x4d4062bad41e03b1cdee4c06263f96eb81832341",
-            "integrationUrl": "https://app.morpho.org/market?id=0xeb3e4a68c675d88f5a4378eab966e717bdee6a0f38c5ca6da2560ac5d1534f60&network=mainnet",
-            "description": "The PT-slvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x9bca74f805ab0a22ddd0886db0942199a0feba71",
-            "integrationUrl": "https://app.morpho.org/market?id=0x185df29d35001b5657c9c964284ddbeee83a40c83e6c6e89432463e2157e075c&network=mainnet",
-            "description": "The PT-lvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xae4be3acd95b6a4ac5a0524ab95da90c721f6c83",
-            "integrationUrl": "https://app.morpho.org/market?id=0x278290bf72ec20495f3f57910bebac7f2f6a6aeff9e9d550f225b4ba26454fe0&network=mainnet",
-            "description": "The PT-USR-29MAY2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
-          },
-          {
-            "chainId": 1,
-            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
-            "integrationUrl": "https://app.morpho.org/market?id=0xa3819a7d2aee958ca0e7404137d012b51ea47d051db69d94656956eff8c80c23&network=mainnet",
-            "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x917459337caac939d41d7493b3999f571d20d667",
-            "integrationUrl": "https://app.morpho.org/market?id=0x760b14c9003f08ac4bf0cfb02596ee4d6f0548a4fde5826bfd56befb9ed62ae9&network=mainnet",
-            "description": "The PT-USDe-31JUL2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0x917459337caac939d41d7493b3999f571d20d667",
-            "integrationUrl": "https://app.morpho.org/market?id=0xddffaa9ca0528280492f20dc97d3e2f400b32cc38d85964672d7b313f569a5a3&network=mainnet",
-            "description": "The PT-USDe-31JUL2025 is the asset used as collateral in a Morpho market with USDe as the loan token.",
-            "subtitle": "USDe"
-          },
-          {
-            "chainId": 1,
-            "address": "0xf10a134a987e22ffa9463570a6d1eb92a63fc178",
-            "integrationUrl": "https://app.morpho.org/market?id=0x544b0a093b130a3fb01b72a1279ab848575f049c73da3b5c9c718f9350a1519c&network=mainnet",
-            "description": "The PT-csUSDL-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xf736acf34ff7cd9b3565b73a1f15e652859bf322",
-            "integrationUrl": "https://app.morpho.org/market?id=0x10b401f4254a7039b7168c5a614c81ea8be698186cfb33aa56ac2adbcf0e88f9&network=mainnet",
-            "description": "The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x84d17ef6bec165484c320b852eeb294203e191be",
-            "integrationUrl": "https://app.morpho.org/market?id=0x94e08261235c49638bba42ab2883394ea69bbf9f2a420bde48757775d0f1a182&network=mainnet",
-            "description": "The PT-tETH-29MAY2025 is the asset used as collateral in a Morpho market with WETH as the loan token."
-          },
-          {
-            "chainId": 1,
-            "address": "0x23e60d1488525bf4685f53b3aa8e676c30321066",
-            "integrationUrl": "https://app.morpho.org/market?id=0xeec6c7e2ddb7578f2a7d86fc11cf9da005df34452ad9b9189c51266216f5d71b&network=mainnet",
-            "description": "The PT-wstUSR-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x7f01d0fce9bc646389483384c41b4d71c7139f11",
-            "integrationUrl": "https://app.morpho.org/market?id=0x97efa214630ff5ed8f2194e7f173344f3a2f93bf8f5c6653d0509312efc9fae1&network=mainnet",
-            "description": "The PT-mEDGE-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xc653f79de1274ee65674befda54986020d6f8fc1",
-            "integrationUrl": "https://app.morpho.org/market?id=0xdbabefcc4e7f2fce9b6dd3843df46a92b74819453cf2f92092542e43f68b40ea&network=mainnet",
-            "description": "The PT-EBTC-26JUN2025 is the asset used as collateral in a Morpho market with LBTC as the loan token.",
-            "subtitle": "LBTC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6ca4d5d2ecb72e3bbf17543b3367746b80d22694",
-            "integrationUrl": "https://app.morpho.org/market?id=0x35cab197d4eaeeea1e8e279ed136e193500e65ff68b4bf8af54f98d4923660eb&network=mainnet",
-            "description": "The PT-LBTC-26JUN2025 is the asset used as collateral in a Morpho market with LBTC as the loan token.",
-            "subtitle": "LBTC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6ca4d5d2ecb72e3bbf17543b3367746b80d22694",
-            "integrationUrl": "https://app.morpho.org/market?id=0x12c7bc9b039acac6adf2ab7285e84a12be58e9e1d882db622c8a55be3390e193&network=mainnet",
-            "description": "The PT-LBTC-26JUN2025 is the asset used as collateral in a Morpho market with tBTC as the loan token.",
-            "subtitle": "tBTC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x6ca4d5d2ecb72e3bbf17543b3367746b80d22694",
-            "integrationUrl": "https://app.morpho.org/market?id=0x8a0384fe5b1a68ff217845752287f432029b20754fbce577b6a5f8a80030a825&network=mainnet",
-            "description": "The PT-LBTC-26JUN2025 is the asset used as collateral in a Morpho market with WBTC as the loan token.",
-            "subtitle": "WBTC"
-          },
-          {
-            "chainId": 8453,
-            "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
-            "integrationUrl": "https://app.morpho.org/market?id=0x580b0cfee735c839af1d15f09c8885ee6305a8bbd4fe14ace0b01454e57f48da&network=base",
-            "description": "The PT-USR-25SEP2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
-            "subtitle": "USR"
-          },
-          {
-            "chainId": 8453,
-            "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
-            "integrationUrl": "https://app.morpho.org/market?id=0x669b68ae003954dde5b2be025fa373bfc6b6134fc3180ea746c31e892243ae81&network=base",
-            "description": "The PT-USR-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0xab365c0879024481e4ad3b47bd6fea9c10014fbc",
-            "integrationUrl": "https://app.morpho.org/market?id=0x73dc42f6b9279901cd2563ea7877aeb129eda36fb69bc76abafe3eaeebd0edd6&network=mainnet",
-            "description": "The PT-sUSDf-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token."
-          },
-          {
-            "chainId": 1,
-            "address": "0x6e43f6abce001c14c7115d20908d0c272338eaf1",
-            "integrationUrl": "https://app.morpho.org/market?id=0x1260f0313a8fdf0fc1792aa8fc2545c30227e553a23b087e5abe9bd91caf39a9&network=mainnet",
-            "description": "The PT-agETH-26JUN2025 is the asset used as collateral in a Morpho market with WETH as the loan token.",
-            "subtitle": "WETH"
-          },
-          {
-            "chainId": 1,
-            "address": "0xe08c45f3cfe70f4e03668dc6e84af842bee95a68",
-            "integrationUrl": "https://app.morpho.org/market?id=0xc3250fa72657f5d956a55fd7febf5bf953c18aa04bff2e4088415b1e5c2923b0&network=mainnet",
-            "description": "The PT-rsETH-26JUN2025 is the asset used as collateral in a Morpho market with WETH as the loan token."
-          },
-          {
-            "chainId": 1,
-            "address": "0x4d4062bad41e03b1cdee4c06263f96eb81832341",
-            "integrationUrl": "https://app.morpho.org/market?id=0xd79d4f7e2ba3de2f5ddf6521fb38e81909f6bead9f9b1971496fbddb7dbca52c&network=mainnet",
-            "description": "The PT-slvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
-            "subtitle": "lvlUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0x9bca74f805ab0a22ddd0886db0942199a0feba71",
-            "integrationUrl": "https://app.morpho.org/market?id=0x36b01349f1d6044288eab3a189c528c1ef8f236433d805cd2d9a930843fe61be&network=mainnet",
-            "description": "The PT-lvlUSD-29MAY2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
-            "subtitle": "lvlUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0x23e60d1488525bf4685f53b3aa8e676c30321066",
-            "integrationUrl": "https://app.morpho.org/market?id=0x070030dcd03a08fa6f76a6b9d9a18e28496b9c62043d552f31bfa9b2d519a543&network=mainnet",
-            "description": "The PT-wstUSR-25SEP2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
-            "subtitle": "USR"
-          },
-          {
-            "chainId": 1,
-            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
-            "integrationUrl": "https://app.morpho.org/market?id=0x3bdb58058b41bb700458ba3df317e254244ddec7fc35fec93d2d53475cc6ebdc&network=mainnet",
-            "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x11105208abb3ce206922bf4cd6b2d5f98cac2f0d",
-            "integrationUrl": "https://app.morpho.org/market?id=0x51ac4100851b7186b82d4101838b7c89678430adcf5e728f9e895131b49709b1&network=mainnet",
-            "description": "The PT-ysUSDC-31JUL2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8",
-            "integrationUrl": "https://app.morpho.org/market?id=0xe61a903174169e4897669e9bc4419eb7582b36d1a3d3df633dccab88da6e2ccd&network=mainnet",
-            "description": "The PT-lvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x2ca5f2c4300450d53214b00546795c1c07b89acb",
-            "integrationUrl": "https://app.morpho.org/market?id=0x4005ba6eb7d2221fe58102bd320aa6d83c47b212771bc950ab71c5074d9ab0ec&network=mainnet",
-            "description": "The PT-slvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x2ca5f2c4300450d53214b00546795c1c07b89acb",
-            "integrationUrl": "https://app.morpho.org/market?id=0x8ebcaf72c7cd75e8c621ec77ec343b3152c48908c4a6e217da82fe6af23c1928&network=mainnet",
-            "description": "The PT-slvlUSD-25SEP2025 is the asset used as collateral in a Morpho market with lvlUSD as the loan token.",
-            "subtitle": "lvlUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
-            "integrationUrl": "https://app.morpho.org/market?id=0xa46c4c323e03210bf59573aec2f292e451ae8ec40d9be0415522e77db2e5d402&network=mainnet",
-            "description": "The PT-cUSDO-19JUN2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xfd039edc69eac5eaab4a10463fdbcaca75d6eddb1f0e00248d73fc977fb2554b",
+            "description": "The PT-cUSD-23JUL2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
           },
           {
             "chainId": 1,
-            "address": "0x742b4166878bfd339db65a29a17e49b81a6b6aac",
-            "integrationUrl": "https://app.morpho.org/market?id=0xcc611d3ca8ce8dcc63e4e8c3cd17c9acb2ca1768eeb143b71e2dc8e6a98c3f65&network=mainnet",
-            "description": "The PT-RLP-4SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x2fb3713487c7812e7309935b034f40228841666f6b048faf31fd2110ae674f20",
+            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           },
           {
             "chainId": 1,
-            "address": "0x742b4166878bfd339db65a29a17e49b81a6b6aac",
-            "integrationUrl": "https://app.morpho.org/market?id=0x972e8cd51940dd0311b7b6f5adeb86bc7563e3c7502c5d2c00b200195cb89f39&network=mainnet",
-            "description": "The PT-RLP-4SEP2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
-            "subtitle": "USR"
-          },
-          {
-            "chainId": 1,
-            "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.morpho.org/market?id=0x83e10b446f0f2013bb5417fbab8de0371808da605d9d88bdd3ad9de4e7303048&network=mainnet",
-            "description": "The PT-sUSDE-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x5eaaebc81e9e27972ab458811d1b60828e8ab51ef6620f9b3918fd7e68eecec1",
+            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
           },
           {
             "chainId": 1,
-            "address": "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252",
-            "integrationUrl": "https://app.morpho.org/market?id=0x66233e87913d94695fb09e8b8e586e754a7cd6dae6700b5e4b3aa08d3e73eb01&network=mainnet",
-            "description": "The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "address": "0x1d69402390657308c91179aa184bf992908c1e08",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x9464b3d42133c10c8b216d3d9429b43e98c2f3856a87940ef18b8bdd3e7bd831",
+            "description": "The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
+            "subtitle": "AUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1d69402390657308c91179aa184bf992908c1e08",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x69ef7fd17b42cd7df6d885aee1b11380837afbc1664b25587041cf193b31617b",
+            "description": "The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x2d433b943fb8c015ae409444b7f960ed288082b4",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x42c2b592fc759fad461fb5c80d5ea214a496f70d8594398d69af68c2f3798de6",
+            "description": "The PT-srUSDat-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 130,
+            "address": "0x9d9874e867b877dd0a3f1eafb8bb1bc54eecc682",
+            "integrationUrl": "https://app.morpho.org/unichain/market/0x87a686cc100aabe917f8e1ad58140a1b63f0edbb9650a32c0526718dc610b2d5",
+            "description": "The PT-cUSD-23JUL2026-(ETH) is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd341a146a4fd20ea89898e4d86ae1829bf3a1c23",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xf02d2e8f427a2b91785b3d09690ef9d3811bf674ba97b00bafc7665004a6dd97",
+            "description": "The PT-sUSDD-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb5be35d8ff83d431899b95851cb17a2b4bcef150",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xb37c30f34bff11c81ee8400133965f450a5f7c5d81ba2cf5740076f49eabc95c",
+            "description": "The PT-apyUSD-5NOV2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xaf687b5ecb525ccea96115088999b4ed80c388b6",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x908b037029b5c0671ba3b362eaf289c3199560d1d4632e6cb527cc7240fa006e",
+            "description": "The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x7f47c3e6b2c00fc4eb4d5ae50d0ab0ab6888eb4d",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xf8c5aa31ea6b2a068a9eddb46dd110cae57bf0f12be9583a3f9a818effecba89",
+            "description": "The PT-USD3-17DEC2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd341a146a4fd20ea89898e4d86ae1829bf3a1c23",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xdf6ca97d41975a6996e9db491cb38152b65d7c00807dfe15d95d8d76e5d122e0",
+            "description": "The PT-sUSDD-27AUG2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
           },
           {
             "chainId": 1,
-            "address": "0xf736acf34ff7cd9b3565b73a1f15e652859bf322",
-            "integrationUrl": "https://app.morpho.org/market?id=0x7110edd22b88dbc096b78384900d29d84e9edee2a06d5c0d36f957a94ce4ccba&network=mainnet",
-            "description": "The PT-RUSD-31JUL2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
+            "address": "0xc689f76f90fe1762fac55983ff25ae71033a84f7",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x4bb22a5f6313fc9d7b5e1438967bfcd0a513a839d26662dd8d235629942400e2",
+            "description": "The PT-sUSDat-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0x5a19fa369f2895dcd8d2cee62e4ceae58ef92bbb",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x1749e02006bc6bd6a86af52d231511f6911d5e42318e028e51a28dfabc68dd47",
+            "description": "The PT-sUSDE-13AUG2026 is the asset used as collateral in a Morpho market with RLUSD as the loan token.",
+            "subtitle": "RLUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0xecfafdc7741323a945a163ed068b5a3c43483957",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x1e9d614631a7df0ec07fb05b2c8cb2491575fd1a63a33bf187a6afb295a4fc64",
+            "description": "The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 1,
+            "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x02bb03bf55f07c3ed3eee8a25d8df60fb9d09a38db612f0e07cf5c4d3df0100d",
+            "description": "The PT-USDG-24SEP2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
           },
           {
             "chainId": 1,
-            "address": "0xffec096c087c13cc268497b89a613cace4df9a48",
-            "integrationUrl": "https://app.morpho.org/market?id=0xa458018cf1a6e77ebbcc40ba5776ac7990e523b7cc5d0c1e740a4bbc13190d8f&network=mainnet",
-            "description": "The PT-USDS-14AUG2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
-            "integrationUrl": "https://app.morpho.org/market?id=0xfae6c3fca4d2fe61c62d29541e84a728b660a0dbc99217750c1080a8fc7d0e45&network=mainnet",
-            "description": "The PT-eUSDE-14AUG2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2",
-            "integrationUrl": "https://app.morpho.org/market?id=0x0138c47c8f7e0a785ec20a46edc6dc7747c8cd6e318d02f6506a5b6a5f5be7b0&network=base",
-            "description": "The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a Morpho market with cbBTC as the loan token.",
-            "subtitle": "cbBTC"
-          },
-          {
-            "chainId": 8453,
-            "address": "0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2",
-            "integrationUrl": "https://app.morpho.org/market?id=0x197d79f84d229049a780af9b3d418dbe2a05c2dd541268ae576483f14bd6b41a&network=base",
-            "description": "The PT-LBTC-scaled18-25SEP2025 is the asset used as collateral in a Morpho market with LBTC as the loan token.",
-            "subtitle": "LBTC"
-          },
-          {
-            "chainId": 1,
-            "address": "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252",
-            "integrationUrl": "https://app.morpho.org/market?id=0xca260ba9ffe237d9b85106e9fe926baa6a0645d15c8c3976b914301fc6927d1a&network=mainnet",
-            "description": "The PT-wsrUSD-31JUL2025 is the asset used as collateral in a Morpho market with rUSD as the loan token.",
-            "subtitle": "rUSD"
-          },
-          {
-            "chainId": 1,
-            "address": "0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
-            "integrationUrl": "https://app.morpho.org/market?id=0x8a71a66ac828c2b6d4f8accce5859aba0822b502f3833bec4aff09479affffdb&network=mainnet",
-            "description": "The PT-cUSDO-20NOV2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "address": "0xee5c7cda577484b70b65c21235ecbd302bb290e2",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x62878115c6ee109c256237eb6daef589d006258202682d2e210cad3bb19e0f09",
+            "description": "The PT-apyUSD-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           },
           {
             "chainId": 1,
-            "address": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
-            "integrationUrl": "https://app.morpho.org/market?id=0x1fd06e789f16274478fac4b057163c1ae6cda1a5fbf223ffe52be5dfd659f033&network=mainnet",
-            "description": "The PT-eUSDE-14AUG2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
-            "integrationUrl": "https://app.morpho.org/market?id=0xc6ae8e71e11ef511acee3f6cc6ad2af67b862877d459e3789905f537c85db5e3&network=mainnet",
-            "description": "The PT-sUSDE-25SEP2025 is the asset used as collateral in a Morpho market with DAI as the loan token.",
-            "subtitle": "DAI"
-          },
-          {
-            "chainId": 1,
-            "address": "0x5f2f6324aa5590e408ba892e39cec4c0afb16068",
-            "integrationUrl": "https://app.morpho.org/market?id=0x3a3b0aab54883f5b2561d8327fbe234142db4f50f87574cd07daf2ed3fbee01a&network=mainnet",
-            "description": "The PT-iUSD-4SEP2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "address": "0xd28b0d694b8e814fa905a8b480b30691e18396eb",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0x4483b864209c50da2be8fc75371db0e92fdc6bc8920d86fc9b56ea7383f8c9d1",
+            "description": "The PT-apxUSD-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           },
           {
             "chainId": 1,
-            "address": "0x5a5b93f762739fa94f3ecc0b34af2e56702e7f70",
-            "integrationUrl": "https://app.morpho.org/market?id=0xcfb2f15b7d287bee0a6fd4ee59d91d2ea7bc3c5af63d1411df8ffd13694c1668&network=mainnet",
-            "description": "The PT-USR-4SEP2025 is the asset used as collateral in a Morpho market with USR as the loan token.",
-            "subtitle": "USR"
+            "address": "0xb5be35d8ff83d431899b95851cb17a2b4bcef150",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xebd23a871b52e0a8c92bd719f4413600101b69e946cb72923b3a33fb5bc6ec85",
+            "description": "The PT-apyUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
+            "subtitle": "apxUSD"
           },
           {
             "chainId": 1,
-            "address": "0x21aace56a8f21210b7e76d8ef1a77253db85bf0a",
-            "integrationUrl": "https://app.morpho.org/market?id=0x934b5427f2dbcddaddb59e04b8bbb41ef30fb7481eef95366ffa5da4290f1359&network=mainnet",
-            "description": "The PT-fxSAVE-30OCT2025 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "address": "0xaf687b5ecb525ccea96115088999b4ed80c388b6",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xd86df29b48f2d88a0453027212247a29e68ff52c6589c46054f57285da2fa7e3",
+            "description": "The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
+            "subtitle": "apxUSD"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
+            "integrationUrl": "https://app.morpho.org/arbitrum/market/0x97cb4b88a7a5e8e9c039b106374124e642395437ffc0ef93f2799343ad022985",
+            "description": "The PT-USDai-15OCT2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           },
           {
-            "chainId": 1,
-            "address": "0xcce7d12f683c6dae700154f0badf779c0ba1f89a",
-            "integrationUrl": "https://app.morpho.org/market?id=0x96a4399f2c837f8aa34c39718e30625a84f9285991f0a08d1f2997e15bbeeaa8&network=mainnet",
-            "description": "The PT-syrupUSDC-28AUG2025 is the asset used as collateral in a Morpho market with USDT as the loan token.",
-            "subtitle": "USDT"
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.morpho.org/monad/market/0x93a7a013b5501cee5d9bee0d29bb3fca790196134c4c7058365e5bc6d2ad80a2",
+            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
         "lp": []
       },
       "hash": "a6ac138dd5e646646eb429b6d45f1aa3"
+    },
+    {
+      "id": "odyssey",
+      "name": "Odyssey",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Odyssey provides one-click leveraged looping strategies across Pendle PTs and other supported assets using leading DeFi lending markets.",
+      "url": "https://app.odyssey.finance/en/loopr",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 1,
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app.odyssey.finance/en/loopr/strategy/e55481aa-c5c5-4b98-a1d5-bb1ba0e1c7ae",
+            "description": "One-click leveraged looping for this Pendle PT."
+          },
+          {
+            "chainId": 1,
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app.odyssey.finance/en/loopr/strategy/99fb9261-3b78-42e9-b71e-8f157c117c4b",
+            "description": "One-click leveraged looping for this Pendle PT."
+          },
+          {
+            "chainId": 1,
+            "address": "0x7f47c3e6b2c00fc4eb4d5ae50d0ab0ab6888eb4d",
+            "integrationUrl": "https://app.odyssey.finance/en/loopr/strategy/7529f260-2c79-4d96-b865-7f318d25b475",
+            "description": "One-click leveraged looping for this Pendle PT."
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "7f96b91fcf38b2ae4964111dbb126deb"
     },
     {
       "id": "okx",
@@ -1091,6 +775,34 @@
       "hash": "d9fe3cded15ac3a2b4f4c1bf891f90f5"
     },
     {
+      "id": "pulse",
+      "name": "Pulse",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Pulse does it all. Scanning PT markets, reallocating capital, compounding returns, rolling maturities, and maximizing yield across Pendle.",
+      "url": "https://www.usepulse.xyz/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "9f3785ec0cb6f94c0e99ce4acc2c023d"
+    },
+    {
+      "id": "rezerve-money",
+      "name": "Rezerve Money",
+      "icon": "logo.png",
+      "category": "yield strategy",
+      "description": "Rezerve Money is a yield strategy protocol that combines dynamic rebasing, staking, bonding, and liquid staking mechanisms.",
+      "url": "https://rezerve.money/",
+      "metadata": {
+        "pt": [],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "b802ecd5b0a9b6c65d4a8cffdccf0f33"
+    },
+    {
       "id": "silo",
       "name": "Silo",
       "icon": "logo.png",
@@ -1100,109 +812,10 @@
       "metadata": {
         "pt": [
           {
-            "chainId": 146,
-            "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwstkscusd29may-frxusd-37",
-            "description": "Leverage PT-wstkscUSD against frxUSD on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0x420df605d062f8611efb3f203bf258159b8fffde",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptsts29may-s-40",
-            "description": "Leverage PT-stS against S on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptausdc14aug-scusd-46",
-            "description": "Leverage PT-aUSDC against scUSD on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "scUSD"
-          },
-          {
-            "chainId": 146,
-            "address": "0xa2161e75edf50d70544e6588788a5732a3105c00",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwstksceth29may-eth-35",
-            "description": "Leverage PT-wstkscETH against ETH on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwstkscusd29may-usdc-34",
-            "description": "Leverage PT-wstkscUSD against USDC on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0x46eb02b9f47634c4fab3110cc7adc1c6311dfac1",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwos29may-s-41",
-            "description": "Leverage PT-woS against S on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0xa2161e75edf50d70544e6588788a5732a3105c00",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwstksceth29may-sceth-47",
-            "description": "Leverage PT-wstkscETH against scETH on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwstkscusd29may-scusd-44",
-            "description": "Leverage PT-wstkscUSD against scUSD on Silo to maximize your fixed yield while earning bonus Silo Points."
-          },
-          {
-            "chainId": 146,
-            "address": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
-            "integrationUrl": "https://v2.silo.finance/markets/sonic/ptwans28aug-s-51",
-            "description": "Leverage PT-wANS against S on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "S"
-          },
-          {
-            "chainId": 146,
-            "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/103",
-            "description": "Leverage PT-aSonUSDC-14AUG2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 146,
-            "address": "0x77d8f09053c28faf1e00df6511b23125d438616f",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/104",
-            "description": "Leverage PT-Silo-20-USDC.e-17JUL2025 against USDCon Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 146,
-            "address": "0x9731842ed581816913933c01de142c7ee412a8c8",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/102",
-            "description": "Leverage PT-Silo-46-scUSD-14AUG2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 146,
-            "address": "0x200338559c1975d1f216adcda8352aff2869afab",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/106",
-            "description": "Leverage PT-wOS-18DEC2025 against S on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "S"
-          },
-          {
-            "chainId": 146,
-            "address": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/108",
-            "description": "Leverage PT-wstkscETH-18DEC2025 against ETH on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "ETH"
-          },
-          {
-            "chainId": 146,
-            "address": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/105",
-            "description": "Leverage PT-wstkscUSD-18DEC2025 against USDC on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 146,
-            "address": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
-            "integrationUrl": "https://app.silo.finance/markets/sonic/113",
-            "description": "Leverage PT-stS-18DEC2025 against S on Silo to maximize your fixed yield while earning bonus Silo Points.",
-            "subtitle": "S"
+            "chainId": 43114,
+            "address": "0x9da7f8c0d6e3f247affdf92c3dddd83c1e248e14",
+            "integrationUrl": "https://app.silo.finance/markets/avalanche/148",
+            "description": "Leverage PT-USDe-27NOV2025 against USDC on Silo to maximize your fixed yield."
           }
         ],
         "yt": [],
@@ -1239,6 +852,27 @@
       "hash": "e13d78ddbecbe638d0f1c153632a2afe"
     },
     {
+      "id": "term",
+      "name": "Term",
+      "icon": "Term_TokenIcon_OnBlue.png",
+      "category": "money market",
+      "url": "https://www.app.term.finance/auctions",
+      "metadata": {
+        "pt": [
+          {
+            "chainId": 43114,
+            "address": "0x9da7f8c0d6e3f247affdf92c3dddd83c1e248e14",
+            "integrationUrl": "https://app.term.finance/auctions",
+            "description": "PT-USDe 27 Nov 2025 can be used as collateral in a fixed-rate, matched-maturity USDC Term loan.",
+            "subtitle": "USDC"
+          }
+        ],
+        "yt": [],
+        "lp": []
+      },
+      "hash": "f2eba5ba11d91248d31e8420627cc439"
+    },
+    {
       "id": "termmax",
       "name": "TermMax",
       "icon": "logo.png",
@@ -1250,7 +884,7 @@
           {
             "chainId": 1,
             "address": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x3b3fb9c57858ef816833dc91565efcd85d96f634&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=susde",
             "description": "Borrow USDC at a fixed rate with PT-sUSDE-31JUL2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1264,14 +898,14 @@
           {
             "chainId": 1,
             "address": "0x933b9ffee0ad3ef8e4dbb52688ea905826d73755",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x933b9ffee0ad3ef8e4dbb52688ea905826d73755&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cusdo",
             "description": "Borrow USDC at a fixed rate with PT-cUSDO-19JUN2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
           {
             "chainId": 1,
             "address": "0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d&debtToken=1%3A0xd9a442856c234a39a81a089c06451ebaa4306a72",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pufeth",
             "description": "Borrow pufETH at a fixed rate with PT-pufETH-26JUN2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1285,7 +919,7 @@
           {
             "chainId": 1,
             "address": "0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x9cfc9917c171a384c7168d3529fc7e851a2e0d6d&debtToken=1%3A0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pufeth",
             "description": "Borrow WETH at a fixed rate with PT-pufETH-26JUN2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1299,7 +933,7 @@
           {
             "chainId": 1,
             "address": "0x9bca74f805ab0a22ddd0886db0942199a0feba71",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x9bca74f805ab0a22ddd0886db0942199a0feba71&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=lvlusd",
             "description": "Borrow USDC at a fixed rate with PT-lvlUSD-29MAY2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1313,7 +947,7 @@
           {
             "chainId": 1,
             "address": "0xb7de5dfcb74d25c2f21841fbd6230355c50d9308",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0xb7de5dfcb74d25c2f21841fbd6230355c50d9308&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=susde",
             "description": "Borrow USDC at a fixed rate with PT-sUSDE-29MAY2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1327,14 +961,14 @@
           {
             "chainId": 1,
             "address": "0x2ca5f2c4300450d53214b00546795c1c07b89acb",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0x2ca5f2c4300450d53214b00546795c1c07b89acb&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=slvlusd",
             "description": "Borrow USDC at a fixed rate with PT-slvlUSD-25SEP2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
           {
             "chainId": 1,
             "address": "0xffec096c087c13cc268497b89a613cace4df9a48",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=eth&collateralToken=1%3A0xffec096c087c13cc268497b89a613cace4df9a48&debtToken=1%3A0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=usds",
             "description": "Borrow USDC at a fixed rate with PT-USDS-14AUG2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1348,14 +982,14 @@
           {
             "chainId": 1,
             "address": "0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?collateralToken=1%3A0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cusdo",
             "description": "Borrow USDC at a fixed rate with PT-cUSDO-20NOV2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
           {
             "chainId": 42161,
             "address": "0xb33808ea0e883138680ba29311a220a7377cdb92",
-            "integrationUrl": "https://app.termmax.ts.finance/borrow?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=weeth",
             "description": "Borrow WETH at a fixed rate with PT-weETH-26JUN2025 as collateral on TermMax.",
             "subtitle": "Fixed-rate Borrow"
           },
@@ -1365,6 +999,384 @@
             "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=arb&collateralToken=42161%3A0xb33808ea0e883138680ba29311a220a7377cdb92&debtToken=42161%3A0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
             "description": "Earn leveraged fixed-rate yields with WETH on TermMax, with yields from PT-weETH-26JUN2025.",
             "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xab7f3837e6e721abbc826927b655180af6a04388",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=arb&collateralToken=42161%3A0xab7f3837e6e721abbc826927b655180af6a04388",
+            "description": "Earn leveraged fixed-rate yields with WETH on TermMax, with yields from PT-weETH-25JUN2026.",
+            "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xab7f3837e6e721abbc826927b655180af6a04388",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=weeth",
+            "description": "Borrow WETH at a fixed rate with PT-weETH-25JUN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=susde",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDE-25SEP2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=susde",
+            "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDE-25SEP2025.",
+            "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 1,
+            "address": "0x84013d1a574515b6a05a0e2392584d445d39d1df",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pufeth",
+            "description": "Borrow wETH at a fixed rate with PT-pufETH-25JUN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xd0a4b74a6b62aa2b6c02349463d9041606608f36",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=tusde",
+            "description": "Borrow USDC at a fixed rate with PT-tUSDe-25SEP2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x84013d1a574515b6a05a0e2392584d445d39d1df",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?collateralToken=1%3A0x84013d1a574515b6a05a0e2392584d445d39d1df",
+            "description": "Earn leveraged fixed-rate yields with wETH on TermMax, with yields from PT-pufETH-25JUN2026.",
+            "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 1,
+            "address": "0xfe72382695dc280e7392a0be795128a126e9b7ae",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=teth",
+            "description": "Borrow wstETH at a fixed rate with PT-tETH-25SEP2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xf3f491e5608f8b8a6fd9e9d66a4a4036d7fd282c",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pusde",
+            "description": "Borrow USDC at a fixed rate with PT-pUSDe-16OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xad7ee9712c279b619101706252db3b3d1e6756ab",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=ysusdc",
+            "description": "Borrow USDC at a fixed rate with PT-ysUSDC-30OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-usde",
+            "description": "Borrow USDC at a fixed rate with PT-USDe-25SEP2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3a70f0c696dcb3a4ab3833cd9726397dd61ac85e",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=rlp",
+            "description": "Borrow USDC at a fixed rate with PT-RLP-04DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xe6a934089bbee34f832060ce98848359883749b3",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-susde",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDe-27NOV2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xe6a934089bbee34f832060ce98848359883749b3",
+            "integrationUrl": "https://app.termmax.ts.finance/leverage?chain=eth&search=pt-susde",
+            "description": "Earn leveraged fixed-rate yields with USDC on TermMax, with yields from PT-sUSDe-27NOV2025.",
+            "subtitle": "Levered Yields"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1135b22d6e8fd0809392478eedcd8c107db6af9d",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-tusde",
+            "description": "Borrow USDC at a fixed rate with PT-tUSDe-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x5982837d2d138af78a42a92f8f2f6863bb25f129",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-teth",
+            "description": "Borrow ETH at a fixed rate with PT-tETH-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb44cdbef3145c1c1e772e8228e1154c80e70618e",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-iUSD",
+            "description": "Borrow USDC at a fixed rate with PT-iUSD-4DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x711214da1a94f478b96c1ca3d14a750f496f2a80",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-siUSD",
+            "description": "Borrow USDC at a fixed rate with PT-siUSD-9OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x545a490f9ab534adf409a2e682bc4098f49952e3",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cUSD",
+            "description": "Borrow USDC at a fixed rate with PT-cUSD-29JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xc3c7e5e277d31cd24a3ac4cc9af3b6770f30ea33",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cUSD",
+            "description": "Borrow USDC at a fixed rate with PT-stcUSD-29JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 56,
+            "address": "0x50956c8e46a4f7dfc7475e3957c162d29b39f75f",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt",
+            "description": "Borrow WBNB at a fixed rate with PT-ynBNBx-16OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 56,
+            "address": "0x607c834cfb7fcbbb341cbe23f77a6e83bcf3f55c",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt",
+            "description": "Borrow USDT at a fixed rate with PT-USDe-30OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 42161,
+            "address": "0xf9921bc1837a97b8f853c83521122c3fbf3f365f",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt",
+            "description": "Borrow USDC at a fixed rate with PT-USDe-11DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x5982837d2d138af78a42a92f8f2f6863bb25f129",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-teth",
+            "description": "Borrow wstETH at a fixed rate with PT-tETH-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 56,
+            "address": "0x31e88bf4ac49eef6711756d141f1a63e78f9f665",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt",
+            "description": "Borrow USDT at a fixed rate with PT-satUSD+-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1c0c0da2c46a36ce5537175477252e7909032710",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-tbtc",
+            "description": "Borrow WBTC at a fixed rate with PT-tBTC-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x61da65f0534c6a4f4c9757f2979a923c08d6d2aa",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-mmev",
+            "description": "Borrow USDC at a fixed rate with PT-mMEV-30OCT2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x11214ad8159a315148d98eeece228ccda8b1c6d8",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-teth",
+            "description": "Borrow wETH at a fixed rate with PT-tETH-08JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1fb3c5c35d95f48e48ffc8e36bcce5cb5f29f57c",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=srUSDe",
+            "description": "Borrow USDC at a fixed rate with PT-srUSDe-15JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x53f3373f0d811902405f91eb0d5cc3957887220d",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=jrUSDe",
+            "description": "Borrow USDC at a fixed rate with PT-jrUSDe-15JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x5510b080449d5e3bf345b6635ed40a35b36b081f",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=siUSD",
+            "description": "Borrow USDC at a fixed rate with PT-siUSD-08JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xb44cdbef3145c1c1e772e8228e1154c80e70618e",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=iUSD",
+            "description": "Borrow USDC at a fixed rate with PT-iUSD-04DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xcba36ce5f16fdf8be5177a3ccbbb5580a573226a",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=sYUSD",
+            "description": "Borrow USDC at a fixed rate with PT-sYUSD-18DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3e7736d0b1ed0f6a0a555355b72c2c2d416564e1",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=mfarm",
+            "description": "Borrow USDC at a fixed rate with PT-mFARM-11DEC2025 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x7e818c8c07aeb2aa297c9510f94e18c9a7a05ba4",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=msyrupUSDp",
+            "description": "Borrow USDC at a fixed rate with PT-msyrupUSDp-26FEB2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 42161,
+            "address": "0x9b3924f9652cabf3db48b7b4c92e474c571b3ab4",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=thbill",
+            "description": "Borrow USDC at a fixed rate with PT-thBILL-19FEB2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x97ca796aed60a4e34a7d7878f399b51e8718fbf7",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=DUSD",
+            "description": "Borrow USDC at a fixed rate with PT-DUSD-29JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x8209b01357946a64a0793e9773f6f3fe5a5f2526",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=DETH",
+            "description": "Borrow WETH at a fixed rate with PT-DETH-29JAN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=reUSD",
+            "description": "Borrow USDC at a fixed rate with PT-reUSD-25JUN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xec4402d1389e749c14a7caeef3e4c1f861e09bc8",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=iUSD",
+            "description": "Borrow USDC at a fixed rate with PT-iUSD-19FEB2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xe8483517077afa11a9b07f849cee2552f040d7b2",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=susde",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDe-05FEB2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x29fd7180e5cced14ad148c7997e6b6857a8be86e",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=rlp",
+            "description": "Borrow USDC at a fixed rate with PT-RLP-9APR2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xdc9a5a2e3ce7ac881fc3b28c629c05d1617d1c56",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=reusd",
+            "description": "Borrow USDC at a fixed rate with PT-reUSDe-25JUN2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x380e68536dfebafee63321d25e9dfefc67d0fe71",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=streth",
+            "description": "Borrow WETH at a fixed rate with PT-strETH-26MAR2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3de0ff76e8b528c092d47b9dac775931cef80f49",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=susde",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDe-07MAY2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cusd",
+            "description": "Borrow USDC at a fixed rate with PT-cUSD-23JULY2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cusd",
+            "description": "Borrow USDC at a fixed rate with PT-stcUSD-23JULY2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x67aeeed39c1675e0df93ad8bab543b17992d433b",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=cusdo",
+            "description": "Borrow USDC at a fixed rate with PT-cUSDO-28MAY2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1d69402390657308c91179aa184bf992908c1e08",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-usdat",
+            "description": "Borrow USDC at a fixed rate with PT-USDat-27AUG2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0xc689f76f90fe1762fac55983ff25ae71033a84f7",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-usdat",
+            "description": "Borrow USDC at a fixed rate with PT-sUSDat-27AUG2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x3a0f4beeb1bb41bb545a1ce54b905fa13c162e34",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-nusd",
+            "description": "Borrow USDC at a fixed rate with PT-jrNUSD-28MAY2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x82b853db31f025858792d8fa969f2a1dc245c179",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-nusd",
+            "description": "Borrow USDC at a fixed rate with PT-srNUSD-28MAY2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x1a69154f6f6247e4457332860fb173251a36e03f",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-sierra",
+            "description": "Borrow USDC at a fixed rate with PT-SIERRA-02JUL2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
+          },
+          {
+            "chainId": 1,
+            "address": "0x2d433b943fb8c015ae409444b7f960ed288082b4",
+            "integrationUrl": "https://app-v2.termmax.ts.finance/?q=pt-srusdat",
+            "description": "Borrow USDC at a fixed rate with PT-srUSDat-27AUG2026 as collateral on TermMax.",
+            "subtitle": "Fixed-rate Borrow"
           }
         ],
         "yt": [],
@@ -1430,6 +1442,12 @@
             "address": "0xe8f1c9804770e11ab73395be54686ad656601e9e",
             "integrationUrl": "https://app.venus.io/#/isolated-pools/pool/0xd933909A4a2b7A4638903028f44D1d38ce27c352/market/0xA537ACf381b12Bbb91C58398b66D1D220f1C77c8?chainId=56",
             "description": "PT-clisBNB April 2025 market on Venus Protocol"
+          },
+          {
+            "chainId": 56,
+            "address": "0xe052823b4aefc6e230faf46231a57d0905e30ae0",
+            "integrationUrl": "https://app.venus.io/#/pool/0xfD36E2c2a6789Db23113685031d7F16329158384/market/0x6d3BD68E90B42615cb5abF4B8DE92b154ADc435e?chainId=56&tab=supply",
+            "description": "PT-clisBNBx Jun 2026 market on Venus Protocol"
           }
         ],
         "yt": [],
