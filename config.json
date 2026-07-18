@@ -520,13 +520,6 @@
           },
           {
             "chainId": 1,
-            "address": "0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
-            "integrationUrl": "https://app.morpho.org/ethereum/market/0x5eaaebc81e9e27972ab458811d1b60828e8ab51ef6620f9b3918fd7e68eecec1",
-            "description": "The PT-stcUSD-23JUL2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
             "address": "0x1d69402390657308c91179aa184bf992908c1e08",
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x9464b3d42133c10c8b216d3d9429b43e98c2f3856a87940ef18b8bdd3e7bd831",
             "description": "The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho market with AUSD as the loan token.",
