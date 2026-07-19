@@ -1,0 +1,3 @@
+name: audit-test-protocol
+chainId: 42161
+description: "Security audit integration test"
