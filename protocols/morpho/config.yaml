@@ -184,5 +184,13 @@ metadata:
       description: >-
         The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho
         market with USDT as the loan token.
+    - chainId: 143
+      address: '0x9fc74f8ed616b5baf52a170caa97d6d3898602d1'
+      subtitle: mUSD
+      integrationUrl: >-
+        https://app.morpho.org/monad/market/0x71cad28b047d94c5a57c947619f9790b06b121536f975e03fdf241e9316edec7
+      description: >-
+        The PT-AUSD-8OCT2026 is the asset used as collateral in a Morpho market
+        with mUSD as the loan token.
   yt: []
   lp: []
