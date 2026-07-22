@@ -208,5 +208,13 @@ metadata:
       description: >-
         The PT-USDG-24SEP2026 is the asset used as collateral in a Morpho market
         with USDC as the loan token.
+    - chainId: 999
+      address: '0x50fc4edc6346f36993bb30fe60e932504ed17391'
+      subtitle: WHYPE
+      integrationUrl: >-
+        https://app.morpho.org/hyperevm/market/0xa13b394993cb7006f2202338fe8a02e88156dd145c1582b5cc466d8ca3a33854
+      description: >-
+        The PT-kHYPE-24SEP2026 is the asset used as collateral in a Morpho
+        market with WHYPE as the loan token.
   yt: []
   lp: []
