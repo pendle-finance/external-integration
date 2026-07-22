@@ -198,8 +198,7 @@ async function generateV3(
 
     const borrowStables = m.reserves.filter(
       (r) =>
-        r.borrowInfo?.borrowingState &&
-        r.borrowInfo.borrowingState !== 'DISABLED' &&
+        r.borrowInfo?.borrowingState === 'ENABLED' &&
         STABLE_BORROW.has(r.underlyingToken.symbol),
     );
     const pts = m.reserves.filter(
@@ -288,9 +287,14 @@ async function generateV4(
     for (const r of data.reserves) {
       if (!r.canUseAsCollateral) continue;
       const address = r.asset?.underlying?.address?.toLowerCase();
-      const ptSymbol = address && symbolByAddr.get(`${chainId}-${address}`);
-      if (!address || !isPt(ptSymbol)) continue;
-      if (!ptSet.has(`${chainId}-${address}`)) continue;
+      // Not a Pendle PT -> skip quietly. A Pendle PT with no resolvable symbol
+      // -> skip LOUDLY (should not happen once Pendle's registry is unioned in).
+      if (!address || !ptSet.has(`${chainId}-${address}`)) continue;
+      const ptSymbol = symbolByAddr.get(`${chainId}-${address}`);
+      if (!isPt(ptSymbol)) {
+        unresolved.add(`${chainId}-${address} (collateral PT symbol)`);
+        continue;
+      }
 
       const borrowStables = (bySpoke.get(r.spoke?.id ?? 'none') ?? []).filter((x) => {
         if (!x.canBorrow) return false;
