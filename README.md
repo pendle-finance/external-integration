@@ -136,3 +136,16 @@ Please ensure that:
  - The integration URL is valid and points to the appropriate page.
  - The protocol folder name must be **kebab-case**.
  - **Do not** change the global `config.json` file. This file will be automatically generated.
+
+## Script-generated protocols
+
+Some protocols keep a `script.md` next to their `config.yaml`. For these, the
+`config.yaml` is **generated** by running that script, not hand-edited — the
+script discovers the protocol's Pendle-PT markets across every Pendle-supported
+chain automatically (via the `getSupportChains` endpoint), so new chains and
+markets flow in without editing a per-chain list. When their markets change,
+**regenerate** the config by running the script rather than editing the YAML by
+hand:
+
+ - `protocols/morpho` — Morpho markets using Pendle PTs as collateral.
+ - `protocols/aave` — Aave v3 + v4 markets using Pendle PTs as collateral.
