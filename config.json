@@ -699,6 +699,13 @@
             "integrationUrl": "https://app.morpho.org/hyperevm/market/0xa13b394993cb7006f2202338fe8a02e88156dd145c1582b5cc466d8ca3a33854",
             "description": "The PT-kHYPE-24SEP2026 is the asset used as collateral in a Morpho market with WHYPE as the loan token.",
             "subtitle": "WHYPE"
+          },
+          {
+            "chainId": 143,
+            "address": "0xf104c6cd68f81579c6a1d85849cb12fcc64bd72a",
+            "integrationUrl": "https://app.morpho.org/monad/market/0xc0ae288f2cf8b3057afc1e898faed145acc2b88b0286e61ccbf456eb40a116fa",
+            "description": "The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
