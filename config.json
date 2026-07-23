@@ -171,14 +171,7 @@
       "description": "Contango builds positions by automating looping strategies through flash loans. When a trader opens a position, the protocol borrows on money markets.",
       "url": "https://app.contango.xyz/",
       "metadata": {
-        "pt": [
-          {
-            "chainId": 1,
-            "address": "0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
-            "integrationUrl": "https://app.contango.xyz/",
-            "description": "PT leverage looping through various supported money markets"
-          }
-        ],
+        "pt": [],
         "yt": [],
         "lp": []
       },
