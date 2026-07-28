@@ -192,5 +192,13 @@ metadata:
       description: >-
         The PT-USDat-27AUG2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 999
+      address: '0x50fc4edc6346f36993bb30fe60e932504ed17391'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/hyperevm/market/0xbdceb93661a9efbd67f97ff2842d159a493f792e71f762c8ba426b586dc1c565
+      description: >-
+        The PT-kHYPE-24SEP2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
