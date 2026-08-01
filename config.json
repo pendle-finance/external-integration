@@ -636,6 +636,13 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x9a8dab6de1059e6dc66c34b358764b70effb289e514e237f3161ffb09eaaf24f",
             "description": "The PT-sUSDS-26NOV2026 is the asset used as collateral in a Morpho market with USDS as the loan token.",
             "subtitle": "USDS"
+          },
+          {
+            "chainId": 1,
+            "address": "0xbb6cdb98a2f8a9fb431fd1073eaa0a51422ac30d",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xa94d7d784ecd1194f23f82f6b1c1acbf1d5982bab63362d094710638d2b770dc",
+            "description": "The PT-siUSD-20AUG2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
+            "subtitle": "USDC"
           }
         ],
         "yt": [],
