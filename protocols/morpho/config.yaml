@@ -224,5 +224,13 @@ metadata:
       description: >-
         The PT-sUSDS-26NOV2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
+    - chainId: 1
+      address: '0x7191878f1fe834b28f4d0cead0e4375b814c4abb'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/ethereum/market/0xd21bbc238918855461d943753ac4c90d103888e5661fd78f3378294c45f7d8df
+      description: >-
+        The PT-trUSD-26NOV2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
