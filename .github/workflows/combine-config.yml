@@ -5,6 +5,12 @@ on:
     branches:
       - 'main'
 
+# RA-GH-N1 (2026-08-19) — declared explicitly so this workflow no longer depends on the
+# org-wide default_workflow_permissions. It needs write because it commits the merged JSON and pushes.
+# The org default is being lowered to `read`; without this block that flip breaks this run.
+permissions:
+  contents: write
+
 jobs:
   merge_json_files:
     runs-on: ubuntu-latest
