@@ -71,6 +71,55 @@
             "integrationUrl": "https://pro.aave.com/explore/reserve/MTo6MHg5NTZkOGUwQTg5Y2ZhMzc0NDQyOEM0NjQxYjVhNTNCNTYxNjdhN2Y5Ojow",
             "description": "PT-USDG-24SEP2026 can be used as collateral to borrow USDC on Aave",
             "subtitle": "USDC"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9fc74f8ed616b5baf52a170caa97d6d3898602d1&marketName=proto_monad_v3",
+            "description": "PT-AUSD-8OCT2026 can be used as collateral to borrow USDe on Aave",
+            "subtitle": "USDe"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9fc74f8ed616b5baf52a170caa97d6d3898602d1&marketName=proto_monad_v3",
+            "description": "PT-AUSD-8OCT2026 can be used as collateral to borrow USDC on Aave",
+            "subtitle": "USDC"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9fc74f8ed616b5baf52a170caa97d6d3898602d1&marketName=proto_monad_v3",
+            "description": "PT-AUSD-8OCT2026 can be used as collateral to borrow GHO on Aave",
+            "subtitle": "GHO"
+          },
+          {
+            "chainId": 143,
+            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9fc74f8ed616b5baf52a170caa97d6d3898602d1&marketName=proto_monad_v3",
+            "description": "PT-AUSD-8OCT2026 can be used as collateral to borrow USDT0 on Aave",
+            "subtitle": "USDT0"
+          },
+          {
+            "chainId": 196,
+            "address": "0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3",
+            "description": "PT-USDG-29OCT2026 can be used as collateral to borrow USD₮0 on Aave",
+            "subtitle": "USD₮0"
+          },
+          {
+            "chainId": 196,
+            "address": "0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3",
+            "description": "PT-USDG-29OCT2026 can be used as collateral to borrow USDG on Aave",
+            "subtitle": "USDG"
+          },
+          {
+            "chainId": 196,
+            "address": "0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362",
+            "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3",
+            "description": "PT-USDG-29OCT2026 can be used as collateral to borrow GHO on Aave",
+            "subtitle": "GHO"
           }
         ],
         "yt": [],
