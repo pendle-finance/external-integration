@@ -1,0 +1,16 @@
+{
+    "name": "rivo",
+    "icon": "logo.png",
+    "metadata": {
+        "pt": [
+            {
+                "chainId": 42161,
+                "address": "0x515f3533a17E2EEFB13313D9248f328C94dBe641",
+                "integrationUrl": "https://app.rivo.xyz/asset/0xA31eC4C877C65bEa5C5d4c307473624A0B377090",
+                "description": "A basket of yield-bearing LP strategies that's easy to invest in, earning ETH through restaking and accumulating points"
+            }
+        ],
+        "yt": [],
+        "lp": []
+    }
+}
