@@ -52,27 +52,6 @@
             "subtitle": "USDe"
           },
           {
-            "chainId": 1,
-            "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
-            "integrationUrl": "https://pro.aave.com/explore/reserve/MTo6MHg5NTZkOGUwQTg5Y2ZhMzc0NDQyOEM0NjQxYjVhNTNCNTYxNjdhN2Y5Ojow",
-            "description": "PT-USDG-24SEP2026 can be used as collateral to borrow USDG on Aave",
-            "subtitle": "USDG"
-          },
-          {
-            "chainId": 1,
-            "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
-            "integrationUrl": "https://pro.aave.com/explore/reserve/MTo6MHg5NTZkOGUwQTg5Y2ZhMzc0NDQyOEM0NjQxYjVhNTNCNTYxNjdhN2Y5Ojow",
-            "description": "PT-USDG-24SEP2026 can be used as collateral to borrow USDT on Aave",
-            "subtitle": "USDT"
-          },
-          {
-            "chainId": 1,
-            "address": "0xc1906aecf868749a2dee203f59b904c0cf212140",
-            "integrationUrl": "https://pro.aave.com/explore/reserve/MTo6MHg5NTZkOGUwQTg5Y2ZhMzc0NDQyOEM0NjQxYjVhNTNCNTYxNjdhN2Y5Ojow",
-            "description": "PT-USDG-24SEP2026 can be used as collateral to borrow USDC on Aave",
-            "subtitle": "USDC"
-          },
-          {
             "chainId": 143,
             "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
             "integrationUrl": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9fc74f8ed616b5baf52a170caa97d6d3898602d1&marketName=proto_monad_v3",
