@@ -13,7 +13,8 @@ permissions:
 
 jobs:
   merge_json_files:
-    runs-on: ubuntu-latest
+    # ubuntu-slim: 1 vCPU at a third of the price. Short, no Docker, well under its 15-minute cap.
+    runs-on: ubuntu-slim
     timeout-minutes: 15
     steps:
       - name: Checkout repository
