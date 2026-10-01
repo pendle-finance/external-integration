@@ -1,0 +1,18 @@
+{
+  "name": "Stargate USDC Pool",
+  "slug": "stargate-usdc-pool",
+  "category": "yield",
+  "description": "Stargate cross-chain USDC pool for bridging and earning yield",
+  "subtitle": "Cross-chain USDC yield",
+  "metadata": [
+    {
+      "chain_id": 42161,
+      "description": "Stargate USDC pool on Arbitrum",
+      "address": "0x892785f33CdeE22A30AEF750F285E18c18040c3e",
+      "links": {
+        "app": "https://stargate.finance",
+        "docs": "https://stargateprotocol.gitbook.io"
+      }
+    }
+  ]
+}
