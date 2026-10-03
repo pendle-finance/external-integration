@@ -1,0 +1,35 @@
+name: Neverland
+icon: logo.png
+category: Money Market
+description: >-
+  Neverland is a next-generation lending protocol fusing the most secure,
+  battle-tested lending technology with proprietary veTokenomics.
+url: 'https://app.neverland.money/'
+metadata:
+  pt:
+    - chainId: 143
+      address: '0x9fc74f8ed616b5baf52a170caa97d6d3898602d1'
+      subtitle: AUSD
+      integrationUrl: >-
+        https://app.neverland.money/isolated/pendle-ausd/pt-ausd-8oct
+      description: >-
+        PT-AUSD-8OCT2026 can be used as collateral to borrow AUSD in
+        Neverland's isolated Pendle AUSD market.
+    - chainId: 143
+      address: '0x8b562578b2f9aa8c14ccda3c5d6cbcead3b06a57'
+      subtitle: AUSD
+      integrationUrl: >-
+        https://app.neverland.money/isolated/pendle-ausd/pt-ausd-17dec
+      description: >-
+        PT-AUSD-17DEC2026 can be used as collateral to borrow AUSD in
+        Neverland's isolated Pendle AUSD market.
+    - chainId: 143
+      address: '0xa7deac306a4520f4f2f94d150ca2fbd13080b607'
+      subtitle: MON
+      integrationUrl: >-
+        https://app.neverland.money/isolated/pendle-shmon/pt-shmon
+      description: >-
+        PT-shMON-18MAR2027 can be used as collateral to borrow MON in
+        Neverland's isolated Pendle shMON market.
+  yt: []
+  lp: []
