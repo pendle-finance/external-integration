@@ -11,6 +11,13 @@ on:
 permissions:
   contents: write
 
+# Each run commits config.json to main. Two runs at the same time race, and the later push
+# is rejected (run 37707500517, 2026-10-08). Runs queue instead of overlapping. A newer push
+# supersedes a pending run, so GitHub may cancel that pending run; the newer run covers it.
+concurrency:
+  group: combine-config
+  cancel-in-progress: false
+
 jobs:
   merge_json_files:
     # ubuntu-slim: 1 vCPU at a third of the price. Short, no Docker, well under its 15-minute cap.
@@ -21,6 +28,9 @@ jobs:
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd  # v6.0.2
         with:
           ssh-key: ${{ secrets.DEPLOY_KEY }}
+          # The tip of main, not the commit that started the run: the previous run may have
+          # pushed a "Merge JSON files" commit since, and a push on top of an older commit fails.
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
