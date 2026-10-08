@@ -498,25 +498,11 @@
             "subtitle": "USDC"
           },
           {
-            "chainId": 143,
-            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
-            "integrationUrl": "https://app.morpho.org/monad/market/0x93a7a013b5501cee5d9bee0d29bb3fca790196134c4c7058365e5bc6d2ad80a2",
-            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
             "chainId": 1,
             "address": "0xecfafdc7741323a945a163ed068b5a3c43483957",
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x6acd18854e43f93f5a90446004c35c72a68af1ad99f08cb247782ce6457914ca",
             "description": "The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
-          },
-          {
-            "chainId": 143,
-            "address": "0x9fc74f8ed616b5baf52a170caa97d6d3898602d1",
-            "integrationUrl": "https://app.morpho.org/monad/market/0x71cad28b047d94c5a57c947619f9790b06b121536f975e03fdf241e9316edec7",
-            "description": "The PT-AUSD-8OCT2026 is the asset used as collateral in a Morpho market with mUSD as the loan token.",
-            "subtitle": "mUSD"
           },
           {
             "chainId": 1,
@@ -558,13 +544,6 @@
             "address": "0xa08a69ab9dd3b04d0992bc7afb2c0b907bbdc147",
             "integrationUrl": "https://app.morpho.org/monad/market/0x093bd94086b08a013c96dc0776ebf663e9300e742a2c14479211cc35da6c3439",
             "description": "The PT-USDat-14JAN2027 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 143,
-            "address": "0xdaf216939826acaba0c2312f7e30a890213845cd",
-            "integrationUrl": "https://app.morpho.org/monad/market/0xcd6d902d2d214c0a06785a072b94b4f3a4fd3ddfa6f6e6861807964ea78cdf98",
-            "description": "The PT-earnAUSD-8OCT2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
           },
           {
