@@ -17,7 +17,13 @@ function isKebabCase(str) {
 }
 
 function validateCategory(protocol, category) {
-  if (!mustBeNonEmptyString(category) || !PROTOCOL_CATEGORIES.includes(category)) {
+  // merge-config.js writes `category.toLowerCase()` into config.json, so the
+  // stored value is lowercase whatever a protocol submits. Compare the same way
+  // rather than requiring the exact casing of PROTOCOL_CATEGORIES.
+  const isKnownCategory = mustBeNonEmptyString(category)
+    && PROTOCOL_CATEGORIES.some((known) => known.toLowerCase() === category.trim().toLowerCase());
+
+  if (!isKnownCategory) {
     throw new Error(`protocol ${protocol}: invalid field 'category', category must be case-insensitive one of the values (${PROTOCOL_CATEGORIES.join(', ')})`);
   }
 }
