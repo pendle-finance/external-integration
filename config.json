@@ -286,34 +286,6 @@
             "subtitle": "AUSD"
           },
           {
-            "chainId": 42161,
-            "address": "0xb459db106f645d698e74027eef6019a26a0675cc",
-            "integrationUrl": "https://app.euler.finance/positions/0xcc6700f5326b2f8930660c483b4d5ce904b815c6/0x6afb8d3f6d4a34e9cb2f217317f4dc8e05aa673b?network=42161",
-            "description": "The PT-sUSDai-15OCT2026 is the asset used as collateral in an Euler market with eUSDC-2 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xb459db106f645d698e74027eef6019a26a0675cc",
-            "integrationUrl": "https://app.euler.finance/positions/0xcc6700f5326b2f8930660c483b4d5ce904b815c6/0x482c3e2530fac8fe2c63ae007ad2695c6d685e98?network=42161",
-            "description": "The PT-sUSDai-15OCT2026 is the asset used as collateral in an Euler market with eUSD₮0-2 as the loan token.",
-            "subtitle": "USD₮0"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
-            "integrationUrl": "https://app.euler.finance/positions/0xe81157d2788f2cacf5902e803e172e1b6309086d/0x6afb8d3f6d4a34e9cb2f217317f4dc8e05aa673b?network=42161",
-            "description": "The PT-USDai-15OCT2026 is the asset used as collateral in an Euler market with eUSDC-2 as the loan token.",
-            "subtitle": "USDC"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
-            "integrationUrl": "https://app.euler.finance/positions/0xe81157d2788f2cacf5902e803e172e1b6309086d/0x482c3e2530fac8fe2c63ae007ad2695c6d685e98?network=42161",
-            "description": "The PT-USDai-15OCT2026 is the asset used as collateral in an Euler market with eUSD₮0-2 as the loan token.",
-            "subtitle": "USD₮0"
-          },
-          {
             "chainId": 143,
             "address": "0xa08a69ab9dd3b04d0992bc7afb2c0b907bbdc147",
             "integrationUrl": "https://app.euler.finance/positions/0xb9bb31debce3f6a7a7d916aef2e49810c9685cee/0x06047833d9aac144f7f4e9b8234d2c7dda1a8baf?network=143",
@@ -524,13 +496,6 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0xd86df29b48f2d88a0453027212247a29e68ff52c6589c46054f57285da2fa7e3",
             "description": "The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
             "subtitle": "apxUSD"
-          },
-          {
-            "chainId": 42161,
-            "address": "0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
-            "integrationUrl": "https://app.morpho.org/arbitrum/market/0x97cb4b88a7a5e8e9c039b106374124e642395437ffc0ef93f2799343ad022985",
-            "description": "The PT-USDai-15OCT2026 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
           },
           {
             "chainId": 1,
