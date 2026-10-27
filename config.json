@@ -594,6 +594,13 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x37a584c981f6f59f7532ae5565732ee54647773d425978eb94d4cd29c21ff53b",
             "description": "The PT-USD3-17DEC2026 is the asset used as collateral in a Morpho market with USDT as the loan token.",
             "subtitle": "USDT"
+          },
+          {
+            "chainId": 143,
+            "address": "0xdbc05cfa3c359654704c81c3498874e2df8a7af4",
+            "integrationUrl": "https://app.morpho.org/monad/market/0xe9eeaf0885c769d73ae68e3c3fe2c214b7d210ec0ac318ede65d0d174044e9d7",
+            "description": "The PT-siUSD-7JAN2027-(ETH) is the asset used as collateral in a Morpho market with AUSD as the loan token.",
+            "subtitle": "AUSD"
           }
         ],
         "yt": [],
