@@ -601,6 +601,20 @@
             "integrationUrl": "https://app.morpho.org/monad/market/0xe9eeaf0885c769d73ae68e3c3fe2c214b7d210ec0ac318ede65d0d174044e9d7",
             "description": "The PT-siUSD-7JAN2027-(ETH) is the asset used as collateral in a Morpho market with AUSD as the loan token.",
             "subtitle": "AUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x60b1e75ede859e496c281d308bc94b6965ac4847",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xbcdb9e4b0488c72c3596d00671a0877c6b9cc39e3ab8fb0df0f4240acfa01d8a",
+            "description": "The PT-apyUSD-11FEB2027 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
+            "subtitle": "apxUSD"
+          },
+          {
+            "chainId": 1,
+            "address": "0x70a3b0fd5d7781b759a60398a1e9edb465aa420e",
+            "integrationUrl": "https://app.morpho.org/ethereum/market/0xa81671bb2b0b56c04a318b7e1a3699b02508f8494e2113357a50eccb6bef4b34",
+            "description": "The PT-apxUSD-11FEB2027 is the asset used as collateral in a Morpho market with apxUSD as the loan token.",
+            "subtitle": "apxUSD"
           }
         ],
         "yt": [],
