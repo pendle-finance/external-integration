@@ -216,5 +216,13 @@ metadata:
       description: >-
         The PT-apxUSD-11FEB2027 is the asset used as collateral in a Morpho
         market with apxUSD as the loan token.
+    - chainId: 143
+      address: '0xbb0dcdd5f0159c3d51d8bce7d84f1b9fa390ef09'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.morpho.org/monad/market/0xba2e101bfd40a1485745543c07fff784c488fc31bdb01dc40ba967bd296f9737
+      description: >-
+        The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho
+        market with USDC as the loan token.
   yt: []
   lp: []
