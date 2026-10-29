@@ -7,30 +7,6 @@ description: >-
 url: 'https://app.aave.com/'
 metadata:
   pt:
-    - chainId: 196
-      address: '0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362'
-      subtitle: USD₮0
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3
-      description: PT-USDG-29OCT2026 can be used as collateral to borrow USD₮0 on Aave
-    - chainId: 196
-      address: '0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362'
-      subtitle: USDG
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3
-      description: PT-USDG-29OCT2026 can be used as collateral to borrow USDG on Aave
-    - chainId: 196
-      address: '0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362'
-      subtitle: GHO
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3
-      description: PT-USDG-29OCT2026 can be used as collateral to borrow GHO on Aave
-    - chainId: 196
-      address: '0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.aave.com/reserve-overview/?underlyingAsset=0x9a09a9e491db3dd8ada5b1b889991ac9ad5fd362&marketName=proto_xlayer_v3
-      description: PT-USDG-29OCT2026 can be used as collateral to borrow USDC on Aave
     - chainId: 143
       address: '0x8b562578b2f9aa8c14ccda3c5d6cbcead3b06a57'
       subtitle: USDe
