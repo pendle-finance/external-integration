@@ -9,22 +9,6 @@ description: >-
 metadata:
   pt:
     - chainId: 1
-      address: '0xb5be35d8ff83d431899b95851cb17a2b4bcef150'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xb37c30f34bff11c81ee8400133965f450a5f7c5d81ba2cf5740076f49eabc95c
-      description: >-
-        The PT-apyUSD-5NOV2026 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
-    - chainId: 1
-      address: '0xaf687b5ecb525ccea96115088999b4ed80c388b6'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0x908b037029b5c0671ba3b362eaf289c3199560d1d4632e6cb527cc7240fa006e
-      description: >-
-        The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho
-        market with USDC as the loan token.
-    - chainId: 1
       address: '0x7f47c3e6b2c00fc4eb4d5ae50d0ab0ab6888eb4d'
       subtitle: USDC
       integrationUrl: >-
@@ -40,22 +24,6 @@ metadata:
       description: >-
         The PT-reUSD-10DEC2026 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
-    - chainId: 1
-      address: '0xb5be35d8ff83d431899b95851cb17a2b4bcef150'
-      subtitle: apxUSD
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xebd23a871b52e0a8c92bd719f4413600101b69e946cb72923b3a33fb5bc6ec85
-      description: >-
-        The PT-apyUSD-5NOV2026 is the asset used as collateral in a Morpho
-        market with apxUSD as the loan token.
-    - chainId: 1
-      address: '0xaf687b5ecb525ccea96115088999b4ed80c388b6'
-      subtitle: apxUSD
-      integrationUrl: >-
-        https://app.morpho.org/ethereum/market/0xd86df29b48f2d88a0453027212247a29e68ff52c6589c46054f57285da2fa7e3
-      description: >-
-        The PT-apxUSD-5NOV2026 is the asset used as collateral in a Morpho
-        market with apxUSD as the loan token.
     - chainId: 1
       address: '0xecfafdc7741323a945a163ed068b5a3c43483957'
       subtitle: USDT
