@@ -566,13 +566,6 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x86f37ab4c094c768b48eab7bce8d478daf52a5c1f5be4e3abd0bdd501f02c09e",
             "description": "The PT-fxSAVE-29APR2027 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
-          },
-          {
-            "chainId": 143,
-            "address": "0x355e82c60d51d6942bdfd0f2b95a204acd068963",
-            "integrationUrl": "https://app.morpho.org/monad/market/0x08d20c5fcb86795781fd940cdc6e7fac864e9b0318d91d73b3ca360844378651",
-            "description": "The PT-srUSDat-14JAN2027 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
           }
         ],
         "yt": [],
