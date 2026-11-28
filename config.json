@@ -538,13 +538,6 @@
             "integrationUrl": "https://app.morpho.org/ethereum/market/0x4c958cf6158f5209d40da1eaf68957527b3b8ec08cfeaee3a20366dcd8734103",
             "description": "The PT-trUSD-25FEB2027 is the asset used as collateral in a Morpho market with USDC as the loan token.",
             "subtitle": "USDC"
-          },
-          {
-            "chainId": 143,
-            "address": "0x355e82c60d51d6942bdfd0f2b95a204acd068963",
-            "integrationUrl": "https://app.morpho.org/monad/market/0x08d20c5fcb86795781fd940cdc6e7fac864e9b0318d91d73b3ca360844378651",
-            "description": "The PT-srUSDat-14JAN2027 is the asset used as collateral in a Morpho market with USDC as the loan token.",
-            "subtitle": "USDC"
           }
         ],
         "yt": [],
